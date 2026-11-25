@@ -1,0 +1,3886 @@
+{
+  "summer": {
+    "vegetables": [
+      {
+        "name": {
+          "ua": "Огірок",
+          "pl": "Ogórek",
+          "en": "Cucumber"
+        },
+        "note": {
+          "ua": "Охолоджує Піту, зволожує, легко перетравлюється",
+          "pl": "Chładzi Pitę, nawilża, łatwo się trawić",
+          "en": "Cools Pitta, hydrates, easy to digest"
+        }
+      },
+      {
+        "name": {
+          "ua": "Салат",
+          "pl": "Sałata",
+          "en": "Lettuce"
+        },
+        "note": {
+          "ua": "Охолоджуюче, легке, не збільшує Піту",
+          "pl": "Chłodzące, lekkie, nie zwiększa Pitę",
+          "en": "Cooling, light, does not aggravate Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Шпинат",
+          "pl": "Szpinak",
+          "en": "Spinach"
+        },
+        "note": {
+          "ua": "Гірке, в'яжуче, охолоджуючі якості збалансовують Піту",
+          "pl": "Gorzkie, ściągające, chłodzące właściwości balansują Pitę",
+          "en": "Bitter, astringent, cooling properties balance Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Броколі",
+          "pl": "Brokuł",
+          "en": "Broccoli"
+        },
+        "note": {
+          "ua": "Гірке, в'яжуче, охолоджує гарячу Піту",
+          "pl": "Gorzkie, ściągające, chładzi gorącą Pitę",
+          "en": "Bitter, astringent, cools hot Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Цвітна капуста",
+          "pl": "Kalafior",
+          "en": "Cauliflower"
+        },
+        "note": {
+          "ua": "Легко перетравлюється, охолоджуючі властивості",
+          "pl": "Łatwo się trawić, właściwości chłodzące",
+          "en": "Easy to digest, cooling properties"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кабачок",
+          "pl": "Cukinia",
+          "en": "Zucchini"
+        },
+        "note": {
+          "ua": "Охолоджує, зволожує, солодкий смак балансує Піту",
+          "pl": "Chładzi, nawilża, słodki smak balansuje Pitę",
+          "en": "Cools, hydrates, sweet taste balances Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Болгарський перець зелений",
+          "pl": "Papryka zielona",
+          "en": "Green Bell Pepper"
+        },
+        "note": {
+          "ua": "Охолоджуючий, не гострий, легко перетравлюється",
+          "pl": "Chłodzący, nie ostry, łatwo się trawić",
+          "en": "Cooling, not spicy, easy to digest"
+        }
+      },
+      {
+        "name": {
+          "ua": "Томат",
+          "pl": "Pomidor",
+          "en": "Tomato"
+        },
+        "note": {
+          "ua": "Використовувати помірно, кислий смак може збільшити Піту, але в літо припустимо",
+          "pl": "Używać umiarkownie, smak kwaśny może zwiększyć Pitę, ale latem dopuszczalne",
+          "en": "Use moderately, sour taste can increase Pitta, but acceptable in summer"
+        }
+      },
+      {
+        "name": {
+          "ua": "Гарбуз",
+          "pl": "Dynia",
+          "en": "Pumpkin"
+        },
+        "note": {
+          "ua": "Солодкий, охолоджуючий, добрий для Vata-Pitta",
+          "pl": "Słodki, chłodzący, dobry dla Vata-Pitta",
+          "en": "Sweet, cooling, good for Vata-Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Морква",
+          "pl": "Marchew",
+          "en": "Carrot"
+        },
+        "note": {
+          "ua": "Готувати на парі або варити, сирі можуть збільшити Vata",
+          "pl": "Gotować na parze lub warzyć, surowe mogą zwiększyć Vatę",
+          "en": "Steam or boil, raw may increase Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Редис",
+          "pl": "Rzodkiew",
+          "en": "Radish"
+        },
+        "note": {
+          "ua": "В'яжучий смак, охолоджуючий, але не переїдати",
+          "pl": "Smak ściągający, chłodzący, ale nie przejedać",
+          "en": "Astringent taste, cooling, but do not overeat"
+        }
+      },
+      {
+        "name": {
+          "ua": "Цибуля біла",
+          "pl": "Cebula biała",
+          "en": "White Onion"
+        },
+        "note": {
+          "ua": "Використовувати помірно, готувати м'яко, гостринка збільшує Піту",
+          "pl": "Używać umiarkownie, gotować miękko, ostrość zwiększa Pitę",
+          "en": "Use moderately, cook gently, spiciness increases Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Цукіні",
+          "pl": "Cukinia",
+          "en": "Zucchini"
+        },
+        "note": {
+          "ua": "Охолоджує, легка для травлення, ідеальна для літа",
+          "pl": "Chładzi, łatwa do trawienia, idealna na lato",
+          "en": "Cooling, light to digest, ideal for summer"
+        }
+      },
+      {
+        "name": {
+          "ua": "Аспарагус",
+          "pl": "Szparag",
+          "en": "Asparagus"
+        },
+        "note": {
+          "ua": "Охолоджуючий, гіркий смак, добрий для Pitta",
+          "pl": "Chłodzący, gorzki smak, dobry dla Pitta",
+          "en": "Cooling, bitter taste, good for Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Сельдерей",
+          "pl": "Seler",
+          "en": "Celery"
+        },
+        "note": {
+          "ua": "Охолоджує, в'яжучий, легко перетравлюється",
+          "pl": "Chładzi, ściągający, łatwo się trawić",
+          "en": "Cools, astringent, easy to digest"
+        }
+      },
+      {
+        "name": {
+          "ua": "Петрушка",
+          "pl": "Pietruszka",
+          "en": "Parsley"
+        },
+        "note": {
+          "ua": "Охолоджуюча зелень, гірка, добра для регуляції Pitta",
+          "pl": "Chłodzące zioła, gorzkie, dobre do regulacji Pitta",
+          "en": "Cooling herb, bitter, good for regulating Pitta"
+        }
+      }
+    ],
+    "fruits": [
+      {
+        "name": {
+          "ua": "Манго",
+          "pl": "Mango",
+          "en": "Mango"
+        },
+        "note": {
+          "ua": "Сладко-охолоджуюче, але вживати помірно, не переспілі",
+          "pl": "Słodko-chłodzące, ale spożywać umiarkownie, nie nadojrzałe",
+          "en": "Sweet-cooling, but consume moderately, not overripe"
+        }
+      },
+      {
+        "name": {
+          "ua": "Груша",
+          "pl": "Gruszka",
+          "en": "Pear"
+        },
+        "note": {
+          "ua": "Охолоджуюча, в'яжуча, добра для Pitta-Vata",
+          "pl": "Chłodzące, ściągające, dobre dla Pitta-Vata",
+          "en": "Cooling, astringent, good for Pitta-Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Яблуко зелене",
+          "pl": "Jabłko zielone",
+          "en": "Green Apple"
+        },
+        "note": {
+          "ua": "Охолоджуюче, терпке, не збільшує Піту",
+          "pl": "Chłodzące, terpkie, nie zwiększa Pitę",
+          "en": "Cooling, tart, does not increase Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кокос",
+          "pl": "Kokos",
+          "en": "Coconut"
+        },
+        "note": {
+          "ua": "Охолоджуюче, зволожуюче, идеально для Pitta-Vata в літо",
+          "pl": "Chłodzące, nawilżające, idealne dla Pitta-Vata latem",
+          "en": "Cooling, hydrating, ideal for Pitta-Vata in summer"
+        }
+      },
+      {
+        "name": {
+          "ua": "Гранат",
+          "pl": "Granat",
+          "en": "Pomegranate"
+        },
+        "note": {
+          "ua": "Охолоджуючий, терпкий, но не перелишком кислий",
+          "pl": "Chłodzący, terpki, ale nie zbyt kwaśny",
+          "en": "Cooling, tart, but not too sour"
+        }
+      },
+      {
+        "name": {
+          "ua": "Дуля",
+          "pl": "Gruszka dynia",
+          "en": "Prickly Pear"
+        },
+        "note": {
+          "ua": "Охолоджує, зволожує, рідко доступна, але ідеальна",
+          "pl": "Chładzi, nawilża, rzadko dostępna, ale idealna",
+          "en": "Cools, hydrates, rarely available, but ideal"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чорниця",
+          "pl": "Borówka czarna",
+          "en": "Blueberry"
+        },
+        "note": {
+          "ua": "Охолоджує, в'яжучa, добра для травлення",
+          "pl": "Chładzi, ściągająca, dobra do trawienia",
+          "en": "Cools, astringent, good for digestion"
+        }
+      },
+      {
+        "name": {
+          "ua": "Ожина",
+          "pl": "Jeżyna",
+          "en": "Blackberry"
+        },
+        "note": {
+          "ua": "В'яжуча, охолоджуюча, добра для Pitta",
+          "pl": "Ściągająca, chłodzące, dobra dla Pitta",
+          "en": "Astringent, cooling, good for Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Малина",
+          "pl": "Malina",
+          "en": "Raspberry"
+        },
+        "note": {
+          "ua": "Охолоджуюча, гірка, але солодка для балансу",
+          "pl": "Chłodzące, gorzkie, ale słodkie do balansu",
+          "en": "Cooling, slightly bitter, but sweet for balance"
+        }
+      },
+      {
+        "name": {
+          "ua": "Смородина чорна",
+          "pl": "Porzeczka czarna",
+          "en": "Black Currant"
+        },
+        "note": {
+          "ua": "Охолоджує, в'яжуча, добра для Vata-Pitta",
+          "pl": "Chładzi, ściągająca, dobra dla Vata-Pitta",
+          "en": "Cools, astringent, good for Vata-Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Полуниця",
+          "pl": "Truskawka",
+          "en": "Strawberry"
+        },
+        "note": {
+          "ua": "Охолоджуючa, але кислуватa - вживати помірно",
+          "pl": "Chłodzące, ale lekko kwaśne - spożywać umiarkownie",
+          "en": "Cooling, but slightly sour - consume moderately"
+        }
+      },
+      {
+        "name": {
+          "ua": "Виноград зелений",
+          "pl": "Winogrona zielone",
+          "en": "Green Grapes"
+        },
+        "note": {
+          "ua": "Охолоджує, солодкий, в'яжучий, добрий для літа",
+          "pl": "Chładzi, słodkie, ściągające, dobre na lato",
+          "en": "Cools, sweet, astringent, good for summer"
+        }
+      }
+    ],
+    "grains": [
+      {
+        "name": {
+          "ua": "Рис білий",
+          "pl": "Ryż biały",
+          "en": "White Rice"
+        },
+        "note": {
+          "ua": "Охолоджуючий, легко перетравлюється, ідеальний базис",
+          "pl": "Chłodzący, łatwo się trawić, idealny fundament",
+          "en": "Cooling, easy to digest, ideal base"
+        }
+      },
+      {
+        "name": {
+          "ua": "Рис басматі",
+          "pl": "Ryż basmati",
+          "en": "Basmati Rice"
+        },
+        "note": {
+          "ua": "Охолоджуючий, легкий, добрий для Vata-Pitta",
+          "pl": "Chłodzący, lekki, dobry dla Vata-Pitta",
+          "en": "Cooling, light, good for Vata-Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Ячмінь",
+          "pl": "Jęczmień",
+          "en": "Barley"
+        },
+        "note": {
+          "ua": "Охолоджуючий, в'яжучий, гарно регулює Піту",
+          "pl": "Chłodzący, ściągający, dobrze reguluje Pitę",
+          "en": "Cooling, astringent, regulates Pitta well"
+        }
+      },
+      {
+        "name": {
+          "ua": "Пшенична крупа",
+          "pl": "Kasza pszenna",
+          "en": "Wheat Groats"
+        },
+        "note": {
+          "ua": "Охолоджуюча, легка, але не переїдати",
+          "pl": "Chłodzące, lekkie, ale nie przejedać",
+          "en": "Cooling, light, but do not overeat"
+        }
+      },
+      {
+        "name": {
+          "ua": "Просо",
+          "pl": "Proso",
+          "en": "Millet"
+        },
+        "note": {
+          "ua": "Лег ке, охолоджуючo, добре для літа",
+          "pl": "Lekkie, chłodzące, dobre na lato",
+          "en": "Light, cooling, good for summer"
+        }
+      },
+      {
+        "name": {
+          "ua": "Гречка",
+          "pl": "Gryka",
+          "en": "Buckwheat"
+        },
+        "note": {
+          "ua": "Охолоджуюча, гірка, але варити м'яко",
+          "pl": "Chłodzące, gorzkie, ale gotować miękko",
+          "en": "Cooling, bitter, but cook gently"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кукурудза",
+          "pl": "Kukurydza",
+          "en": "Corn"
+        },
+        "note": {
+          "ua": "Охолоджуюча, в'яжуча, але помірно",
+          "pl": "Chłodzące, ściągające, ale umiarkownie",
+          "en": "Cooling, astringent, but moderately"
+        }
+      },
+      {
+        "name": {
+          "ua": "Овес",
+          "pl": "Owies",
+          "en": "Oats"
+        },
+        "note": {
+          "ua": "Питає, охолоджує, але не гарячо готувати",
+          "pl": "Odżywia, chładzi, ale nie gotować gorąco",
+          "en": "Nourishing, cools, but do not cook hot"
+        }
+      }
+    ],
+    "meat": [
+      {
+        "name": {
+          "ua": "Курятина біла",
+          "pl": "Białe mięso drobiowe",
+          "en": "White Chicken"
+        },
+        "note": {
+          "ua": "Охолоджуюче, легко перетравлюється, ідеально для Pitta",
+          "pl": "Chłodzące, łatwo się trawić, idealne dla Pitta",
+          "en": "Cooling, easy to digest, ideal for Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Індичка",
+          "pl": "Indyk",
+          "en": "Turkey"
+        },
+        "note": {
+          "ua": "Охолоджуючa, сухіша за курку, добрa для Pitta-Vata",
+          "pl": "Chłodzące, suche od kurczaka, dobre dla Pitta-Vata",
+          "en": "Cooling, drier than chicken, good for Pitta-Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Крольчатина",
+          "pl": "Mięso z królika",
+          "en": "Rabbit"
+        },
+        "note": {
+          "ua": "Легке, охолоджуюче, традиційно рекомендується",
+          "pl": "Lekkie, chłodzące, tradycyjnie zalecane",
+          "en": "Light, cooling, traditionally recommended"
+        }
+      },
+      {
+        "name": {
+          "ua": "Дичина (олень)",
+          "pl": "Mięso zwierzyny (jeleń)",
+          "en": "Venison"
+        },
+        "note": {
+          "ua": "Охолоджуючa, але дуже сухa - потребує масла",
+          "pl": "Chłodzące, ale bardzo suche - wymaga oleju",
+          "en": "Cooling, but very dry - requires oil"
+        }
+      },
+      {
+        "name": {
+          "ua": "Козлятина",
+          "pl": "Mięso kozy",
+          "en": "Goat Meat"
+        },
+        "note": {
+          "ua": "Охолоджує, легко перетравлюється, традиційна",
+          "pl": "Chładzi, łatwo się trawić, tradycyjna",
+          "en": "Cools, easy to digest, traditional"
+        }
+      },
+      {
+        "name": {
+          "ua": "Перепелка",
+          "pl": "Przepiórka",
+          "en": "Quail"
+        },
+        "note": {
+          "ua": "Легка, охолоджуюча, рідко доступна, але ідеальна",
+          "pl": "Lekka, chłodzące, rzadko dostępna, ale idealna",
+          "en": "Light, cooling, rare but ideal"
+        }
+      }
+    ],
+    "fish": [
+      {
+        "name": {
+          "ua": "Тріска",
+          "pl": "Dorsz",
+          "en": "Cod"
+        },
+        "note": {
+          "ua": "Охолоджуюча, біла, легко перетравлюється",
+          "pl": "Chłodzące, białe, łatwo się trawić",
+          "en": "Cooling, white, easy to digest"
+        }
+      },
+      {
+        "name": {
+          "ua": "Палтус",
+          "pl": "Halibut",
+          "en": "Halibut"
+        },
+        "note": {
+          "ua": "Охолоджуюча, легка, мала жиру",
+          "pl": "Chłodzące, lekka, mało tłuszczu",
+          "en": "Cooling, light, low fat"
+        }
+      },
+      {
+        "name": {
+          "ua": "Морський окунь",
+          "pl": "Okoń morski",
+          "en": "Sea Bass"
+        },
+        "note": {
+          "ua": "Охолоджуюча, легка, добра для літа",
+          "pl": "Chłodzące, lekka, dobra na lato",
+          "en": "Cooling, light, good for summer"
+        }
+      },
+      {
+        "name": {
+          "ua": "Щука",
+          "pl": "Szczupak",
+          "en": "Pike"
+        },
+        "note": {
+          "ua": "Охолоджуюча, суха, потребує масла при готуванні",
+          "pl": "Chłodzące, sucha, wymaga oleju podczas gotowania",
+          "en": "Cooling, dry, requires oil when cooking"
+        }
+      },
+      {
+        "name": {
+          "ua": "Камбала",
+          "pl": "Flounder",
+          "en": "Flounder"
+        },
+        "note": {
+          "ua": "Біла риба, охолоджуюча, легка",
+          "pl": "Biała ryba, chłodzące, lekka",
+          "en": "White fish, cooling, light"
+        }
+      },
+      {
+        "name": {
+          "ua": "Креветки",
+          "pl": "Krewetki",
+          "en": "Shrimp"
+        },
+        "note": {
+          "ua": "Охолоджуючe, легко перетравлюються, але помірно",
+          "pl": "Chłodzące, łatwo się trawić, ale umiarkownie",
+          "en": "Cooling, easy to digest, but moderately"
+        }
+      }
+    ],
+    "dairy": [
+      {
+        "name": {
+          "ua": "Молоко охолоджене",
+          "pl": "Mleko chłodzone",
+          "en": "Chilled Milk"
+        },
+        "note": {
+          "ua": "Охолоджує, зволожує, питай з медом або розвареним рисом",
+          "pl": "Chładzi, nawilża, pij z miodem lub ugotowanym ryżem",
+          "en": "Cools, hydrates, drink with honey or cooked rice"
+        }
+      },
+      {
+        "name": {
+          "ua": "Йогурт",
+          "pl": "Jogurt",
+          "en": "Yogurt"
+        },
+        "note": {
+          "ua": "Охолоджує, але кислий смак уникати - вживати помірно",
+          "pl": "Chładzi, ale unikać kwaśnego smaku - spożywaj umiarkownie",
+          "en": "Cools, but avoid sour taste - consume moderately"
+        }
+      },
+      {
+        "name": {
+          "ua": "Творог",
+          "pl": "Twaróg",
+          "en": "Cottage Cheese"
+        },
+        "note": {
+          "ua": "Охолоджуючий, легко перетравлюється, добрий для літа",
+          "pl": "Chłodzący, łatwo się trawić, dobry na lato",
+          "en": "Cooling, easy to digest, good for summer"
+        }
+      },
+      {
+        "name": {
+          "ua": "Сир свіжий",
+          "pl": "Ser świeży",
+          "en": "Fresh Cheese"
+        },
+        "note": {
+          "ua": "Охолоджує, легко перетравлюється, не солений",
+          "pl": "Chładzi, łatwo się trawić, niesłony",
+          "en": "Cools, easy to digest, unsalted"
+        }
+      },
+      {
+        "name": {
+          "ua": "Гхі (топлене масло)",
+          "pl": "Ghee (masło topione)",
+          "en": "Ghee (Clarified Butter)"
+        },
+        "note": {
+          "ua": "Охолоджує, поживне, але спорідниць добрих жирів",
+          "pl": "Chładzi, pożywne, ale łatwiejsze do trawienia",
+          "en": "Cools, nourishing, but easier to digest"
+        }
+      },
+      {
+        "name": {
+          "ua": "Сироватка",
+          "pl": "Serwatka",
+          "en": "Whey"
+        },
+        "note": {
+          "ua": "Охолоджує, в'яжуча, добра для травлення Pitta",
+          "pl": "Chładzi, ściągająca, dobra do trawienia Pitta",
+          "en": "Cools, astringent, good for Pitta digestion"
+        }
+      }
+    ],
+    "oils": [
+      {
+        "name": {
+          "ua": "Кокосова олія",
+          "pl": "Olej kokosowy",
+          "en": "Coconut Oil"
+        },
+        "note": {
+          "ua": "Охолоджуюча, найкраща для Pitta в літо",
+          "pl": "Chłodzące, najlepsze dla Pitta latem",
+          "en": "Cooling, best for Pitta in summer"
+        }
+      },
+      {
+        "name": {
+          "ua": "Гхі",
+          "pl": "Ghee",
+          "en": "Ghee"
+        },
+        "note": {
+          "ua": "Охолоджує, живить, традиційна для аюрведи",
+          "pl": "Chładzi, odżywia, tradycyjna dla ajurwedy",
+          "en": "Cools, nourishes, traditional for Ayurveda"
+        }
+      },
+      {
+        "name": {
+          "ua": "Оливкова олія",
+          "pl": "Olej z oliwek",
+          "en": "Olive Oil"
+        },
+        "note": {
+          "ua": "Помірно охолоджуюча, використовувати з обмеженням",
+          "pl": "Umiarkowanie chłodzące, używać z ograniczeniami",
+          "en": "Moderately cooling, use with limitation"
+        }
+      },
+      {
+        "name": {
+          "ua": "Масло насіння соняшнику",
+          "pl": "Olej słonecznikowy",
+          "en": "Sunflower Oil"
+        },
+        "note": {
+          "ua": "Охолоджуюча, легка, добра для Pitta",
+          "pl": "Chłodzące, lekkie, dobre dla Pitta",
+          "en": "Cooling, light, good for Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Масло з насіння гарбуза",
+          "pl": "Olej z nasion dyni",
+          "en": "Pumpkin Seed Oil"
+        },
+        "note": {
+          "ua": "Охолоджует, поживне, рідко, але ідеально",
+          "pl": "Chładzi, pożywne, rzadko, ale idealnie",
+          "en": "Cools, nourishing, rare but ideal"
+        }
+      },
+      {
+        "name": {
+          "ua": "Касторова олія",
+          "pl": "Olej rycynowy",
+          "en": "Castor Oil"
+        },
+        "note": {
+          "ua": "Охолоджує, використовувати зовні для масажу Pitta",
+          "pl": "Chładzi, używać zewnętrznie do masażu Pitta",
+          "en": "Cools, use externally for Pitta massage"
+        }
+      }
+    ],
+    "spices": [
+      {
+        "name": {
+          "ua": "Кориандр",
+          "pl": "Kolendra",
+          "en": "Coriander"
+        },
+        "note": {
+          "ua": "Охолоджує, противоспалювальна, ідеальна для Pitta",
+          "pl": "Chładzi, przeciwzapalna, idealna dla Pitta",
+          "en": "Cools, anti-inflammatory, ideal for Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Фенхель",
+          "pl": "Koper włoski",
+          "en": "Fennel"
+        },
+        "note": {
+          "ua": "Охолоджує, солодкий, гарна для травлення",
+          "pl": "Chładzi, słodkie, dobre do trawienia",
+          "en": "Cools, sweet, good for digestion"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кумін",
+          "pl": "Kminek",
+          "en": "Cumin"
+        },
+        "note": {
+          "ua": "Охолоджує, збалансована спеція для Vata-Pitta",
+          "pl": "Chładzi, wyważona przyprawa dla Vata-Pitta",
+          "en": "Cools, balanced spice for Vata-Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Карі листя",
+          "pl": "Liście curry",
+          "en": "Curry Leaves"
+        },
+        "note": {
+          "ua": "Охолоджує, гірка, традиційна індійська приправа",
+          "pl": "Chładzi, gorzkie, tradycyjna indyjska przyprawa",
+          "en": "Cools, bitter, traditional Indian spice"
+        }
+      },
+      {
+        "name": {
+          "ua": "Дзира (кумін)",
+          "pl": "Dżira",
+          "en": "Cumin Seeds"
+        },
+        "note": {
+          "ua": "Охолоджує, улегшує травлення, традиційна",
+          "pl": "Chładzi, ułatwia trawienie, tradycyjna",
+          "en": "Cools, eases digestion, traditional"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кориця",
+          "pl": "Cynamon",
+          "en": "Cinnamon"
+        },
+        "note": {
+          "ua": "Помірно охолоджуючa, допускається в малих кількостях",
+          "pl": "Umiarkowanie chłodzące, dozwolone w małych ilościach",
+          "en": "Moderately cooling, allowed in small amounts"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кардамон зелений",
+          "pl": "Kardamon zielony",
+          "en": "Green Cardamom"
+        },
+        "note": {
+          "ua": "Охолоджує, солодкий аромат, добрий для Pitta",
+          "pl": "Chładzi, słodki aromat, dobry dla Pitta",
+          "en": "Cools, sweet aroma, good for Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "М'ята",
+          "pl": "Mięta",
+          "en": "Mint"
+        },
+        "note": {
+          "ua": "Охолоджує, освіжає, ідеальна для літа",
+          "pl": "Chładzi, orzeźwia, idealna na lato",
+          "en": "Cools, refreshes, ideal for summer"
+        }
+      },
+      {
+        "name": {
+          "ua": "Cilantro (кінза)",
+          "pl": "Kolendra (koriander)",
+          "en": "Cilantro (Coriander Leaf)"
+        },
+        "note": {
+          "ua": "Охолоджує, очищує, свіжа і детоксикуюча",
+          "pl": "Chładzi, oczyszcza, świeża i detoksykująca",
+          "en": "Cools, cleanses, fresh and detoxifying"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чорний перець",
+          "pl": "Czarny pieprz",
+          "en": "Black Pepper"
+        },
+        "note": {
+          "ua": "Гаряче - уникати або мінімум, але допомагає засвоєнню",
+          "pl": "Gorące - unikać lub minimum, ale pomaga przyswajalności",
+          "en": "Hot - avoid or minimal, but aids assimilation"
+        }
+      },
+      {
+        "name": {
+          "ua": "Туrkmerik",
+          "pl": "Kurkuma",
+          "en": "Turmeric"
+        },
+        "note": {
+          "ua": "Охолоджує, противоспалювальна, золотий стандарт",
+          "pl": "Chładzi, przeciwzapalna, złoty standard",
+          "en": "Cools, anti-inflammatory, golden standard"
+        }
+      },
+      {
+        "name": {
+          "ua": "Шафран",
+          "pl": "Szafran",
+          "en": "Saffron"
+        },
+        "note": {
+          "ua": "Охолоджує, люксус, солодкий аромат, добрий для Pitta-Vata",
+          "pl": "Chładzi, luksus, słodki aromat, dobry dla Pitta-Vata",
+          "en": "Cools, luxury, sweet aroma, good for Pitta-Vata"
+        }
+      }
+    ],
+    "teas": [
+      {
+        "name": {
+          "ua": "Чай з кориандру",
+          "pl": "Herbata z kolendry",
+          "en": "Coriander Tea"
+        },
+        "note": {
+          "ua": "Охолоджує, противоспалювальна, напиток для Pitta",
+          "pl": "Chłodzący, przeciwzapalny, napój dla Pitta",
+          "en": "Cooling, anti-inflammatory, drink for Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чай з фенхелю",
+          "pl": "Herbata z kopru włoskiego",
+          "en": "Fennel Tea"
+        },
+        "note": {
+          "ua": "Охолоджує, солодкий, допомагає травленню",
+          "pl": "Chłodzący, słodki, wspomaga trawienie",
+          "en": "Cooling, sweet, aids digestion"
+        }
+      },
+      {
+        "name": {
+          "ua": "М'ятний чай",
+          "pl": "Herbata miętowa",
+          "en": "Mint Tea"
+        },
+        "note": {
+          "ua": "Охолоджує, освіжає, ідеальна для спеку",
+          "pl": "Chłodzący, orzeźwiający, idealny na upały",
+          "en": "Cooling, refreshing, ideal for heat"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чай з квітів гібіскусу",
+          "pl": "Herbata z kwiatów hibiskusa",
+          "en": "Hibiscus Tea"
+        },
+        "note": {
+          "ua": "Охолоджує, кислуватий смак - допускається, поживна",
+          "pl": "Chłodzący, lekko kwaśny smak - dopuszczalny, pożywny",
+          "en": "Cooling, slightly sour taste - acceptable, nourishing"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чай з куркуми та молока",
+          "pl": "Herbata kurkumy i mleka",
+          "en": "Turmeric and Milk Tea"
+        },
+        "note": {
+          "ua": "Золотий чай, охолоджує, противоспалювальна, здоров'яцька",
+          "pl": "Złota herbata, chłodzący, przeciwzapalny, zdrowotny",
+          "en": "Golden tea, cooling, anti-inflammatory, healthful"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кокосова вода з м'ятою",
+          "pl": "Woda kokosowa z miętą",
+          "en": "Coconut Water with Mint"
+        },
+        "note": {
+          "ua": "Охолоджує, зволожує, ідеально для Vata-Pitta в спеку",
+          "pl": "Chłodzący, nawilżający, idealny dla Vata-Pitta w upałach",
+          "en": "Cooling, hydrating, ideal for Vata-Pitta in heat"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чай з квітів лотоса",
+          "pl": "Herbata z kwiatów lotosu",
+          "en": "Lotus Flower Tea"
+        },
+        "note": {
+          "ua": "Охолоджує, заспокійлива, рідко, але ідеально",
+          "pl": "Chłodzący, uspokajający, rzadko, ale idealnie",
+          "en": "Cooling, calming, rare but ideal"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чай з листя шалфею",
+          "pl": "Herbata z liści szałwii",
+          "en": "Sage Leaf Tea"
+        },
+        "note": {
+          "ua": "Охолоджує, в'яжучий, допомагає при запальних процесах",
+          "pl": "Chłodzący, ściągający, pomaga przy procesach zapalnych",
+          "en": "Cooling, astringent, helps with inflammation"
+        }
+      }
+    ]
+  },
+  "autumn": {
+    "vegetables": [
+      {
+        "name": {
+          "ua": "Морква",
+          "pl": "Marchew",
+          "en": "Carrot"
+        },
+        "note": {
+          "ua": "Солодка, теплувата, зволожує Вату без перевантаження Питти.",
+          "pl": "Słodka, rozgrzewająca, nawilża Vatę bez obciążania Pitty.",
+          "en": "Sweet, warming, moisturizes Vata without aggravating Pitta."
+        }
+      },
+      {
+        "name": {
+          "ua": "Гарбуз",
+          "pl": "Dynia",
+          "en": "Pumpkin"
+        },
+        "note": {
+          "ua": "Важкий, маслянистий, ідеальний для Вати осінню, м'який для Питти.",
+          "pl": "Ciężki, tłusty, idealny dla Vaty jesienią, łagodny dla Pitty.",
+          "en": "Heavy, oily, perfect for Vata in autumn, gentle for Pitta."
+        }
+      },
+      {
+        "name": {
+          "ua": "Буряк",
+          "pl": "Burak",
+          "en": "Beetroot"
+        },
+        "note": {
+          "ua": "Теплий, живлящий, гарний для кровообігу без надмірної Питта-активації.",
+          "pl": "Ciepły, odżywczy, dobry dla krążenia bez nadmiernej aktywacji Pitty.",
+          "en": "Warm, nourishing, supports circulation without excessive Pitta activation."
+        }
+      },
+      {
+        "name": {
+          "ua": "Батат",
+          "pl": "Batata",
+          "en": "Sweet potato"
+        },
+        "note": {
+          "ua": "Сліди, важкий, теплий, ідеальний для живлення Вати осінню.",
+          "pl": "Słodki, ciężki, ciepły, idealny do odżywiania Vaty jesienią.",
+          "en": "Sweet, heavy, warm, ideal for nourishing Vata in autumn."
+        }
+      },
+      {
+        "name": {
+          "ua": "Спаржа",
+          "pl": "Szparagi",
+          "en": "Asparagus"
+        },
+        "note": {
+          "ua": "М'яка при готуванні, маслянистість зменшує сухість Вати.",
+          "pl": "Miękka w gotowaniu, tłuszcz zmniejsza suchość Vaty.",
+          "en": "Soft when cooked, oiliness reduces Vata dryness."
+        }
+      },
+      {
+        "name": {
+          "ua": "Капуста цвітна",
+          "pl": "Kalafior",
+          "en": "Cauliflower"
+        },
+        "note": {
+          "ua": "При готуванні з маслом та спеціями легко засвоюється Вата-Піттою.",
+          "pl": "Gotowany z olejem i przyprawami łatwo trawiany przez Vatę-Pittę.",
+          "en": "Cooked with oil and spices, easily digested by Vata-Pitta."
+        }
+      },
+      {
+        "name": {
+          "ua": "Брокколі",
+          "pl": "Brokuł",
+          "en": "Broccoli"
+        },
+        "note": {
+          "ua": "Зелена, насичена, при правильній підготовці гармонійна для обох дош.",
+          "pl": "Zielona, nasycona, prawidłowo przygotowana harmonijnie dla obu doszy.",
+          "en": "Green, nutrient-dense, when properly prepared harmonious for both doshas."
+        }
+      },
+      {
+        "name": {
+          "ua": "Цибуля",
+          "pl": "Cebula",
+          "en": "Onion"
+        },
+        "note": {
+          "ua": "При готуванні на маслі теплувата, живлящає Вату без різкої Питта-активації.",
+          "pl": "Gotowana w oleju rozgrzewająca, odżywia Vatę bez gwałtownej Pitta-aktywacji.",
+          "en": "When cooked in oil, warming, nourishes Vata without sharp Pitta activation."
+        }
+      },
+      {
+        "name": {
+          "ua": "Часник",
+          "pl": "Czosnek",
+          "en": "Garlic"
+        },
+        "note": {
+          "ua": "Теплий, живлящий, у малих кількостях гарний для дигестії Вата-Питти.",
+          "pl": "Ciepły, odżywczy, w małych ilościach dobry do trawienia Vaty-Pitty.",
+          "en": "Warm, nourishing, in small amounts good for Vata-Pitta digestion."
+        }
+      },
+      {
+        "name": {
+          "ua": "Редька",
+          "pl": "Rzodkiew",
+          "en": "Radish"
+        },
+        "note": {
+          "ua": "При готуванні втрачає сухість, при додаванні жирів підходить для Вати.",
+          "pl": "Po gotowaniu traci suchość, dodawanie tłuszczów odpowiada Vacie.",
+          "en": "When cooked loses dryness, adding fats suits Vata."
+        }
+      },
+      {
+        "name": {
+          "ua": "Молодий картопля",
+          "pl": "Młode ziemniaki",
+          "en": "Young potatoes"
+        },
+        "note": {
+          "ua": "Важкі, насичені, усім теплі, основний карб для осінньої Вати.",
+          "pl": "Ciężkie, nasycone, uniwersalnie ciepłe, główny węglowodan dla jesiennej Vaty.",
+          "en": "Heavy, grounding, universally warm, main carb for autumn Vata."
+        }
+      },
+      {
+        "name": {
+          "ua": "Кабачок",
+          "pl": "Kabaczek",
+          "en": "Zucchini"
+        },
+        "note": {
+          "ua": "М'який, при готуванні легкий, не висушує, добре для обох дош.",
+          "pl": "Miękki, łatwy w gotowaniu, nie wysusza, dobry dla obu doszy.",
+          "en": "Soft, easy to cook, not drying, good for both doshas."
+        }
+      },
+      {
+        "name": {
+          "ua": "Черевик (корінь пастернаку)",
+          "pl": "Pasternak",
+          "en": "Parsnip"
+        },
+        "note": {
+          "ua": "Теплий, насичений, солодкаваті, ідеальний для Вата-живлення осінню.",
+          "pl": "Ciepły, nasycony, słodkawy, idealny do odżywiania Vaty jesienią.",
+          "en": "Warm, grounding, slightly sweet, ideal for Vata nourishment in autumn."
+        }
+      },
+      {
+        "name": {
+          "ua": "Селера (корінь)",
+          "pl": "Seler (korzeń)",
+          "en": "Celery root"
+        },
+        "note": {
+          "ua": "Теплий при готуванні, маслянистий, добре для циркуляції без надмірної Питти.",
+          "pl": "Ciepły po gotowaniu, tłusty, dobry dla krążenia bez nadmiernej Pitty.",
+          "en": "Warm when cooked, oily, good for circulation without excess Pitta."
+        }
+      },
+      {
+        "name": {
+          "ua": "Помідор (тепло оброблений)",
+          "pl": "Pomidor (ciepło przetworzony)",
+          "en": "Tomato (warm-cooked)"
+        },
+        "note": {
+          "ua": "Тільки варений, припущений, легший для Питти, живлящий для Вати.",
+          "pl": "Tylko gotowany, duszony, łatwiejszy dla Pitty, odżywczy dla Vaty.",
+          "en": "Only cooked, stewed, easier for Pitta, nourishing for Vata."
+        }
+      }
+    ],
+    "fruits": [
+      {
+        "name": {
+          "ua": "Груша",
+          "pl": "Gruszka",
+          "en": "Pear"
+        },
+        "note": {
+          "ua": "Солодка, важка, маслянистість зменшує сухість Вати без перегріву Питти.",
+          "pl": "Słodka, ciężka, tłusty zmniejsza suchość Vaty bez przegrzania Pitty.",
+          "en": "Sweet, heavy, oiliness reduces Vata dryness without Pitta overheating."
+        }
+      },
+      {
+        "name": {
+          "ua": "Яблуко (варене)",
+          "pl": "Jabłko (gotowane)",
+          "en": "Apple (cooked)"
+        },
+        "note": {
+          "ua": "При варінні м'якше, живлящо для Вати, не дратує Питту.",
+          "pl": "Po gotowaniu miękksze, odżywcze dla Vaty, nie drażni Pitty.",
+          "en": "When cooked softer, nourishing for Vata, doesn't irritate Pitta."
+        }
+      },
+      {
+        "name": {
+          "ua": "Банан",
+          "pl": "Banan",
+          "en": "Banana"
+        },
+        "note": {
+          "ua": "Теплий, важкий, кремовий, ідеальний балансер Вата-Питти в осінь.",
+          "pl": "Ciepły, ciężki, kremowy, idealny balancer Vaty-Pitty jesienią.",
+          "en": "Warm, heavy, creamy, ideal balancer for Vata-Pitta in autumn."
+        }
+      },
+      {
+        "name": {
+          "ua": "Авокадо",
+          "pl": "Awokado",
+          "en": "Avocado"
+        },
+        "note": {
+          "ua": "Олійне, важке, розслаблюючи, дуже добре для сухої Вати без надмірної Питти.",
+          "pl": "Tłuste, ciężkie, relaksujące, bardzo dobre dla suchej Vaty bez nadmiernej Pitty.",
+          "en": "Oily, heavy, relaxing, very good for dry Vata without excess Pitta."
+        }
+      },
+      {
+        "name": {
+          "ua": "Персик",
+          "pl": "Brzoskwinia",
+          "en": "Peach"
+        },
+        "note": {
+          "ua": "Солодкий, теплий, поживний для Вати, мягкий для Питти в сезон переходу.",
+          "pl": "Słodki, ciepły, odżywczy dla Vaty, łagodny dla Pitty w sezonie przejścia.",
+          "en": "Sweet, warm, nourishing for Vata, gentle for Pitta in transitional season."
+        }
+      },
+      {
+        "name": {
+          "ua": "Абрикос",
+          "pl": "Morela",
+          "en": "Apricot"
+        },
+        "note": {
+          "ua": "Теплий, легший, живлящий, рекомендується у сушеному вигляді для осені.",
+          "pl": "Ciepły, lżejszy, odżywczy, zalecany w postaci suchej na jesień.",
+          "en": "Warm, lighter, nourishing, recommended in dried form for autumn."
+        }
+      },
+      {
+        "name": {
+          "ua": "Слива",
+          "pl": "Śliwka",
+          "en": "Plum"
+        },
+        "note": {
+          "ua": "Легка дигестія, м'ятка, теплувата, гарна для рухливості Вати.",
+          "pl": "Łatwa trawienie, miękka, lekko rozgrzewająca, dobra dla mobilności Vaty.",
+          "en": "Easy digestion, soft, slightly warm, good for Vata mobility."
+        }
+      },
+      {
+        "name": {
+          "ua": "Інжир",
+          "pl": "Figa",
+          "en": "Fig"
+        },
+        "note": {
+          "ua": "Дуже живлящий, поживний, при замочуванні теплий, ідеальний для Вати.",
+          "pl": "Bardzo odżywczy, bogatonutritywny, po moczeniu ciepły, idealny dla Vaty.",
+          "en": "Very nourishing, nutrient-rich, warm when soaked, ideal for Vata."
+        }
+      },
+      {
+        "name": {
+          "ua": "Виноград темний",
+          "pl": "Winogrona ciemne",
+          "en": "Dark grapes"
+        },
+        "note": {
+          "ua": "Солодкий, важкий, живлящий, хороший для Вата-живлення без перегріву.",
+          "pl": "Słodki, ciężki, odżywczy, dobry do odżywiania Vaty bez przegrzania.",
+          "en": "Sweet, heavy, nourishing, good for Vata nourishment without overheating."
+        }
+      },
+      {
+        "name": {
+          "ua": "Мандарин",
+          "pl": "Mandarynka",
+          "en": "Mandarin"
+        },
+        "note": {
+          "ua": "Солодкий, теплий, легка дигестія, для Вати м'якша за апельсин.",
+          "pl": "Słodki, ciepły, łatwa trawienie, dla Vaty łagodniejszy niż pomarańcza.",
+          "en": "Sweet, warm, easy digestion, gentler for Vata than orange."
+        }
+      },
+      {
+        "name": {
+          "ua": "Айва",
+          "pl": "Pigwa",
+          "en": "Quince"
+        },
+        "note": {
+          "ua": "Варена, теплована, в'яжучий смак, дуже добра для дигестії Вата-Питти.",
+          "pl": "Gotowana, rozgrzewana, cierpki smak, bardzo dobra dla trawienia Vaty-Pitty.",
+          "en": "Cooked, warm, astringent taste, very good for Vata-Pitta digestion."
+        }
+      },
+      {
+        "name": {
+          "ua": "Ягода годжі",
+          "pl": "Jagody goji",
+          "en": "Goji berries"
+        },
+        "note": {
+          "ua": "Теплі, живлящі, при замочуванні м'які, відбудовуючі для осінньої Вати.",
+          "pl": "Ciepłe, odżywcze, po moczeniu miękkie, regenerujące dla jesiennej Vaty.",
+          "en": "Warm, nourishing, soft when soaked, restorative for autumn Vata."
+        }
+      }
+    ],
+    "grains": [
+      {
+        "name": {
+          "ua": "Рис басматі",
+          "pl": "Ryż basmati",
+          "en": "Basmati rice"
+        },
+        "note": {
+          "ua": "Теплий, легкий, найкращий для Вата-Питти, добре варений живлячить.",
+          "pl": "Ciepły, lekki, najlepszy dla Vaty-Pitty, dobrze ugotowany odżywia.",
+          "en": "Warm, light, best for Vata-Pitta, well-cooked nourishes well."
+        }
+      },
+      {
+        "name": {
+          "ua": "Пшеничні висівки",
+          "pl": "Otręby pszeniczne",
+          "en": "Wheat bran"
+        },
+        "note": {
+          "ua": "При варінні розм'якшуються, живлять і не висушують при правильної готівці.",
+          "pl": "Po gotowaniu miękną, odżywiają i nie wysuszają przy właściwym przygotowaniu.",
+          "en": "Soften when cooked, nourish without drying with proper preparation."
+        }
+      },
+      {
+        "name": {
+          "ua": "Ячмінь",
+          "pl": "Jęczmień",
+          "en": "Barley"
+        },
+        "note": {
+          "ua": "Теплий, важкий, живлящий, традиційна зернова для осінньої Вати.",
+          "pl": "Ciepły, ciężki, odżywczy, tradycyjne zboże dla jesiennej Vaty.",
+          "en": "Warm, heavy, nourishing, traditional grain for autumn Vata."
+        }
+      },
+      {
+        "name": {
+          "ua": "Овес",
+          "pl": "Owies",
+          "en": "Oats"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, покриває суху Вату, ідеальний каша на сніданок.",
+          "pl": "Ciepły, tłusty, pokrywa suchą Vatę, idealny kasz na śniadanie.",
+          "en": "Warm, oily, covers dry Vata, ideal porridge for breakfast."
+        }
+      },
+      {
+        "name": {
+          "ua": "Полба",
+          "pl": "Spełta",
+          "en": "Spelt"
+        },
+        "note": {
+          "ua": "Легша за пшеницю, теплувата, живлячи Вату без перевантаження.",
+          "pl": "Lżejsza od pszenicy, mało rozgrzewająca, odżywia Vatę bez przeciążenia.",
+          "en": "Lighter than wheat, slightly warming, nourishes Vata without overloading."
+        }
+      },
+      {
+        "name": {
+          "ua": "Рис круглозернистий",
+          "pl": "Ryż okrągłozarnisty",
+          "en": "Short-grain rice"
+        },
+        "note": {
+          "ua": "Важкіший, липкіший, більше заземлює Вату ніж басматі.",
+          "pl": "Cięższy, lepszy, bardziej uziemnia Vatę niż basmati.",
+          "en": "Heavier, stickier, grounds Vata more than basmati."
+        }
+      },
+      {
+        "name": {
+          "ua": "Жито",
+          "pl": "Żyto",
+          "en": "Rye"
+        },
+        "note": {
+          "ua": "Теплувате, важке, живлячи для Вати, при малих кількостях для Питти.",
+          "pl": "Lekko rozgrzewające, ciężkie, odżywcze dla Vaty, w małych ilościach dla Pitty.",
+          "en": "Slightly warming, heavy, nourishing for Vata, in small amounts for Pitta."
+        }
+      },
+      {
+        "name": {
+          "ua": "Гречка",
+          "pl": "Gryka",
+          "en": "Buckwheat"
+        },
+        "note": {
+          "ua": "Теплувата при готуванні з маслом, живлячи для осінньої Вати.",
+          "pl": "Lekko rozgrzewająca po gotowaniu z olejem, odżywcza dla jesiennej Vaty.",
+          "en": "Slightly warming when cooked with oil, nourishing for autumn Vata."
+        }
+      }
+    ],
+    "meat": [
+      {
+        "name": {
+          "ua": "Курятина (грудка, варена)",
+          "pl": "Drób (pierś, gotowana)",
+          "en": "Chicken (breast, cooked)"
+        },
+        "note": {
+          "ua": "Теплувата, легша для дигестії, при готуванні з маслом гарна для Вата-Питти.",
+          "pl": "Lekko rozgrzewająca, łatwiejsza do trawienia, gotowana z olejem dobra dla Vaty-Pitty.",
+          "en": "Slightly warm, easier to digest, when cooked with oil good for Vata-Pitta."
+        }
+      },
+      {
+        "name": {
+          "ua": "Індиця",
+          "pl": "Indyk",
+          "en": "Turkey"
+        },
+        "note": {
+          "ua": "Теплувата, суха за природою але при готуванні з маслом живе Вату.",
+          "pl": "Lekko rozgrzewająca, sucha z natury ale gotowana z olejem odżywia Vatę.",
+          "en": "Slightly warming, dry by nature but nourishes Vata when cooked with oil."
+        }
+      },
+      {
+        "name": {
+          "ua": "М'ясо кролика",
+          "pl": "Mięso królika",
+          "en": "Rabbit meat"
+        },
+        "note": {
+          "ua": "Теплувате, легше засвоюється, балансує обидві дошi без перевантаження.",
+          "pl": "Lekko rozgrzewające, łatwiej przyswajane, balansuje obie dosze bez przeciążenia.",
+          "en": "Slightly warm, easier to assimilate, balances both doshas without overloading."
+        }
+      },
+      {
+        "name": {
+          "ua": "М'ясо ягняти",
+          "pl": "Mięso jagnięcia",
+          "en": "Lamb meat"
+        },
+        "note": {
+          "ua": "Теплувате, живлячи, добре для Вати в осінь при правильній готівці.",
+          "pl": "Lekko rozgrzewające, odżywcze, dobre dla Vaty jesienią przy właściwym przygotowaniu.",
+          "en": "Slightly warm, nourishing, good for Vata in autumn with proper cooking."
+        }
+      },
+      {
+        "name": {
+          "ua": "Бульйон кісткових",
+          "pl": "Bulion kostny",
+          "en": "Bone broth"
+        },
+        "note": {
+          "ua": "Теплий, живлячи, дуже добрий для зміцнення Вати і дигестії.",
+          "pl": "Ciepły, odżywczy, bardzo dobry do wzmocnienia Vaty i trawienia.",
+          "en": "Warm, nourishing, very good for strengthening Vata and digestion."
+        }
+      },
+      {
+        "name": {
+          "ua": "Качка (з білим м'ясом)",
+          "pl": "Kaczka (z białym mięsem)",
+          "en": "Duck (white meat)"
+        },
+        "note": {
+          "ua": "Теплувата, жирна, при готуванні на маслі живе осінню Вату.",
+          "pl": "Lekko rozgrzewająca, tłusta, gotowana na oleju żywi jesienną Vatę.",
+          "en": "Slightly warm, fatty, when cooked in oil nourishes autumn Vata."
+        }
+      }
+    ],
+    "fish": [
+      {
+        "name": {
+          "ua": "Лосось",
+          "pl": "Łosoś",
+          "en": "Salmon"
+        },
+        "note": {
+          "ua": "Теплий, жирний, дуже добрий для Вата живлення, омега-3 для обох дош.",
+          "pl": "Ciepły, tłusty, bardzo dobry do odżywiania Vaty, omega-3 dla obu doszy.",
+          "en": "Warm, fatty, very good for Vata nourishment, omega-3 for both doshas."
+        }
+      },
+      {
+        "name": {
+          "ua": "Форель",
+          "pl": "Pstrąg",
+          "en": "Trout"
+        },
+        "note": {
+          "ua": "Теплувата, розслаблюючо-живлячи, при готуванні з маслом пріш для Вати.",
+          "pl": "Lekko rozgrzewająca, relaksująco-odżywcza, gotowana z olejem dobra dla Vaty.",
+          "en": "Slightly warming, relaxing-nourishing, when cooked with oil good for Vata."
+        }
+      },
+      {
+        "name": {
+          "ua": "Скумбрія",
+          "pl": "Makrela",
+          "en": "Mackerel"
+        },
+        "note": {
+          "ua": "Теплувата, жирна, богата мінералами для осінньої Вата-восстановлення.",
+          "pl": "Lekko rozgrzewająca, tłusta, bogata w minerały do jesiennej Vaty-regeneracji.",
+          "en": "Slightly warm, fatty, mineral-rich for autumn Vata restoration."
+        }
+      },
+      {
+        "name": {
+          "ua": "Карась",
+          "pl": "Karasie",
+          "en": "Crucian carp"
+        },
+        "note": {
+          "ua": "Теплувата, мідкіша, традиційна для осіння, добра для суху Вату.",
+          "pl": "Lekko rozgrzewająca, mniej tłusta, tradycyjna na jesień, dobra dla suchej Vaty.",
+          "en": "Slightly warm, less fatty, traditional for autumn, good for dry Vata."
+        }
+      },
+      {
+        "name": {
+          "ua": "Селедка (малосольна)",
+          "pl": "Śledź (mało słony)",
+          "en": "Herring (lightly salted)"
+        },
+        "note": {
+          "ua": "Теплувата, жирна, при мінімальній солі живе Вату без раздратування.",
+          "pl": "Lekko rozgrzewająca, tłusta, przy minimalnej soli żywi Vatę bez drażnienia.",
+          "en": "Slightly warming, fatty, with minimal salt nourishes Vata without irritation."
+        }
+      },
+      {
+        "name": {
+          "ua": "Креветки",
+          "pl": "Krewetki",
+          "en": "Shrimp"
+        },
+        "note": {
+          "ua": "Теплі, легші за біла риба, при готуванні з маслом гарні для Вати.",
+          "pl": "Ciepłe, lżejsze niż biała ryba, gotowane z olejem dobre dla Vaty.",
+          "en": "Warm, lighter than white fish, when cooked with oil good for Vata."
+        }
+      }
+    ],
+    "dairy": [
+      {
+        "name": {
+          "ua": "Коров'яче молоко (теплий) ",
+          "pl": "Mleko krowwe (ciepłe)",
+          "en": "Cow milk (warm)"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлячий, при додаванні спецій балансує обидві дошi.",
+          "pl": "Ciepły, tłusty, odżywczy, z dodatkiem przypraw balansuje obie dosze.",
+          "en": "Warm, oily, nourishing, with added spices balances both doshas."
+        }
+      },
+      {
+        "name": {
+          "ua": "Йогурт (теплий, м'який)",
+          "pl": "Jogurt (ciepły, miękki)",
+          "en": "Yogurt (warm, mild)"
+        },
+        "note": {
+          "ua": "При підігріванні і додаванні спецій живлячий для Вати, легший за молоко.",
+          "pl": "Po podgrzaniu i dodaniu przypraw odżywczy dla Vaty, lżejszy od mleka.",
+          "en": "When heated and spiced, nourishing for Vata, lighter than milk."
+        }
+      },
+      {
+        "name": {
+          "ua": "Масло (гхі, топлене)",
+          "pl": "Masło (ghee, topione)",
+          "en": "Ghee (clarified butter)"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, найкращий жир для Вата-Питти в осінь.",
+          "pl": "Ciepły, tłusty, najlepszy tłuszcz dla Vaty-Pitty jesienią.",
+          "en": "Warm, oily, best fat for Vata-Pitta in autumn."
+        }
+      },
+      {
+        "name": {
+          "ua": "Сир (кремовий, м'який)",
+          "pl": "Ser (kremowy, miękki)",
+          "en": "Cheese (creamy, soft)"
+        },
+        "note": {
+          "ua": "Маслянистий, живлячий при малих кількостях, добре для Вата-важкості.",
+          "pl": "Tłusty, odżywczy w małych ilościach, dobry dla Vaty-ciężaru.",
+          "en": "Oily, nourishing in small amounts, good for Vata grounding."
+        }
+      },
+      {
+        "name": {
+          "ua": "Сметана",
+          "pl": "Śmietana",
+          "en": "Sour cream"
+        },
+        "note": {
+          "ua": "Теплувата, маслянистість, живлячи для Вати без перевантаження Питти.",
+          "pl": "Lekko rozgrzewająca, tłusta, odżywcza dla Vaty bez obciążania Pitty.",
+          "en": "Slightly warming, oily, nourishing for Vata without burdening Pitta."
+        }
+      },
+      {
+        "name": {
+          "ua": "Творог з маслом",
+          "pl": "Twaróg z masłem",
+          "en": "Cottage cheese with butter"
+        },
+        "note": {
+          "ua": "При додаванні топленого масла живлячи для Вати, висобрати м'якший варіант.",
+          "pl": "Z dodatkiem topionego masła odżywczy dla Vaty, wybrać miekszy wariant.",
+          "en": "With added ghee nourishing for Vata, choose softer version."
+        }
+      }
+    ],
+    "oils": [
+      {
+        "name": {
+          "ua": "Гхі (топлене масло)",
+          "pl": "Ghee (masło topione)",
+          "en": "Ghee (clarified butter)"
+        },
+        "note": {
+          "ua": "Теплий, найкращий для Вата-Питти, основне масло для готівки в осінь.",
+          "pl": "Ciepły, najlepszy dla Vaty-Pitty, główne masło do gotowania jesienią.",
+          "en": "Warm, best for Vata-Pitta, main oil for cooking in autumn."
+        }
+      },
+      {
+        "name": {
+          "ua": "Сезамова олія",
+          "pl": "Olej sezamowy",
+          "en": "Sesame oil"
+        },
+        "note": {
+          "ua": "Теплувата, живлячи, традиційна для осінньої Вата, добра для массажу.",
+          "pl": "Lekko rozgrzewająca, odżywcza, tradycyjna dla jesiennej Vaty, dobra do masażu.",
+          "en": "Slightly warming, nourishing, traditional for autumn Vata, good for massage."
+        }
+      },
+      {
+        "name": {
+          "ua": "Оливкова олія",
+          "pl": "Olej z oliwek",
+          "en": "Olive oil"
+        },
+        "note": {
+          "ua": "Маслянистість живлячи, добра для Вати при додаванні спеціїй та готівці.",
+          "pl": "Tłuszcz odżywczy, dobry dla Vaty z dodatkiem przypraw i gotowania.",
+          "en": "Oily nourishing, good for Vata when spiced and cooked."
+        }
+      },
+      {
+        "name": {
+          "ua": "Мигдальна олія",
+          "pl": "Olej migdałowy",
+          "en": "Almond oil"
+        },
+        "note": {
+          "ua": "Теплувата, розслаблюючі, чудова для дигестії Вата-Питти при лагідному використанні.",
+          "pl": "Lekko rozgrzewająca, relaksująca, cudowna do trawienia Vaty-Pitty przy łagodnym użytku.",
+          "en": "Slightly warming, relaxing, wonderful for Vata-Pitta digestion with gentle use."
+        }
+      },
+      {
+        "name": {
+          "ua": "Кокосова олія",
+          "pl": "Olej kokosowy",
+          "en": "Coconut oil"
+        },
+        "note": {
+          "ua": "При теплій готівці гарна, трохи холодна за природею але при нагріванні балансує.",
+          "pl": "Przy ciepłym gotowaniu dobra, lekko zimna z natury ale przy nagrzewaniu balansuje.",
+          "en": "Good for warm cooking, slightly cool by nature but balances when heated."
+        }
+      },
+      {
+        "name": {
+          "ua": "Соняшникова олія (обмежено)",
+          "pl": "Olej słonecznikowy (ograniczone)",
+          "en": "Sunflower oil (limited)"
+        },
+        "note": {
+          "ua": "Нейтральна, при малій кількості гарна, не найлепша для Питти.",
+          "pl": "Neutralna, w małej ilości dobra, nie najlepsza dla Pitty.",
+          "en": "Neutral, good in small amounts, not best for Pitta."
+        }
+      }
+    ],
+    "spices": [
+      {
+        "name": {
+          "ua": "Імбир (свіжий)",
+          "pl": "Imbir (świeży)",
+          "en": "Ginger (fresh)"
+        },
+        "note": {
+          "ua": "Теплий, живлячи, дуже добрий для дигестії та тепла в осінь.",
+          "pl": "Ciepły, odżywczy, bardzo dobry dla trawienia i ciepła jesienią.",
+          "en": "Warm, nourishing, very good for digestion and warmth in autumn."
+        }
+      },
+      {
+        "name": {
+          "ua": "Куркума",
+          "pl": "Kurkuma",
+          "en": "Turmeric"
+        },
+        "note": {
+          "ua": "Теплувата, анти-запальна, живлячи для Вата-Питти при правильній дозі.",
+          "pl": "Lekko rozgrzewająca, anty-zapalna, odżywcza dla Vaty-Pitty przy właściwej dawce.",
+          "en": "Slightly warming, anti-inflammatory, nourishing for Vata-Pitta with proper dose."
+        }
+      },
+      {
+        "name": {
+          "ua": "Кориця",
+          "pl": "Cynamon",
+          "en": "Cinnamon"
+        },
+        "note": {
+          "ua": "Теплувата, солодкуватість, живлячи Вату без перегріву Питти.",
+          "pl": "Lekko rozgrzewająca, słodkawość, odżywia Vatę bez przegrzania Pitty.",
+          "en": "Slightly warming, slight sweetness, nourishes Vata without Pitta overheating."
+        }
+      },
+      {
+        "name": {
+          "ua": "Кліщувати (гвоздика)",
+          "pl": "Goździki",
+          "en": "Cloves"
+        },
+        "note": {
+          "ua": "Теплий, дигестивний, у малих кількостях гарний для Вата-стравлення.",
+          "pl": "Ciepły, trawienną, w małych ilościach dobry dla Vata-trawienia.",
+          "en": "Warm, digestive, in small amounts good for Vata digestion."
+        }
+      },
+      {
+        "name": {
+          "ua": "Кардамон",
+          "pl": "Kardamon",
+          "en": "Cardamom"
+        },
+        "note": {
+          "ua": "Теплий, розслабляючи, видалює газ з Вати при готівці разом з їжею.",
+          "pl": "Ciepły, relaksujący, usuwa gazy z Vaty przy gotowaniu z jedzeniem.",
+          "en": "Warm, relaxing, removes gas from Vata when cooked with food."
+        }
+      },
+      {
+        "name": {
+          "ua": "Мускатний горіх",
+          "pl": "Gałka muszkatołowa",
+          "en": "Nutmeg"
+        },
+        "note": {
+          "ua": "Теплий, розслабляє нервову систему Вати, у малих кількостях.",
+          "pl": "Ciepły, rozluźnia układ nerwowy Vaty, w małych ilościach.",
+          "en": "Warm, relaxes Vata nervous system, in small amounts."
+        }
+      },
+      {
+        "name": {
+          "ua": "Чорний перець",
+          "pl": "Czarny pieprz",
+          "en": "Black pepper"
+        },
+        "note": {
+          "ua": "Теплий, живлячи кров обіг, трохи гарячий для Питти у кількості.",
+          "pl": "Ciepły, odżywia krwoobrót, trochę gorący dla Pitty w ilości.",
+          "en": "Warm, nourishes circulation, slightly hot for Pitta in quantity."
+        }
+      },
+      {
+        "name": {
+          "ua": "Зіра (кмин)",
+          "pl": "Kminek",
+          "en": "Cumin"
+        },
+        "note": {
+          "ua": "Теплувата, живлячи дигестію, традиційна спеція для Вата-готівки.",
+          "pl": "Lekko rozgrzewająca, odżywia trawienie, tradycyjna przyprava do Vata-gotowania.",
+          "en": "Slightly warming, nourishes digestion, traditional spice for Vata cooking."
+        }
+      },
+      {
+        "name": {
+          "ua": "Коріандр",
+          "pl": "Kolendra",
+          "en": "Coriander"
+        },
+        "note": {
+          "ua": "Теплий, охолоджуючо мякий для Питти, живлячи для Вати при разом.",
+          "pl": "Ciepły, chłodzący miękkość dla Pitty, odżywczy dla Vaty w razem.",
+          "en": "Warm, cooling-gentle for Pitta, nourishing for Vata together."
+        }
+      },
+      {
+        "name": {
+          "ua": "Базилік",
+          "pl": "Bazylika",
+          "en": "Basil"
+        },
+        "note": {
+          "ua": "Теплий, тонізуючий, гарний для розуму Вати, свіжий у сухому вигляді.",
+          "pl": "Ciepły, tonizujący, dobry dla umysłu Vaty, świeży w postaci suchej.",
+          "en": "Warm, tonifying, good for Vata mind, fresh in dried form."
+        }
+      },
+      {
+        "name": {
+          "ua": "Фенхель",
+          "pl": "Koper włoski",
+          "en": "Fennel"
+        },
+        "note": {
+          "ua": "Теплий, розслабляючи, видалює газ з Вати при використанні спеції чі насіння.",
+          "pl": "Ciepły, relaksujący, usuwa gazy z Vaty przy użytkowaniu spacji lub nasion.",
+          "en": "Warm, relaxing, removes Vata gas when used as spice or seeds."
+        }
+      },
+      {
+        "name": {
+          "ua": "М'ята",
+          "pl": "Mięta",
+          "en": "Mint"
+        },
+        "note": {
+          "ua": "Охолоджуюча для Питти, при теплій готівці з маслом гарна для Вата-Питти.",
+          "pl": "Chłodząca dla Pitty, przy ciepłym gotowaniu z olejem dobra dla Vaty-Pitty.",
+          "en": "Cooling for Pitta, when cooked warm with oil good for Vata-Pitta."
+        }
+      }
+    ],
+    "teas": [
+      {
+        "name": {
+          "ua": "Чай з імбиру та кориці",
+          "pl": "Herbata z imbiru i cynamonu",
+          "en": "Ginger and cinnamon tea"
+        },
+        "note": {
+          "ua": "Теплий, живлячи, стимулює дигестію, ідеальний для осінньої Вати.",
+          "pl": "Ciepły, odżywczy, stymuluje trawienie, idealny dla jesiennej Vaty.",
+          "en": "Warm, nourishing, stimulates digestion, ideal for autumn Vata."
+        }
+      },
+      {
+        "name": {
+          "ua": "Настій з чорного кмину",
+          "pl": "Napar z czarnuszki",
+          "en": "Black cumin infusion"
+        },
+        "note": {
+          "ua": "Теплий, живлячи, традиційний для укріплення Вата-імунітету в осінь.",
+          "pl": "Ciepły, odżywczy, tradycyjny do wzmocnienia Vata-odporności jesienią.",
+          "en": "Warm, nourishing, traditional for strengthening Vata immunity in autumn."
+        }
+      },
+      {
+        "name": {
+          "ua": "Мідний чай з медом",
+          "pl": "Herbata miodowa z miodem",
+          "en": "Honey herbal tea"
+        },
+        "note": {
+          "ua": "При додаванні теплого меду живлячи для Вати, заспокійлюючий для Питти.",
+          "pl": "Z dodatkiem ciepłego miodu odżywczy dla Vaty, uspokajający dla Pitty.",
+          "en": "With added warm honey nourishing for Vata, calming for Pitta."
+        }
+      },
+      {
+        "name": {
+          "ua": "Настій з твердженого молока (боулі)",
+          "pl": "Napar z zagotowanego mleka (bawół)",
+          "en": "Warm milk infusion (Bawli)"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, дуже живлячи для Вата-відновлення, традиційний рецепт.",
+          "pl": "Ciepły, tłusty, bardzo odżywczy do Vata-regeneracji, tradycyjny przepis.",
+          "en": "Warm, oily, very nourishing for Vata restoration, traditional recipe."
+        }
+      },
+      {
+        "name": {
+          "ua": "Чай з кардамону і розмарину",
+          "pl": "Herbata z kardamonu i rozmarynu",
+          "en": "Cardamom and rosemary tea"
+        },
+        "note": {
+          "ua": "Теплий, розслабляючи, гарний для розуму і дигестії Вата-Питти.",
+          "pl": "Ciepły, relaksujący, dobry dla umysłu i trawienia Vaty-Pitty.",
+          "en": "Warm, relaxing, good for Vata-Pitta mind and digestion."
+        }
+      },
+      {
+        "name": {
+          "ua": "Настій з листя кропиву",
+          "pl": "Napar z liści крапиви",
+          "en": "Nettle leaf infusion"
+        },
+        "note": {
+          "ua": "Живлячи мінералами, теплий при приготуванні, добрий для енергії Вати.",
+          "pl": "Odżywczy minerałami, ciepły przy przygotowaniu, dobry dla energii Vaty.",
+          "en": "Mineral-nourishing, warm when prepared, good for Vata energy."
+        }
+      },
+      {
+        "name": {
+          "ua": "Настій з сухофруктів та спецій",
+          "pl": "Napar ze suszonych owoców i przypraw",
+          "en": "Dried fruit and spice infusion"
+        },
+        "note": {
+          "ua": "Теплий, розслабляючи, сласкі смаки для Вати без перегріву Питти.",
+          "pl": "Ciepły, relaksujący, słodkie smaki dla Vaty bez przegrzania Pitty.",
+          "en": "Warm, relaxing, sweet flavors for Vata without Pitta overheating."
+        }
+      },
+      {
+        "name": {
+          "ua": "Золотистий чай (туrmeric milk)",
+          "pl": "Złoty czaj (mleko z kurkumą)",
+          "en": "Golden milk (turmeric tea)"
+        },
+        "note": {
+          "ua": "Теплий, живлячи, анти-запальний, ідеальний для осінньої Вата-Питти.",
+          "pl": "Ciepły, odżywczy, anty-zapalny, idealny dla jesiennej Vaty-Pitty.",
+          "en": "Warm, nourishing, anti-inflammatory, ideal for autumn Vata-Pitta."
+        }
+      }
+    ]
+  },
+  "winter": {
+    "vegetables": [
+      {
+        "name": {
+          "ua": "Морква",
+          "pl": "Marchew",
+          "en": "Carrot"
+        },
+        "note": {
+          "ua": "Теплий, солодкий овоч що зменшує Вату і підтримує Питту",
+          "pl": "Ciepły, słodki warzywo zmniejszające Vatę i wspierające Pittę",
+          "en": "Warm, sweet vegetable that reduces Vata and supports Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Буряк",
+          "pl": "Buraki",
+          "en": "Beet"
+        },
+        "note": {
+          "ua": "Живлення, маслянисте, заземлює Вату в холодну пору",
+          "pl": "Odżywcze, tłuste, uziemiające Vatę w chłodnym sezonie",
+          "en": "Nourishing, oily, grounds Vata in cold season"
+        }
+      },
+      {
+        "name": {
+          "ua": "Солодка картопля",
+          "pl": "Słodki ziemniak",
+          "en": "Sweet potato"
+        },
+        "note": {
+          "ua": "Важке, теплое, маслянисте коренеплід гармонізує Вату",
+          "pl": "Ciężkie, ciepłe, tłuste warzywo korzeniowe harmonizuje Vatę",
+          "en": "Heavy, warm, oily root vegetable that harmonizes Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Гарбуз",
+          "pl": "Dynia",
+          "en": "Pumpkin"
+        },
+        "note": {
+          "ua": "Солодкий, легко перетравлюється, гріє і живить при Вата-Питта",
+          "pl": "Słodki, łatwo trawiący się, grzeje i odżywia przy Vata-Pitta",
+          "en": "Sweet, easily digestible, warming and nourishing for Vata-Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Цукіні",
+          "pl": "Cukinia",
+          "en": "Zucchini"
+        },
+        "note": {
+          "ua": "М'який, маслянистий при готуванні, заспокоює Вату",
+          "pl": "Miękki, tłusty podczas gotowania, uspokaja Vatę",
+          "en": "Soft, becomes oily when cooked, calms Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Батат",
+          "pl": "Batata",
+          "en": "Yam"
+        },
+        "note": {
+          "ua": "Грійливий коренеплід, живлюча енергія для зимового періоду",
+          "pl": "Rozgrzewająca korzeniówka, odżywcza energia na zimowy okres",
+          "en": "Warming root vegetable, nourishing energy for winter"
+        }
+      },
+      {
+        "name": {
+          "ua": "Спаржа",
+          "pl": "Szparagi",
+          "en": "Asparagus"
+        },
+        "note": {
+          "ua": "Легка але при смаженні з маслом живить Вату",
+          "pl": "Lekka, ale podczas smażenia z maślém odżywia Vatę",
+          "en": "Light but nourishes Vata when cooked with oil"
+        }
+      },
+      {
+        "name": {
+          "ua": "Брокколі",
+          "pl": "Brokuł",
+          "en": "Broccoli"
+        },
+        "note": {
+          "ua": "Варена з маслом та спеціями зменшує Вату і Питту",
+          "pl": "Gotowana z maślém i przyprawami zmniejsza Vatę i Pittę",
+          "en": "Boiled with oil and spices reduces Vata and Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Капуста",
+          "pl": "Kapusta",
+          "en": "Cabbage"
+        },
+        "note": {
+          "ua": "При готуванні з маслом стає теплою та живить, гармонізує конституцію",
+          "pl": "Podczas gotowania z maślém staje się ciepła i odżywcza, harmonizuje konstytucję",
+          "en": "When cooked with oil becomes warm and nourishing, harmonizes constitution"
+        }
+      },
+      {
+        "name": {
+          "ua": "Цибуля",
+          "pl": "Cebula",
+          "en": "Onion"
+        },
+        "note": {
+          "ua": "Теплі, розжарюючі якості краще засвоюються при готуванні з маслом",
+          "pl": "Ciepłe, rozgrzewające właściwości lepiej przyswajaną podczas gotowania z maślém",
+          "en": "Warm, heating qualities better assimilated when cooked with oil"
+        }
+      },
+      {
+        "name": {
+          "ua": "Часник",
+          "pl": "Czosnek",
+          "en": "Garlic"
+        },
+        "note": {
+          "ua": "Потужно гріє, маслянистий і живлювальний для Вата-Питта в холоді",
+          "pl": "Mocno grzeje, tłusty i odżywczy dla Vata-Pitta w zimnie",
+          "en": "Powerfully warming, oily and nourishing for Vata-Pitta in cold"
+        }
+      },
+      {
+        "name": {
+          "ua": "Редис",
+          "pl": "Rzepa",
+          "en": "Radish"
+        },
+        "note": {
+          "ua": "При готуванні втрачає гостроту, стає теплим, заспокоює Вату",
+          "pl": "Podczas gotowania utraca ostrość, staje się ciepły, uspokaja Vatę",
+          "en": "Loses pungency when cooked, becomes warming, calms Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Сельдерей",
+          "pl": "Seler",
+          "en": "Celery"
+        },
+        "note": {
+          "ua": "При готуванні з маслом та спеціями теплий і живлючий для пори року",
+          "pl": "Podczas gotowania z maślém i przyprawami ciepły i odżywczy na sezon",
+          "en": "Warm and nourishing when cooked with oil and spices for the season"
+        }
+      },
+      {
+        "name": {
+          "ua": "Топінамбур",
+          "pl": "Topinambur",
+          "en": "Jerusalem artichoke"
+        },
+        "note": {
+          "ua": "Землистий коренеплід, гармонізує земляні якості Вати",
+          "pl": "Ziemisty korzeń, harmonizuje ziemne cechy Vaty",
+          "en": "Earthy root, harmonizes earth qualities of Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Фенхель",
+          "pl": "Koper włoski",
+          "en": "Fennel"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий стебель, успокоює Вату і охолоджує Питту",
+          "pl": "Ciepłe, tłuste łodygi, uspokajają Vatę i chłodzą Pittę",
+          "en": "Warm, oily stems calm Vata and cool Pitta"
+        }
+      }
+    ],
+    "fruits": [
+      {
+        "name": {
+          "ua": "Банан",
+          "pl": "Banan",
+          "en": "Banana"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлючий фрукт що зменшує Вату",
+          "pl": "Ciepły, tłusty, odżywczy owoc zmniejszający Vatę",
+          "en": "Warm, oily, nourishing fruit that reduces Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Авокадо",
+          "pl": "Awokado",
+          "en": "Avocado"
+        },
+        "note": {
+          "ua": "Надзвичайно маслянисте, живлючих для сухої Вати в холоді",
+          "pl": "Niezwykle tłuste, odżywcze dla suchej Vaty w zimnie",
+          "en": "Extremely oily, nourishing for dry Vata in cold"
+        }
+      },
+      {
+        "name": {
+          "ua": "Фініки",
+          "pl": "Daktyle",
+          "en": "Dates"
+        },
+        "note": {
+          "ua": "Солодкі, теплі, маслянисті і живлюючі при Вата-Питта конституції",
+          "pl": "Słodkie, ciepłe, tłuste i odżywcze przy konstytucji Vata-Pitta",
+          "en": "Sweet, warm, oily and nourishing for Vata-Pitta constitution"
+        }
+      },
+      {
+        "name": {
+          "ua": "Родзинки",
+          "pl": "Rodzynki",
+          "en": "Raisins"
+        },
+        "note": {
+          "ua": "Зсушені з теплотою, живлюють і зменшують Вату",
+          "pl": "Wysuszone z ciepłem, odżywia i zmniejsza Vatę",
+          "en": "Dried with warmth, nourish and reduce Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Груша",
+          "pl": "Gruszka",
+          "en": "Pear"
+        },
+        "note": {
+          "ua": "При готуванні з маслом і спеціями теплий і живлюючий вибір",
+          "pl": "Podczas gotowania z maślém i przyprawami ciepły i odżywczy wybór",
+          "en": "Warm and nourishing when cooked with oil and spices"
+        }
+      },
+      {
+        "name": {
+          "ua": "Яблуко",
+          "pl": "Jabłko",
+          "en": "Apple"
+        },
+        "note": {
+          "ua": "При готуванні з кориці й маслом гармонізує обидві досхи",
+          "pl": "Podczas gotowania z cynamonem i maślém harmonizuje obie doshy",
+          "en": "When cooked with cinnamon and oil balances both doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Мандарин",
+          "pl": "Mandarynka",
+          "en": "Mandarin"
+        },
+        "note": {
+          "ua": "Теплий цитрус, маслянистий при поєднанні з маслом, збалансований",
+          "pl": "Ciepłe cytryny, tłuste w połączeniu z maślém, wyważone",
+          "en": "Warm citrus, oily when combined with oil, balanced"
+        }
+      },
+      {
+        "name": {
+          "ua": "Гранат",
+          "pl": "Granat",
+          "en": "Pomegranate"
+        },
+        "note": {
+          "ua": "Терпкий, теплий, живлюючий для усіх дош в холодну пору",
+          "pl": "Cierpki, ciepły, odżywczy dla wszystkich dosh w chłodnym sezonie",
+          "en": "Astringent, warm, nourishing for all doshas in cold season"
+        }
+      },
+      {
+        "name": {
+          "ua": "Полуниця",
+          "pl": "Truskawka",
+          "en": "Strawberry"
+        },
+        "note": {
+          "ua": "При готуванні на повільному вогні з медом живить Вату",
+          "pl": "Podczas gotowania na małym ogniu z miodem odżywia Vatę",
+          "en": "Nourishes Vata when slow-cooked with honey"
+        }
+      },
+      {
+        "name": {
+          "ua": "Малина",
+          "pl": "Malina",
+          "en": "Raspberry"
+        },
+        "note": {
+          "ua": "При готуванні з маслом маслянисто-теплий вибір для порядку",
+          "pl": "Podczas gotowania z maślém tłusty-ciepły wybór na sezon",
+          "en": "Oily-warm choice when cooked with oil for the season"
+        }
+      },
+      {
+        "name": {
+          "ua": "Смородина чорна",
+          "pl": "Czarna porzeczka",
+          "en": "Blackcurrant"
+        },
+        "note": {
+          "ua": "При готуванні живить і охолоджує Питту, заземлює Вату",
+          "pl": "Podczas gotowania odżywia i chłodzi Pittę, uziemiają Vatę",
+          "en": "Nourishes and cools Pitta when cooked, grounds Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Слива",
+          "pl": "Śliwka",
+          "en": "Plum"
+        },
+        "note": {
+          "ua": "При готуванні з маслом маслянисто-теплий, живлючий вибір",
+          "pl": "Podczas gotowania z maślém tłusty-ciepły, odżywczy wybór",
+          "en": "Oily-warm, nourishing choice when cooked with oil"
+        }
+      }
+    ],
+    "grains": [
+      {
+        "name": {
+          "ua": "Рис",
+          "pl": "Ryż",
+          "en": "Rice"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий при готуванні з маслом, найміцніший для Вати",
+          "pl": "Ciepły, tłusty podczas gotowania z maślém, najmocniejszy dla Vaty",
+          "en": "Warm, oily when cooked with oil, strongest for Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Пшениця",
+          "pl": "Pszenica",
+          "en": "Wheat"
+        },
+        "note": {
+          "ua": "Важка, живлюча, маслянисто-теплий злак для холодної пори",
+          "pl": "Ciężka, odżywcza, tłusty-ciepły zboże na zimny sezon",
+          "en": "Heavy, nourishing, oily-warm grain for cold season"
+        }
+      },
+      {
+        "name": {
+          "ua": "Вівсяна крупа",
+          "pl": "Owies",
+          "en": "Oatmeal"
+        },
+        "note": {
+          "ua": "Теплий, живлючий, маслянистий при готуванні з молоком і маслом",
+          "pl": "Ciepły, odżywczy, tłusty podczas gotowania z mlekiem i maślém",
+          "en": "Warm, nourishing, oily when cooked with milk and oil"
+        }
+      },
+      {
+        "name": {
+          "ua": "Ячмінь",
+          "pl": "Jęczmień",
+          "en": "Barley"
+        },
+        "note": {
+          "ua": "Теплий, заземлюючий, живлюючий крупа для Вата-Питта гармонії",
+          "pl": "Ciepły, uziemiający, odżywczy krупа dla harmonii Vata-Pitta",
+          "en": "Warm, grounding, nourishing grain for Vata-Pitta harmony"
+        }
+      },
+      {
+        "name": {
+          "ua": "Полба",
+          "pl": "Polba",
+          "en": "Spelt"
+        },
+        "note": {
+          "ua": "Теплий, живлючий, маслянистий при готуванні для Вати",
+          "pl": "Ciepły, odżywczy, tłusty podczas gotowania dla Vaty",
+          "en": "Warm, nourishing, oily when cooked for Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Просо",
+          "pl": "Proso",
+          "en": "Millet"
+        },
+        "note": {
+          "ua": "Легке, теплое, живлюючий злак що заземлює Вату в холоді",
+          "pl": "Lekkie, ciepłe, odżywcze zboże które uziemiają Vatę w zimnie",
+          "en": "Light, warm, nourishing grain that grounds Vata in cold"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кукурудза",
+          "pl": "Kukurydza",
+          "en": "Corn"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий при готуванні, живлючий для конституції",
+          "pl": "Ciepły, tłusty podczas gotowania, odżywczy dla konstytucji",
+          "en": "Warm, oily when cooked, nourishing for constitution"
+        }
+      },
+      {
+        "name": {
+          "ua": "Гречка",
+          "pl": "Gryka",
+          "en": "Buckwheat"
+        },
+        "note": {
+          "ua": "Теплий, заземлюючий, живлючий при готуванні з маслом",
+          "pl": "Ciepły, uziemiający, odżywczy podczas gotowania z maślém",
+          "en": "Warm, grounding, nourishing when cooked with oil"
+        }
+      }
+    ],
+    "meat": [
+      {
+        "name": {
+          "ua": "Курятина",
+          "pl": "Kurczak",
+          "en": "Chicken"
+        },
+        "note": {
+          "ua": "Теплий, легкий, маслянистий при готуванні, ідеальний для Вати",
+          "pl": "Ciepły, lekki, tłusty podczas gotowania, idealny dla Vaty",
+          "en": "Warm, light, oily when cooked, ideal for Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Яйця",
+          "pl": "Jaja",
+          "en": "Eggs"
+        },
+        "note": {
+          "ua": "Маслянисті, живлючи, найміцніший білок для Вата-Питта в холоді",
+          "pl": "Tłuste, odżywcze, najpotężniejszy biały dla Vata-Pitta w zimnie",
+          "en": "Oily, nourishing, most powerful protein for Vata-Pitta in cold"
+        }
+      },
+      {
+        "name": {
+          "ua": "М'ясо індички",
+          "pl": "Indyk",
+          "en": "Turkey"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлюючий м'ясо, легше за червоне",
+          "pl": "Ciepłe, tłuste, odżywcze mięso, lżejsze niż czerwone",
+          "en": "Warm, oily, nourishing meat, lighter than red"
+        }
+      },
+      {
+        "name": {
+          "ua": "Яйця перепелів",
+          "pl": "Jaja przepiórek",
+          "en": "Quail eggs"
+        },
+        "note": {
+          "ua": "Більше маслянисті та живлючі за куряче, гармонійні для конституції",
+          "pl": "Bardziej tłuste i odżywcze niż kurze, harmonijne dla konstytucji",
+          "en": "More oily and nourishing than chicken, harmonious for constitution"
+        }
+      },
+      {
+        "name": {
+          "ua": "Баранина",
+          "pl": "Baranina",
+          "en": "Mutton"
+        },
+        "note": {
+          "ua": "Дуже теплий, маслянистий, живлючий для сильної Вати в холоді",
+          "pl": "Bardzo ciepłe, tłuste, odżywcze dla mocnej Vaty w zimnie",
+          "en": "Very warm, oily, nourishing for strong Vata in cold"
+        }
+      },
+      {
+        "name": {
+          "ua": "М'ясо кролика",
+          "pl": "Mięso z królika",
+          "en": "Rabbit meat"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий при готуванні, легше за інші м'яса",
+          "pl": "Ciepłe, tłuste podczas gotowania, lżejsze niż inne mięsa",
+          "en": "Warm, oily when cooked, lighter than other meats"
+        }
+      }
+    ],
+    "fish": [
+      {
+        "name": {
+          "ua": "Форель",
+          "pl": "Pstrąg",
+          "en": "Trout"
+        },
+        "note": {
+          "ua": "Маслянистий риба, теплий, живлючий для Вата-Питта в холоді",
+          "pl": "Tłusta ryba, ciepłe, odżywcze dla Vata-Pitta w zimnie",
+          "en": "Oily fish, warm, nourishing for Vata-Pitta in cold"
+        }
+      },
+      {
+        "name": {
+          "ua": "Лосось",
+          "pl": "Łosoś",
+          "en": "Salmon"
+        },
+        "note": {
+          "ua": "Дуже маслянистий, теплий, живлючий риба для всіх дош",
+          "pl": "Bardzo tłusta, ciepłe, odżywcza ryba dla wszystkich dosh",
+          "en": "Very oily, warm, nourishing fish for all doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Скумбрія",
+          "pl": "Makrela",
+          "en": "Mackerel"
+        },
+        "note": {
+          "ua": "Маслянистий, теплий, живлючий морський продукт для Вати",
+          "pl": "Tłusta, ciepła, odżywcza owoce morza dla Vaty",
+          "en": "Oily, warm, nourishing seafood for Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Селявка",
+          "pl": "Sielawa",
+          "en": "Cisco"
+        },
+        "note": {
+          "ua": "Маслянистий різновид риби, теплий, для гармонії в холоді",
+          "pl": "Tłusty rodzaj ryby, ciepły, dla harmonii w zimnie",
+          "en": "Oily type of fish, warm, for harmony in cold"
+        }
+      },
+      {
+        "name": {
+          "ua": "Креветки",
+          "pl": "Krewetki",
+          "en": "Shrimp"
+        },
+        "note": {
+          "ua": "Теплий морепродукт, маслянистий, живлючий для конституції",
+          "pl": "Ciepły owoce morza, tłuste, odżywcze dla konstytucji",
+          "en": "Warm seafood, oily, nourishing for constitution"
+        }
+      },
+      {
+        "name": {
+          "ua": "Мідії",
+          "pl": "Małże",
+          "en": "Mussels"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлючий морський продукт для Вати",
+          "pl": "Ciepły, tłusty, odżywczy produkt morski dla Vaty",
+          "en": "Warm, oily, nourishing seafood for Vata"
+        }
+      }
+    ],
+    "dairy": [
+      {
+        "name": {
+          "ua": "Молоко коровяче",
+          "pl": "Mleko krowskie",
+          "en": "Cow's milk"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлючий найбільш базовий продукт для Вати",
+          "pl": "Ciepły, tłusty, odżywczy najpodstawowszy produkt dla Vaty",
+          "en": "Warm, oily, nourishing most basic product for Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Йогурт",
+          "pl": "Jogurt",
+          "en": "Yogurt"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий при готуванні, живлючий для Вати",
+          "pl": "Ciepły, tłusty podczas gotowania, odżywczy dla Vaty",
+          "en": "Warm, oily when warm, nourishing for Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Вершки",
+          "pl": "Śmietana",
+          "en": "Cream"
+        },
+        "note": {
+          "ua": "Дуже маслянисті, теплі, живлючі для сухої Вати в холоді",
+          "pl": "Bardzo tłuste, ciepłe, odżywcze dla suchej Vaty w zimnie",
+          "en": "Very oily, warm, nourishing for dry Vata in cold"
+        }
+      },
+      {
+        "name": {
+          "ua": "Гхі (топлене масло)",
+          "pl": "Ghee",
+          "en": "Ghee"
+        },
+        "note": {
+          "ua": "Найчистіше маслянисте, теплий, живлюючий для Вата-Питта гармонії",
+          "pl": "Najczystsze tłuste, ciepłe, odżywcze dla harmonii Vata-Pitta",
+          "en": "Purest oily, warm, nourishing for Vata-Pitta harmony"
+        }
+      },
+      {
+        "name": {
+          "ua": "Сир",
+          "pl": "Ser",
+          "en": "Cheese"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлючий молочний продукт для конституції",
+          "pl": "Ciepły, tłusty, odżywczy produkt mleczny dla konstytucji",
+          "en": "Warm, oily, nourishing dairy product for constitution"
+        }
+      },
+      {
+        "name": {
+          "ua": "Панір",
+          "pl": "Paneer",
+          "en": "Paneer"
+        },
+        "note": {
+          "ua": "Теплий сирний продукт, маслянистий, живлючий для Вати",
+          "pl": "Ciepły produkt serowy, tłusty, odżywczy dla Vaty",
+          "en": "Warm cheese product, oily, nourishing for Vata"
+        }
+      }
+    ],
+    "oils": [
+      {
+        "name": {
+          "ua": "Кунжутна олія",
+          "pl": "Olej sezamowy",
+          "en": "Sesame oil"
+        },
+        "note": {
+          "ua": "Найтепліша олія, маслянистий, живлюючий для холодної Вати",
+          "pl": "Najcieplejszy olej, tłusty, odżywczy dla zimnej Vaty",
+          "en": "Warmest oil, oily, nourishing for cold Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Топлене масло (Гхі)",
+          "pl": "Masło topione (Ghee)",
+          "en": "Clarified butter (Ghee)"
+        },
+        "note": {
+          "ua": "Чисто маслянисте, теплий, живлюючий для Вата-Питта гармонії",
+          "pl": "Czysty tłusty, ciepły, odżywczy dla harmonii Vata-Pitta",
+          "en": "Pure oily, warm, nourishing for Vata-Pitta harmony"
+        }
+      },
+      {
+        "name": {
+          "ua": "Оливкова олія",
+          "pl": "Olej z oliwek",
+          "en": "Olive oil"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлюючий при м'якому прогріванні",
+          "pl": "Ciepły, tłusty, odżywczy przy delikatnym ogrzewaniu",
+          "en": "Warm, oily, nourishing with gentle heating"
+        }
+      },
+      {
+        "name": {
+          "ua": "Мигдальна олія",
+          "pl": "Olej migdałowy",
+          "en": "Almond oil"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлюючий для конституції Вата-Питта",
+          "pl": "Ciepły, tłusty, odżywczy dla konstytucji Vata-Pitta",
+          "en": "Warm, oily, nourishing for Vata-Pitta constitution"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кокосова олія",
+          "pl": "Olej kokosowy",
+          "en": "Coconut oil"
+        },
+        "note": {
+          "ua": "Теплий при готуванні, маслянистий, живлюючий, охолоджує Питту",
+          "pl": "Ciepły podczas gotowania, tłusty, odżywczy, chłodzi Pittę",
+          "en": "Warm when heated, oily, nourishing, cools Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кукурудзяна олія",
+          "pl": "Olej kukurydziany",
+          "en": "Corn oil"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлюючий для зимового балансу Вати",
+          "pl": "Ciepły, tłusty, odżywczy dla zimowego bilansu Vaty",
+          "en": "Warm, oily, nourishing for winter Vata balance"
+        }
+      }
+    ],
+    "spices": [
+      {
+        "name": {
+          "ua": "Імбир",
+          "pl": "Imbir",
+          "en": "Ginger"
+        },
+        "note": {
+          "ua": "Дуже гарячий, розжарюючий, живлюючий для Вати в холоді",
+          "pl": "Bardzo gorący, rozgrzewający, odżywczy dla Vaty w zimnie",
+          "en": "Very hot, heating, nourishing for Vata in cold"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кориця",
+          "pl": "Cynamon",
+          "en": "Cinnamon"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлюючий і гармонізує обидві досхи",
+          "pl": "Ciepły, tłusty, odżywczy i harmonizuje obie doshy",
+          "en": "Warm, oily, nourishing and balances both doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кмин",
+          "pl": "Kminek",
+          "en": "Cumin"
+        },
+        "note": {
+          "ua": "Теплий, живлюючий, поліпшує травлення при Вата-Питта",
+          "pl": "Ciepły, odżywczy, poprawia trawienie przy Vata-Pitta",
+          "en": "Warm, nourishing, improves digestion at Vata-Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Гвоздика",
+          "pl": "Goździk",
+          "en": "Clove"
+        },
+        "note": {
+          "ua": "Гарячий, розжарюючий, живлюючий для холодної Вати",
+          "pl": "Gorący, rozgrzewający, odżywczy dla zimnej Vaty",
+          "en": "Hot, warming, nourishing for cold Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Мускатний горіх",
+          "pl": "Muszkatołowiec",
+          "en": "Nutmeg"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлюючий,助睡眠 у холоді",
+          "pl": "Ciepły, tłusty, odżywczy, wspomaga sen w zimnie",
+          "en": "Warm, oily, nourishing, supports sleep in cold"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чорний перець",
+          "pl": "Czarny pieprz",
+          "en": "Black pepper"
+        },
+        "note": {
+          "ua": "Гарячий, розжарюючий, живлюючий для слабої перетравлення Вати",
+          "pl": "Gorący, rozgrzewający, odżywczy dla słabego trawienia Vaty",
+          "en": "Hot, warming, nourishing for weak Vata digestion"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кардамон",
+          "pl": "Kardamon",
+          "en": "Cardamom"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлюючий для гармонії всіх дош",
+          "pl": "Ciepły, tłusty, odżywczy dla harmonii wszystkich dosh",
+          "en": "Warm, oily, nourishing for harmony of all doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Насіння гірчиці",
+          "pl": "Nasiona gorczycy",
+          "en": "Mustard seeds"
+        },
+        "note": {
+          "ua": "Гарячий, розжарюючий, живлюючий для сильної перетравлення",
+          "pl": "Gorący, rozgrzewający, odżywczy dla mocnego trawienia",
+          "en": "Hot, warming, nourishing for strong digestion"
+        }
+      },
+      {
+        "name": {
+          "ua": "Асафетида (Хінг)",
+          "pl": "Azoetida",
+          "en": "Asafoetida"
+        },
+        "note": {
+          "ua": "Теплий, живлюючий, поліпшує газування при Вата-Питта",
+          "pl": "Ciepły, odżywczy, poprawia gazy przy Vata-Pitta",
+          "en": "Warm, nourishing, improves gas at Vata-Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кольйндр (Кінза)",
+          "pl": "Kolendra",
+          "en": "Coriander"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлюючий при готуванні з маслом",
+          "pl": "Ciepły, tłusty, odżywczy podczas gotowania z maślém",
+          "en": "Warm, oily, nourishing when cooked with oil"
+        }
+      },
+      {
+        "name": {
+          "ua": "Фенхель",
+          "pl": "Koper włoski",
+          "en": "Fennel"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлюючий, заспокоює Вату",
+          "pl": "Ciepły, tłusty, odżywczy, uspokaja Vatę",
+          "en": "Warm, oily, nourishing, calms Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Куркума",
+          "pl": "Kurkuma",
+          "en": "Turmeric"
+        },
+        "note": {
+          "ua": "Теплий, живлюючий, очищуючий при готуванні з маслом",
+          "pl": "Ciepły, odżywczy, oczyszczający podczas gotowania z maślém",
+          "en": "Warm, nourishing, cleansing when cooked with oil"
+        }
+      }
+    ],
+    "teas": [
+      {
+        "name": {
+          "ua": "Гінджер (Імбир) чай",
+          "pl": "Herbata z imbirem",
+          "en": "Ginger tea"
+        },
+        "note": {
+          "ua": "Дуже гарячий, розжарюючий, живлюючий чай для Вати в холоді",
+          "pl": "Bardzo gorąca, rozgrzewająca, odżywcza herbata dla Vaty w zimnie",
+          "en": "Very hot, warming, nourishing tea for Vata in cold"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чай з кориці",
+          "pl": "Herbata z cynamonem",
+          "en": "Cinnamon tea"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлюючий для гармонії обох дош",
+          "pl": "Ciepła, tłusta, odżywcza dla harmonii obu dosh",
+          "en": "Warm, oily, nourishing for harmony of both doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чай з базиліку (Туласі)",
+          "pl": "Herbata z bazylią",
+          "en": "Basil tea (Tulsi)"
+        },
+        "note": {
+          "ua": "Теплий, живлюючий, поліпшує імунітет при Вата-Питта",
+          "pl": "Ciepłe, odżywcze, poprawia odporność przy Vata-Pitta",
+          "en": "Warm, nourishing, improves immunity at Vata-Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Молочний чай (Чай з молоком)",
+          "pl": "Herbata z mlekiem",
+          "en": "Milk tea"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлюючий, успокоює нервову систему",
+          "pl": "Ciepła, tłusta, odżywcza, uspokaja układ nerwowy",
+          "en": "Warm, oily, nourishing, calms nervous system"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чай з фенхеля",
+          "pl": "Herbata z koprem włoskim",
+          "en": "Fennel tea"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлюючий для гармонії всіх дош",
+          "pl": "Ciepłe, tłuste, odżywcze dla harmonii wszystkich dosh",
+          "en": "Warm, oily, nourishing for harmony of all doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чай з нарізаної кори кориці",
+          "pl": "Herbata z kory cynamonu",
+          "en": "Cinnamon bark tea"
+        },
+        "note": {
+          "ua": "Дуже теплий, живлюючий, гармонізує Вату при холоді",
+          "pl": "Bardzo ciepła, odżywcza, harmonizuje Vatę w zimnie",
+          "en": "Very warm, nourishing, harmonizes Vata in cold"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чай з яблука і кориці",
+          "pl": "Herbata z jabłka i cynamonu",
+          "en": "Apple and cinnamon tea"
+        },
+        "note": {
+          "ua": "Теплий, маслянистий, живлюючий для Вата-Питта гармонії",
+          "pl": "Ciepłe, tłuste, odżywcze dla harmonii Vata-Pitta",
+          "en": "Warm, oily, nourishing for Vata-Pitta harmony"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чай з молока і медом",
+          "pl": "Herbata z mleka i miodu",
+          "en": "Milk and honey tea"
+        },
+        "note": {
+          "ua": "Дуже маслянистий, теплий, живлюючий, заспокоює Вату перед сном",
+          "pl": "Bardzo tłusta, ciepłe, odżywcze, uspokaja Vatę przed snem",
+          "en": "Very oily, warm, nourishing, calms Vata before sleep"
+        }
+      }
+    ]
+  },
+  "spring": {
+    "vegetables": [
+      {
+        "name": {
+          "ua": "Спаржа",
+          "pl": "Szparagi",
+          "en": "Asparagus"
+        },
+        "note": {
+          "ua": "Легка, сухуюча спаржа балансує обидві доші без перегрівання",
+          "pl": "Lekkie szparagi balansują obie dosze bez przegrzewania",
+          "en": "Light asparagus balances both doshas without overheating"
+        }
+      },
+      {
+        "name": {
+          "ua": "Броколі",
+          "pl": "Brokuł",
+          "en": "Broccoli"
+        },
+        "note": {
+          "ua": "Прохолодний овоч підтримує рівновагу Піти в теплу пору",
+          "pl": "Chłodny warzywo wspiera równowagę Pitty w ciepłym sezonie",
+          "en": "Cool vegetable supports Pitta balance in warm season"
+        }
+      },
+      {
+        "name": {
+          "ua": "Цвітна капуста",
+          "pl": "Kalafior",
+          "en": "Cauliflower"
+        },
+        "note": {
+          "ua": "Легкозасвоюваний овоч корегує Вату без подразнення Піти",
+          "pl": "Łatwo trawiony warzywo koryguje Vatę bez podrażniania Pitty",
+          "en": "Easily digestible vegetable corrects Vata without irritating Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Салат-латук",
+          "pl": "Sałata łagodna",
+          "en": "Lettuce"
+        },
+        "note": {
+          "ua": "Прохолодний салат успокоює Піту і живить тонкі тканини організму",
+          "pl": "Chłodna sałata uspokaja Pittę i odżywia delikatne tkanki",
+          "en": "Cool lettuce soothes Pitta and nourishes delicate tissues"
+        }
+      },
+      {
+        "name": {
+          "ua": "Огірок",
+          "pl": "Ogórek",
+          "en": "Cucumber"
+        },
+        "note": {
+          "ua": "Охолоджуючий овоч ідеальний для весни, живить Вату і гасить Піту",
+          "pl": "Chłodzący warzywo idealne na wiosnę, odżywia Vatę i gasi Pittę",
+          "en": "Cooling vegetable perfect for spring, nourishes Vata and cools Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Цукіні",
+          "pl": "Cukinia",
+          "en": "Zucchini"
+        },
+        "note": {
+          "ua": "М'яке, легке овоч не обтяжує травлення і балансує обидві доші",
+          "pl": "Miękkie, lekkie warzywo nie obciąża trawienia i równoważy obie dosze",
+          "en": "Soft, light vegetable does not burden digestion and balances both doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Зелений горошок",
+          "pl": "Groszek zielony",
+          "en": "Green peas"
+        },
+        "note": {
+          "ua": "Поживний горошок змірює Вату і охолоджує без агресії до Піти",
+          "pl": "Pożywny groszek łagodzi Vatę i chłodzi bez agresji do Pitty",
+          "en": "Nutritious peas pacify Vata and cool without aggression to Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Молода капуста",
+          "pl": "Młoda kapusta",
+          "en": "Spring cabbage"
+        },
+        "note": {
+          "ua": "М'яка молода капуста весни легко засвоюється і підтримує рівновагу",
+          "pl": "Miękka młoda kapusta wiosny łatwo się trawią i wspiera równowagę",
+          "en": "Tender spring cabbage digests easily and maintains balance"
+        }
+      },
+      {
+        "name": {
+          "ua": "Редиска",
+          "pl": "Rzodkiewka",
+          "en": "Radish"
+        },
+        "note": {
+          "ua": "Гіркуватий смак редиски активує агні без перегрівання Піти",
+          "pl": "Gorzkowaty smak rzodkiewki aktywuje agni bez przegrzewania Pitty",
+          "en": "Pungent radish taste activates agni without overheating Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Морква",
+          "pl": "Marchew",
+          "en": "Carrot"
+        },
+        "note": {
+          "ua": "Солодка морква живить Вату з легкою охолоджуючою якістю для Піти",
+          "pl": "Słodka marchew odżywia Vatę z lekką chłodzącą jakością dla Pitty",
+          "en": "Sweet carrot nourishes Vata with light cooling quality for Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Цвітна капуста романеско",
+          "pl": "Romanesco",
+          "en": "Romanesco"
+        },
+        "note": {
+          "ua": "Крім'яна структура романеско балансує обидві доші в сезон змін",
+          "pl": "Delikatna struktura romanesco równoważy obie dosze w sezonie zmian",
+          "en": "Delicate structure of romanesco balances both doshas in season of change"
+        }
+      },
+      {
+        "name": {
+          "ua": "Молоді цибулини",
+          "pl": "Młode cebule",
+          "en": "Spring onions"
+        },
+        "note": {
+          "ua": "М'ясиста цибуля весни легко перетравлюється і стимулює агні",
+          "pl": "Soczysta cebula wiosny łatwo się trawią i stymuluje agni",
+          "en": "Juicy spring onion digests easily and stimulates agni"
+        }
+      },
+      {
+        "name": {
+          "ua": "Петрушка",
+          "pl": "Pietruszka",
+          "en": "Parsley"
+        },
+        "note": {
+          "ua": "Ароматна петрушка підтримує травлення і охолоджує без висушування",
+          "pl": "Aromatyczna pietruszka wspiera trawienie i chłodzi bez wysuszenia",
+          "en": "Aromatic parsley supports digestion and cools without drying"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кріп",
+          "pl": "Koper",
+          "en": "Dill"
+        },
+        "note": {
+          "ua": "Легкий кріп розслабляє Вату і не розпалює Піту в теплу пору",
+          "pl": "Lekki koper rozluźnia Vatę i nie rozpalą Pittę w ciepły sezon",
+          "en": "Light dill relaxes Vata and does not inflame Pitta in warm season"
+        }
+      },
+      {
+        "name": {
+          "ua": "Шпинат молодий",
+          "pl": "Młody szpinak",
+          "en": "Young spinach"
+        },
+        "note": {
+          "ua": "Мікрозелень шпинату енергізує без обтяження травлення весною",
+          "pl": "Młode liście szpinaku energizują bez obciążenia trawienia na wiosnę",
+          "en": "Young spinach leaves energize without burdening spring digestion"
+        }
+      }
+    ],
+    "fruits": [
+      {
+        "name": {
+          "ua": "Яблуко",
+          "pl": "Jabłko",
+          "en": "Apple"
+        },
+        "note": {
+          "ua": "Солодке яблуко з в'язкістю балансує обидві доші в перехідний період",
+          "pl": "Słodkie jabłko z miękkością równoważy obie dosze w okresie przejściowym",
+          "en": "Sweet apple with astringency balances both doshas in transitional period"
+        }
+      },
+      {
+        "name": {
+          "ua": "Груша",
+          "pl": "Gruszka",
+          "en": "Pear"
+        },
+        "note": {
+          "ua": "Груша легко засвоюється і заспокоює обидві доші без подразнення",
+          "pl": "Gruszka łatwo się trawią i uspokaja obie dosze bez podrażnienia",
+          "en": "Pear digests easily and soothes both doshas without irritation"
+        }
+      },
+      {
+        "name": {
+          "ua": "Персик",
+          "pl": "Brzoskwinia",
+          "en": "Peach"
+        },
+        "note": {
+          "ua": "Солодкий персик весни живить Вату з легкою охолоджуючою якістю",
+          "pl": "Słodka brzoskwinia wiosny odżywia Vatę z lekką chłodzącą jakością",
+          "en": "Sweet spring peach nourishes Vata with light cooling quality"
+        }
+      },
+      {
+        "name": {
+          "ua": "Абрикос",
+          "pl": "Morela",
+          "en": "Apricot"
+        },
+        "note": {
+          "ua": "Легкий абрикос стимулює агні без перегрівання в теплу пору року",
+          "pl": "Lekka morela stymuluje agni bez przegrzewania w ciepły sezon",
+          "en": "Light apricot stimulates agni without overheating in warm season"
+        }
+      },
+      {
+        "name": {
+          "ua": "Полуниця",
+          "pl": "Truskawka",
+          "en": "Strawberry"
+        },
+        "note": {
+          "ua": "Легка полуниця охолоджує Піту і живить Вату весняними токсинами",
+          "pl": "Lekka truskawka chłodzi Pittę i odżywia Vatę wiosennymi toksycjonami",
+          "en": "Light strawberry cools Pitta and nourishes Vata from spring toxins"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чорна смородина",
+          "pl": "Czarna porzeczka",
+          "en": "Black currant"
+        },
+        "note": {
+          "ua": "Терпка смородина балансує обидві доші своєю в'язкістю",
+          "pl": "Terpka porzeczka równoważy obie dosze swoją wiazkością",
+          "en": "Astringent currant balances both doshas with its tannins"
+        }
+      },
+      {
+        "name": {
+          "ua": "Малина",
+          "pl": "Malina",
+          "en": "Raspberry"
+        },
+        "note": {
+          "ua": "Легка малина охолоджує і живить без ушкодження тонких тканин",
+          "pl": "Lekka malina chłodzi i odżywia bez uszkodzenia delikatnych tkanek",
+          "en": "Light raspberry cools and nourishes without harming delicate tissues"
+        }
+      },
+      {
+        "name": {
+          "ua": "Апельсин",
+          "pl": "Pomarańcza",
+          "en": "Orange"
+        },
+        "note": {
+          "ua": "Солодко-гіркий апельсин помірно живить обидві доші у весну",
+          "pl": "Słodko-gorzki pomarańcz umiarkowo odżywia obie dosze na wiosnę",
+          "en": "Sweet-bitter orange moderately nourishes both doshas in spring"
+        }
+      },
+      {
+        "name": {
+          "ua": "Лимон",
+          "pl": "Cytryna",
+          "en": "Lemon"
+        },
+        "note": {
+          "ua": "Гіркий лимон стимулює агні і охолоджує без радикального висушування",
+          "pl": "Gorzka cytryna stymuluje agni i chłodzi bez radykalnego wysuszenia",
+          "en": "Bitter lemon stimulates agni and cools without radical drying"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кокос",
+          "pl": "Kokos",
+          "en": "Coconut"
+        },
+        "note": {
+          "ua": "Прохолодний кокос охолоджує Піту і живить Вату в перехідну пору",
+          "pl": "Chłodny kokos chłodzi Pittę i odżywia Vatę w okresie przejściowym",
+          "en": "Cool coconut cools Pitta and nourishes Vata in transitional period"
+        }
+      },
+      {
+        "name": {
+          "ua": "Авокадо",
+          "pl": "Awokado",
+          "en": "Avocado"
+        },
+        "note": {
+          "ua": "Маслянисте авокадо живить Вату з охолоджуючим ефектом для Піти",
+          "pl": "Olejowate awokado odżywia Vatę z chłodzącym efektem dla Pitty",
+          "en": "Oily avocado nourishes Vata with cooling effect for Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Черешня",
+          "pl": "Czereśnia",
+          "en": "Sweet cherry"
+        },
+        "note": {
+          "ua": "Солодка черешня весни живить без утяжіння травлення в перехідний період",
+          "pl": "Słodka czereśnia wiosny odżywia bez utrudniania trawienia w okresie zmian",
+          "en": "Sweet spring cherry nourishes without burdening digestion in transition"
+        }
+      }
+    ],
+    "grains": [
+      {
+        "name": {
+          "ua": "Рис",
+          "pl": "Ryż",
+          "en": "Rice"
+        },
+        "note": {
+          "ua": "Легкий рис засвоюється обома дошами без перегрівання в весну",
+          "pl": "Lekki ryż jest trawiony przez obie dosze bez przegrzewania na wiosnę",
+          "en": "Light rice is digested by both doshas without overheating in spring"
+        }
+      },
+      {
+        "name": {
+          "ua": "Ячмінь",
+          "pl": "Ječmen",
+          "en": "Barley"
+        },
+        "note": {
+          "ua": "Охолоджуючий ячмінь балансує Піту і розслабляє надмірну Вату",
+          "pl": "Chłodzący ječmen równoważy Pittę i rozluźnia nadmierną Vatę",
+          "en": "Cooling barley balances Pitta and relaxes excess Vata"
+        }
+      },
+      {
+        "name": {
+          "ua": "Овес",
+          "pl": "Owies",
+          "en": "Oats"
+        },
+        "note": {
+          "ua": "Поживний овес живить Вату з легкою охолоджуючою якістю",
+          "pl": "Pożywny owies odżywia Vatę z lekką chłodzącą jakością",
+          "en": "Nourishing oats feed Vata with light cooling quality"
+        }
+      },
+      {
+        "name": {
+          "ua": "Гречка",
+          "pl": "Gryka",
+          "en": "Buckwheat"
+        },
+        "note": {
+          "ua": "Легка гречка активує агні без радикального розпалювання Піти",
+          "pl": "Lekka gryka aktywuje agni bez radykalnego rozpalania Pitty",
+          "en": "Light buckwheat activates agni without radical Pitta inflammation"
+        }
+      },
+      {
+        "name": {
+          "ua": "Проста пшениця",
+          "pl": "Prosta pszenica",
+          "en": "Simple wheat"
+        },
+        "note": {
+          "ua": "Солодка пшениця помірно живить обидві доші в перехідний сезон",
+          "pl": "Słodka pszenica umiarkowanie odżywia obie dosze w sezonie przejściowym",
+          "en": "Sweet wheat moderately nourishes both doshas in transitional season"
+        }
+      },
+      {
+        "name": {
+          "ua": "Просо",
+          "pl": "Proso",
+          "en": "Millet"
+        },
+        "note": {
+          "ua": "Легке просо налаштовує травлення без обтяження весняного периоду",
+          "pl": "Lekkie proso ustawia trawienie bez obciążenia wiosennego okresu",
+          "en": "Light millet regulates digestion without burdening spring period"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кукурудза",
+          "pl": "Kukurydza",
+          "en": "Corn"
+        },
+        "note": {
+          "ua": "Солодка кукурудза живить без висушування, балансує обидві доші",
+          "pl": "Słodka kukurydza odżywia bez wysuszenia, równoważy obie dosze",
+          "en": "Sweet corn nourishes without drying, balances both doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Полба",
+          "pl": "Płaskurka",
+          "en": "Spelt"
+        },
+        "note": {
+          "ua": "Легка полба засвоюється добре і живить без радикального впливу на доші",
+          "pl": "Lekka płaskurka dobrze się trawią i odżywia bez radykalnego wpływu na dosze",
+          "en": "Light spelt digests well and nourishes without radical effect on doshas"
+        }
+      }
+    ],
+    "meat": [
+      {
+        "name": {
+          "ua": "Курячок",
+          "pl": "Kurczak",
+          "en": "Chicken"
+        },
+        "note": {
+          "ua": "Легка птиця найбільш збалансована для весни і обох дош",
+          "pl": "Lekki drób najbardziej zbilansowany na wiosnę i dla obu dosz",
+          "en": "Light poultry is most balanced for spring and both doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Індик",
+          "pl": "Indyk",
+          "en": "Turkey"
+        },
+        "note": {
+          "ua": "Охолоджуюча птиця індика сприяє рівновазі без обтяження",
+          "pl": "Chłodzący drób indyka sprzyja równowadze bez obciążenia",
+          "en": "Cooling turkey poultry promotes balance without burden"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кріль",
+          "pl": "Królik",
+          "en": "Rabbit"
+        },
+        "note": {
+          "ua": "Легке м'ясо кроля ідеальне для легкої травлення обох дош весною",
+          "pl": "Lekkie mięso królika idealne dla łatwego trawienia obu dosz na wiosnę",
+          "en": "Light rabbit meat ideal for easy digestion of both doshas in spring"
+        }
+      },
+      {
+        "name": {
+          "ua": "Яйця",
+          "pl": "Jajka",
+          "en": "Eggs"
+        },
+        "note": {
+          "ua": "М'яко вареніні яйця живлять без радикального перегрівання Піти",
+          "pl": "Miękkowiarzane jajka odżywiają bez radykalnego przegrzewania Pitty",
+          "en": "Soft-boiled eggs nourish without radical Pitta overheating"
+        }
+      },
+      {
+        "name": {
+          "ua": "М'ясо кабана",
+          "pl": "Mięso dzika",
+          "en": "Boar meat"
+        },
+        "note": {
+          "ua": "Легке м'ясо підтримує енергію без перегрівання в теплу пору",
+          "pl": "Lekkie mięso wspiera energię bez przegrzewania w ciepły sezon",
+          "en": "Light meat sustains energy without overheating in warm season"
+        }
+      },
+      {
+        "name": {
+          "ua": "Оленина",
+          "pl": "Wołowina jelenia",
+          "en": "Venison"
+        },
+        "note": {
+          "ua": "Легка оленина живить без утяжіння травлення весняного періоду",
+          "pl": "Lekka wołowina jelenia odżywia bez utrudniania trawienia wiosennego okresu",
+          "en": "Light venison nourishes without burdening spring digestion"
+        }
+      }
+    ],
+    "fish": [
+      {
+        "name": {
+          "ua": "Форель",
+          "pl": "Pstrąg",
+          "en": "Trout"
+        },
+        "note": {
+          "ua": "Легка риба форель живить Вату з охолоджуючим ефектом для Піти",
+          "pl": "Lekka ryba pstrąg odżywia Vatę z chłodzącym efektem dla Pitty",
+          "en": "Light trout nourishes Vata with cooling effect for Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Окунь",
+          "pl": "Okoń",
+          "en": "Perch"
+        },
+        "note": {
+          "ua": "Легка білуватої риба окунь балансує обидві доші в перехідний період",
+          "pl": "Lekka biaława ryba okoń równoważy obie dosze w okresie przejściowym",
+          "en": "Light whitish perch balances both doshas in transitional period"
+        }
+      },
+      {
+        "name": {
+          "ua": "Щука",
+          "pl": "Szczupak",
+          "en": "Pike"
+        },
+        "note": {
+          "ua": "Суха щука мало жирна і добре засвоюється обома дошами",
+          "pl": "Sucha szczupak mało tłusta i dobrze się trawią oboma doszami",
+          "en": "Dry pike is low-fat and well digested by both doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Креветки",
+          "pl": "Krewetki",
+          "en": "Shrimps"
+        },
+        "note": {
+          "ua": "Легкі креветки охолоджують і живлять без надмірного жиру",
+          "pl": "Lekkie krewetki chłodzą i odżywiają bez nadmiernego tłuszczu",
+          "en": "Light shrimps cool and nourish without excess fat"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кальмар",
+          "pl": "Kalmar",
+          "en": "Squid"
+        },
+        "note": {
+          "ua": "Легкий білок кальмара живить обидві доші без висушування",
+          "pl": "Lekkie białko kalmara odżywia obie dosze bez wysuszenia",
+          "en": "Light squid protein nourishes both doshas without drying"
+        }
+      },
+      {
+        "name": {
+          "ua": "Мідія",
+          "pl": "Małż",
+          "en": "Mussel"
+        },
+        "note": {
+          "ua": "М'яка мідія охолоджує Піту і живить Вату в теплу пору",
+          "pl": "Miękki małż chłodzi Pittę i odżywia Vatę w ciepły sezon",
+          "en": "Soft mussel cools Pitta and nourishes Vata in warm season"
+        }
+      }
+    ],
+    "dairy": [
+      {
+        "name": {
+          "ua": "Коров'яче молоко",
+          "pl": "Mleko krowskie",
+          "en": "Cow's milk"
+        },
+        "note": {
+          "ua": "Прохолодне молоко живить обидві доші без перегрівання в весну",
+          "pl": "Chłodne mleko odżywia obie dosze bez przegrzewania na wiosnę",
+          "en": "Cool milk nourishes both doshas without overheating in spring"
+        }
+      },
+      {
+        "name": {
+          "ua": "Йогурт",
+          "pl": "Jogurt",
+          "en": "Yogurt"
+        },
+        "note": {
+          "ua": "Легкий йогурт живить агні обох дош без радикального перегрівання",
+          "pl": "Lekki jogurt odżywia agni obu dosz bez radykalnego przegrzewania",
+          "en": "Light yogurt nourishes agni of both doshas without radical overheating"
+        }
+      },
+      {
+        "name": {
+          "ua": "Твердий сир",
+          "pl": "Twardy ser",
+          "en": "Hard cheese"
+        },
+        "note": {
+          "ua": "Легкий сир живить без обтяження, балансує обидві доші",
+          "pl": "Lekki ser odżywia bez obciążenia, równoważy obie dosze",
+          "en": "Light cheese nourishes without burden, balances both doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Масло вершкове",
+          "pl": "Masło",
+          "en": "Butter"
+        },
+        "note": {
+          "ua": "Чисте масло живить без перегрівання і підтримує тонкі тканини",
+          "pl": "Czysty tłuszcz odżywia bez przegrzewania i wspiera delikatne tkanki",
+          "en": "Pure butter nourishes without overheating and supports delicate tissues"
+        }
+      },
+      {
+        "name": {
+          "ua": "Творіг",
+          "pl": "Twaróg",
+          "en": "Cottage cheese"
+        },
+        "note": {
+          "ua": "М'яке і легке, творіг живить Вату без подразнення Піти",
+          "pl": "Miękki i lekki, twaróg odżywia Vatę bez podrażniania Pitty",
+          "en": "Soft and light, cottage cheese nourishes Vata without irritating Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Козячий сир",
+          "pl": "Ser kozi",
+          "en": "Goat cheese"
+        },
+        "note": {
+          "ua": "Легкий козячий сир добре засвоюється і балансує обидві доші",
+          "pl": "Lekki ser kozi dobrze się trawią i równoważy obie dosze",
+          "en": "Light goat cheese digests well and balances both doshas"
+        }
+      }
+    ],
+    "oils": [
+      {
+        "name": {
+          "ua": "Топлене масло (гі)",
+          "pl": "Toplenе масло (ghee)",
+          "en": "Clarified butter (ghee)"
+        },
+        "note": {
+          "ua": "Гі живить без радикального перегрівання і підтримує усі три доші",
+          "pl": "Ghee odżywia bez radykalnego przegrzewania i wspiera wszystkie trzy dosze",
+          "en": "Ghee nourishes without radical overheating and supports all three doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кокосова олія",
+          "pl": "Olej kokosowy",
+          "en": "Coconut oil"
+        },
+        "note": {
+          "ua": "Охолоджуюча кокосова олія помірно живить без розпалювання Піти",
+          "pl": "Chłodzący olej kokosowy umiarkowanie odżywia bez rozpalania Pitty",
+          "en": "Cooling coconut oil moderately nourishes without Pitta inflammation"
+        }
+      },
+      {
+        "name": {
+          "ua": "Соняшникова олія",
+          "pl": "Olej słonecznikowy",
+          "en": "Sunflower oil"
+        },
+        "note": {
+          "ua": "Легка олія балансує без радикального розпалювання обох дош",
+          "pl": "Lekki olej równoważy bez radykalnego rozpalania obu dosz",
+          "en": "Light oil balances without radical inflammation of both doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Оливкова олія",
+          "pl": "Olej z oliwek",
+          "en": "Olive oil"
+        },
+        "note": {
+          "ua": "Омасна оливкова олія помірно живить з охолоджуючим ефектом",
+          "pl": "Olejowata oliwa umiarkowo odżywia z chłodzącym efektem",
+          "en": "Oily olive oil moderately nourishes with cooling effect"
+        }
+      },
+      {
+        "name": {
+          "ua": "Каміння льону олія",
+          "pl": "Olej lniany",
+          "en": "Flaxseed oil"
+        },
+        "note": {
+          "ua": "Лляна олія живить Вату з легким охолоджуючим ефектом для Піти",
+          "pl": "Olej lniany odżywia Vatę z lekkim chłodzącym efektem dla Pitty",
+          "en": "Flaxseed oil nourishes Vata with light cooling effect for Pitta"
+        }
+      },
+      {
+        "name": {
+          "ua": "Коноплина олія",
+          "pl": "Olej konopny",
+          "en": "Hemp oil"
+        },
+        "note": {
+          "ua": "Легка коноплина олія балансує обидві доші без обтяження травлення",
+          "pl": "Lekki olej konopny równoważy obie dosze bez obciążenia trawienia",
+          "en": "Light hemp oil balances both doshas without burdening digestion"
+        }
+      }
+    ],
+    "spices": [
+      {
+        "name": {
+          "ua": "Куркума",
+          "pl": "Kurkuma",
+          "en": "Turmeric"
+        },
+        "note": {
+          "ua": "Теплий укореневий золотий куркумік активує агні без перегрівання",
+          "pl": "Ciepły złoty kurkumik aktywuje agni bez przegrzewania",
+          "en": "Warm golden turmeric activates agni without overheating"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кмин",
+          "pl": "Kminek",
+          "en": "Cumin"
+        },
+        "note": {
+          "ua": "Легкий кмин стимулює травлення обох дош без радикального впливу",
+          "pl": "Lekki kminek stymuluje trawienie obu dosz bez radykalnego wpływu",
+          "en": "Light cumin stimulates digestion of both doshas without radical effect"
+        }
+      },
+      {
+        "name": {
+          "ua": "Коріандр",
+          "pl": "Koriander",
+          "en": "Coriander"
+        },
+        "note": {
+          "ua": "Охолоджуючий коріандр балансує Піту і активує агні обох дош",
+          "pl": "Chłodzący koriander równoważy Pittę i aktywuje agni obu dosz",
+          "en": "Cooling coriander balances Pitta and activates agni of both doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Імбир (сухий)",
+          "pl": "Imbir (suchy)",
+          "en": "Ginger (dry)"
+        },
+        "note": {
+          "ua": "Суховатий імбир активує агні без перегрівання при розумному дозуванні",
+          "pl": "Suchy imbir aktywuje agni bez przegrzewania przy rozsądnym dawkowaniu",
+          "en": "Dry ginger activates agni without overheating with moderate dosing"
+        }
+      },
+      {
+        "name": {
+          "ua": "Чорний перець",
+          "pl": "Czarny pieprz",
+          "en": "Black pepper"
+        },
+        "note": {
+          "ua": "Теплий перець м'ясиств стимулює травлення без радикального розпалювання",
+          "pl": "Ciepły pieprz mięsisty stymuluje trawienie bez radykalnego rozpalania",
+          "en": "Warm peppery meat stimulates digestion without radical inflammation"
+        }
+      },
+      {
+        "name": {
+          "ua": "Фенхель",
+          "pl": "Koper włoski",
+          "en": "Fennel"
+        },
+        "note": {
+          "ua": "Солодкий фенхель охолоджує Піту і розслабляє Вату в теплу пору",
+          "pl": "Słodki koper włoski chłodzi Pittę i rozluźnia Vatę w ciepły sezon",
+          "en": "Sweet fennel cools Pitta and relaxes Vata in warm season"
+        }
+      },
+      {
+        "name": {
+          "ua": "Гарячий перець",
+          "pl": "Papryka ostra",
+          "en": "Cayenne pepper"
+        },
+        "note": {
+          "ua": "Помірний гарячий перець активує агні при обережному дозуванні",
+          "pl": "Umiarkowana papryka ostra aktywuje agni przy ostrożnym dawkowaniu",
+          "en": "Moderate cayenne activates agni with careful dosing"
+        }
+      },
+      {
+        "name": {
+          "ua": "Мускатний горіх",
+          "pl": "Muszkatołowiec",
+          "en": "Nutmeg"
+        },
+        "note": {
+          "ua": "Теплий мускатний живить без радикального висушування обох дош",
+          "pl": "Ciepły muszkatołowiec odżywia bez radykalnego wysuszenia obu dosz",
+          "en": "Warm nutmeg nourishes without radical drying of both doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кориця",
+          "pl": "Cynamon",
+          "en": "Cinnamon"
+        },
+        "note": {
+          "ua": "Теплу кориця стимулює агні без надмірного розпалювання Піти",
+          "pl": "Ciepły cynamon stymuluje agni bez nadmiernego rozpalania Pitty",
+          "en": "Warm cinnamon stimulates agni without excessive Pitta inflammation"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кардамон",
+          "pl": "Kardamon",
+          "en": "Cardamom"
+        },
+        "note": {
+          "ua": "Охолоджуючий кардамон живить і заспокоює обидві доші весною",
+          "pl": "Chłodzący kardamon odżywia i uspokaja obie dosze na wiosnę",
+          "en": "Cooling cardamom nourishes and soothes both doshas in spring"
+        }
+      },
+      {
+        "name": {
+          "ua": "Гвоздика",
+          "pl": "Goździk",
+          "en": "Clove"
+        },
+        "note": {
+          "ua": "Теплий гвоздик активує агні при помірному дозуванні без перегрівання",
+          "pl": "Ciepły goździk aktywuje agni przy umiarkowanym dawkowaniu bez przegrzewania",
+          "en": "Warm clove activates agni with moderate dosing without overheating"
+        }
+      },
+      {
+        "name": {
+          "ua": "Сіль",
+          "pl": "Sól",
+          "en": "Salt"
+        },
+        "note": {
+          "ua": "Море сіль помірна живить без радикального впливу на рівновагу дош",
+          "pl": "Morska sól umiarkowana odżywia bez radykalnego wpływu na równowagę dosz",
+          "en": "Sea salt moderately nourishes without radical effect on dosha balance"
+        }
+      }
+    ],
+    "teas": [
+      {
+        "name": {
+          "ua": "Зелена чай",
+          "pl": "Zielona herbata",
+          "en": "Green tea"
+        },
+        "note": {
+          "ua": "Охолоджуючий чай живить без обтяження травлення в теплу пору",
+          "pl": "Chłodząca herbata odżywia bez obciążenia trawienia w ciepły sezon",
+          "en": "Cooling tea nourishes without burdening digestion in warm season"
+        }
+      },
+      {
+        "name": {
+          "ua": "Коріандровий чай",
+          "pl": "Herbata z kolandrą",
+          "en": "Coriander tea"
+        },
+        "note": {
+          "ua": "Охолоджуючий коріандровий чай балансує обидві доші в весну",
+          "pl": "Chłodząca herbata z kolądrą równoważy obie dosze na wiosnę",
+          "en": "Cooling coriander tea balances both doshas in spring"
+        }
+      },
+      {
+        "name": {
+          "ua": "Фенхельний чай",
+          "pl": "Herbata z koprem włoskim",
+          "en": "Fennel tea"
+        },
+        "note": {
+          "ua": "Солодкий фенхельний чай охолоджує Піту і гасить запалення Вати",
+          "pl": "Słodka herbata z koprem włoskim chłodzi Pittę i gasi zapalenie Vaty",
+          "en": "Sweet fennel tea cools Pitta and quenches Vata inflammation"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кміновий чай",
+          "pl": "Herbata z kminem",
+          "en": "Cumin tea"
+        },
+        "note": {
+          "ua": "Легкий кміновий чай активує агні обох дош без побічних ефектів",
+          "pl": "Lekka herbata z kminem aktywuje agni obu dosz bez efektów ubocznych",
+          "en": "Light cumin tea activates agni of both doshas without side effects"
+        }
+      },
+      {
+        "name": {
+          "ua": "Гвоздичний чай",
+          "pl": "Herbata z goździkami",
+          "en": "Clove tea"
+        },
+        "note": {
+          "ua": "Теплий гвоздичний чай помірна активує траву без перегрівання в весну",
+          "pl": "Ciepła herbata z goździkami umiarkowo aktywuje trawę bez przegrzewania na wiosnę",
+          "en": "Warm clove tea moderately activates digestion without overheating in spring"
+        }
+      },
+      {
+        "name": {
+          "ua": "Медова вода",
+          "pl": "Woda z miodem",
+          "en": "Honey water"
+        },
+        "note": {
+          "ua": "Теплу медову воду живить й легко засвоюється обома дошами",
+          "pl": "Ciepła woda z miodem odżywia i łatwo się trawią oboma doszami",
+          "en": "Warm honey water nourishes and is easily digested by both doshas"
+        }
+      },
+      {
+        "name": {
+          "ua": "Кокосова вода",
+          "pl": "Woda kokosowa",
+          "en": "Coconut water"
+        },
+        "note": {
+          "ua": "Прохолодна кокосова вода охолоджує Піту і живить Вату весною",
+          "pl": "Chłodna woda kokosowa chłodzi Pittę i odżywia Vatę na wiosnę",
+          "en": "Cool coconut water cools Pitta and nourishes Vata in spring"
+        }
+      },
+      {
+        "name": {
+          "ua": "Морквяний сік",
+          "pl": "Sok marchwiowy",
+          "en": "Carrot juice"
+        },
+        "note": {
+          "ua": "Солодкий морквяний сік живить Вату з охолоджуючим ефектом для Піти",
+          "pl": "Słodki sok marchwiowy odżywia Vatę z chłodzącym efektem dla Pitty",
+          "en": "Sweet carrot juice nourishes Vata with cooling effect for Pitta"
+        }
+      }
+    ]
+  }
+}

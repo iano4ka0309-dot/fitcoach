@@ -1,0 +1,1268 @@
+{
+  "vegetables": [
+    {
+      "name": {
+        "ua": "Редис",
+        "pl": "Rzodkiewka",
+        "en": "Radish"
+      },
+      "note": {
+        "ua": "Гострий смак стимулює агні і висушує капху",
+        "pl": "Ostry smak pobudza agni i osusza kapha",
+        "en": "Pungent taste stimulates agni and dries kapha"
+      }
+    },
+    {
+      "name": {
+        "ua": "Морква",
+        "pl": "Marchew",
+        "en": "Carrot"
+      },
+      "note": {
+        "ua": "Легка, гриючи й гостра, покращує травлення",
+        "pl": "Lekka, rozgrzewająca i ostra, wspomaga trawienie",
+        "en": "Light, warming and pungent, improves digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Цибуля",
+        "pl": "Cebula",
+        "en": "Onion"
+      },
+      "note": {
+        "ua": "Гострий смак розпалює метаболізм і висушує слиз",
+        "pl": "Ostry smak rozgrzewa metabolizm i osusza śluz",
+        "en": "Pungent taste ignites metabolism and dries mucus"
+      }
+    },
+    {
+      "name": {
+        "ua": "Часник",
+        "pl": "Czosnek",
+        "en": "Garlic"
+      },
+      "note": {
+        "ua": "Гіркий і гострий, мощне імунне стимулювання",
+        "pl": "Gorzki i ostry, potężne pobudzenie odporności",
+        "en": "Bitter and pungent, powerful immune stimulation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Стручкова квасоля",
+        "pl": "Fasolka szparagowa",
+        "en": "Green beans"
+      },
+      "note": {
+        "ua": "Легка і в'яжуча, не обтяжує травлення",
+        "pl": "Lekka i ściągająca, nie obciąża trawienia",
+        "en": "Light and astringent, doesn't burden digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Капуста",
+        "pl": "Kapusta",
+        "en": "Cabbage"
+      },
+      "note": {
+        "ua": "Суха, легка, покращує лімфодренаж",
+        "pl": "Sucha, lekka, poprawia drenowanie limfatyczne",
+        "en": "Dry, light, improves lymphatic drainage"
+      }
+    },
+    {
+      "name": {
+        "ua": "Брокколі",
+        "pl": "Brokuł",
+        "en": "Broccoli"
+      },
+      "note": {
+        "ua": "Гірка й в'яжуча, дезінтоксикуюча для капхи",
+        "pl": "Gorzka i ściągająca, detoksykacyjna dla kapha",
+        "en": "Bitter and astringent, detoxifying for kapha"
+      }
+    },
+    {
+      "name": {
+        "ua": "Шпинат",
+        "pl": "Szpinak",
+        "en": "Spinach"
+      },
+      "note": {
+        "ua": "Гірка і в'яжуча, стимулює перистальтику",
+        "pl": "Gorzka i ściągająca, stymuluje perystaltykę",
+        "en": "Bitter and astringent, stimulates peristalsis"
+      }
+    },
+    {
+      "name": {
+        "ua": "Петрушка",
+        "pl": "Pietruszka",
+        "en": "Parsley"
+      },
+      "note": {
+        "ua": "Гостра і сушача, діуретична дія на лімфу",
+        "pl": "Ostra i osuszająca, działanie moczopędne na limfę",
+        "en": "Sharp and drying, diuretic action on lymph"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кропива",
+        "pl": "Pokrzywa",
+        "en": "Nettle"
+      },
+      "note": {
+        "ua": "Гірка, в'яжуча, очищує лімфу",
+        "pl": "Gorzka, ściągająca, oczyszcza limfę",
+        "en": "Bitter, astringent, cleanses lymph"
+      }
+    },
+    {
+      "name": {
+        "ua": "Помідор",
+        "pl": "Pomidor",
+        "en": "Tomato"
+      },
+      "note": {
+        "ua": "Гострий й в'яжучий, але використовувати помірно",
+        "pl": "Ostry i ściągający, ale używać umiarkowanie",
+        "en": "Pungent and astringent, but use moderately"
+      }
+    },
+    {
+      "name": {
+        "ua": "Болгарський перець",
+        "pl": "Papryka słodka",
+        "en": "Bell pepper"
+      },
+      "note": {
+        "ua": "Гостра й суха, стимулює травлення",
+        "pl": "Ostra i sucha, stymuluje trawienie",
+        "en": "Pungent and dry, stimulates digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Горох зелений",
+        "pl": "Groszek zielony",
+        "en": "Green peas"
+      },
+      "note": {
+        "ua": "Легка білкова їжа, в'яжуча природа",
+        "pl": "Lekki pokarm białkowy, ściągająca natura",
+        "en": "Light protein food, astringent nature"
+      }
+    },
+    {
+      "name": {
+        "ua": "Спаржа",
+        "pl": "Szparagi",
+        "en": "Asparagus"
+      },
+      "note": {
+        "ua": "Гірка й в'яжуча, легко засвоюється",
+        "pl": "Gorzka i ściągająca, łatwo przyswajalna",
+        "en": "Bitter and astringent, easily digestible"
+      }
+    },
+    {
+      "name": {
+        "ua": "Цвітна капуста",
+        "pl": "Kalafior",
+        "en": "Cauliflower"
+      },
+      "note": {
+        "ua": "Суха й легка, посилює багнетта-агні",
+        "pl": "Sucha i lekka, wzmacnia paczaka-agni",
+        "en": "Dry and light, strengthens pachaka-agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Салат",
+        "pl": "Sałata",
+        "en": "Lettuce"
+      },
+      "note": {
+        "ua": "Легка й гірка, охолоджує без обтяження",
+        "pl": "Lekka i gorzka, chłodzi bez obciążenia",
+        "en": "Light and bitter, cools without burden"
+      }
+    },
+    {
+      "name": {
+        "ua": "Цикорій",
+        "pl": "Cykoria",
+        "en": "Chicory"
+      },
+      "note": {
+        "ua": "Гірка й в'яжуча, очищує печінку",
+        "pl": "Gorzka i ściągająca, oczyszcza wątrobę",
+        "en": "Bitter and astringent, cleanses liver"
+      }
+    },
+    {
+      "name": {
+        "ua": "Баклажан",
+        "pl": "Bakłażan",
+        "en": "Eggplant"
+      },
+      "note": {
+        "ua": "Легкий, але використовувати з гарячими маслами",
+        "pl": "Lekki, ale używać z gorącymi olejami",
+        "en": "Light, but use with warm oils"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кабачок",
+        "pl": "Cukinia",
+        "en": "Zucchini"
+      },
+      "note": {
+        "ua": "Легка й суха, посилює пищеварення",
+        "pl": "Lekka i sucha, wspomaga trawienie",
+        "en": "Light and dry, enhances digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гарбуз",
+        "pl": "Dynia",
+        "en": "Pumpkin"
+      },
+      "note": {
+        "ua": "Гостра й суха, розпалює агні",
+        "pl": "Ostra i sucha, rozpala agni",
+        "en": "Pungent and dry, ignites agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чорнослив",
+        "pl": "Suszony śliwki",
+        "en": "Prune"
+      },
+      "note": {
+        "ua": "Суха, легка, лагхва за природою",
+        "pl": "Sucha, lekka, laghu z natury",
+        "en": "Dry, light, laghu by nature"
+      }
+    },
+    {
+      "name": {
+        "ua": "Мистель",
+        "pl": "Mizeria",
+        "en": "Cucumber salad"
+      },
+      "note": {
+        "ua": "Гостра й суха, охолоджує без слизу",
+        "pl": "Ostra i sucha, chłodzi bez śluzu",
+        "en": "Pungent and dry, cools without mucus"
+      }
+    }
+  ],
+  "fruits": [
+    {
+      "name": {
+        "ua": "Гранат",
+        "pl": "Granat",
+        "en": "Pomegranate"
+      },
+      "note": {
+        "ua": "Гіркий, в'яжучий, легко засвоюється",
+        "pl": "Gorzki, ściągający, łatwo przyswajalny",
+        "en": "Bitter, astringent, easily digestible"
+      }
+    },
+    {
+      "name": {
+        "ua": "Яблуко (кислі сорти)",
+        "pl": "Jabłko (kwaśne odmiany)",
+        "en": "Apple (sour varieties)"
+      },
+      "note": {
+        "ua": "Гіркі, в'яжучі, посилюють агні",
+        "pl": "Gorzkie, ściągające, wzmacniają agni",
+        "en": "Bitter, astringent, strengthen agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Груша",
+        "pl": "Gruszka",
+        "en": "Pear"
+      },
+      "note": {
+        "ua": "Легка, суха, гірка за природою",
+        "pl": "Lekka, sucha, gorzka z natury",
+        "en": "Light, dry, bitter by nature"
+      }
+    },
+    {
+      "name": {
+        "ua": "Абрикос",
+        "pl": "Morela",
+        "en": "Apricot"
+      },
+      "note": {
+        "ua": "Гостра, суха, розпалює метаболізм",
+        "pl": "Ostra, sucha, rozpala metabolizm",
+        "en": "Pungent, dry, ignites metabolism"
+      }
+    },
+    {
+      "name": {
+        "ua": "Вишня",
+        "pl": "Wiśnia",
+        "en": "Cherry"
+      },
+      "note": {
+        "ua": "Гостра й гірка, посилює кровообіг",
+        "pl": "Ostra i gorzka, wspomaga krążenie krwi",
+        "en": "Pungent and bitter, enhances circulation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Цитрусові (апельсин, лимон)",
+        "pl": "Cytrusy (pomarańcza, cytryna)",
+        "en": "Citrus (orange, lemon)"
+      },
+      "note": {
+        "ua": "Гостра, суха, стимулює агні",
+        "pl": "Ostra, sucha, stymuluje agni",
+        "en": "Pungent, dry, stimulates agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Киви",
+        "pl": "Kiwi",
+        "en": "Kiwi"
+      },
+      "note": {
+        "ua": "Гіркий, в'яжучий, легкий фрукт",
+        "pl": "Gorzki, ściągający, lekki owoc",
+        "en": "Bitter, astringent, light fruit"
+      }
+    },
+    {
+      "name": {
+        "ua": "Шовковиця",
+        "pl": "Morwa",
+        "en": "Mulberry"
+      },
+      "note": {
+        "ua": "Гірка, в'яжуча, розпалює травлення",
+        "pl": "Gorzka, ściągająca, rozpala trawienie",
+        "en": "Bitter, astringent, ignites digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Журавлина",
+        "pl": "Żurawina",
+        "en": "Cranberry"
+      },
+      "note": {
+        "ua": "Гостра, гірка, в'яжуча тройка",
+        "pl": "Ostra, gorzka, ściągająca trójka",
+        "en": "Pungent, bitter, astringent trio"
+      }
+    },
+    {
+      "name": {
+        "ua": "Малина",
+        "pl": "Malina",
+        "en": "Raspberry"
+      },
+      "note": {
+        "ua": "Гіркувата, легка, посилює агні",
+        "pl": "Lekko gorzka, lekka, wspomaga agni",
+        "en": "Slightly bitter, light, enhances agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Смородина чорна",
+        "pl": "Czarna porzeczka",
+        "en": "Blackcurrant"
+      },
+      "note": {
+        "ua": "Гостра, гірка, очищує лімфу",
+        "pl": "Ostra, gorzka, oczyszcza limfę",
+        "en": "Pungent, bitter, cleanses lymph"
+      }
+    },
+    {
+      "name": {
+        "ua": "Ожина",
+        "pl": "Jeżyna",
+        "en": "Blackberry"
+      },
+      "note": {
+        "ua": "В'яжуча, суха, улегшує капху",
+        "pl": "Ściągająca, sucha, łagodzi kapha",
+        "en": "Astringent, dry, eases kapha"
+      }
+    },
+    {
+      "name": {
+        "ua": "Айва",
+        "pl": "Pigwa",
+        "en": "Quince"
+      },
+      "note": {
+        "ua": "В'яжуча, гіркувата, суха природа",
+        "pl": "Ściągająca, lekko gorzka, sucha natura",
+        "en": "Astringent, slightly bitter, dry nature"
+      }
+    },
+    {
+      "name": {
+        "ua": "Полуниця",
+        "pl": "Truskawka",
+        "en": "Strawberry"
+      },
+      "note": {
+        "ua": "Легка, гіркувата, посилює травлення",
+        "pl": "Lekka, lekko gorzka, wspomaga trawienie",
+        "en": "Light, slightly bitter, enhances digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Слива",
+        "pl": "Śliwka",
+        "en": "Plum"
+      },
+      "note": {
+        "ua": "Суха, гіркувата, посилює перистальтику",
+        "pl": "Sucha, lekko gorzka, wspomaga perystaltykę",
+        "en": "Dry, slightly bitter, promotes peristalsis"
+      }
+    }
+  ],
+  "grains": [
+    {
+      "name": {
+        "ua": "Ячмінь",
+        "pl": "Jęczmień",
+        "en": "Barley"
+      },
+      "note": {
+        "ua": "Легкий, суший зерновий, розпалює агні",
+        "pl": "Lekki, suchszy zboże, rozpala agni",
+        "en": "Light, drier grain, ignites agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Жито",
+        "pl": "Żyto",
+        "en": "Rye"
+      },
+      "note": {
+        "ua": "Гостре, суче, посилює метаболізм",
+        "pl": "Ostre, suche, wspomaga metabolizm",
+        "en": "Pungent, dry, enhances metabolism"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гречка",
+        "pl": "Gryka",
+        "en": "Buckwheat"
+      },
+      "note": {
+        "ua": "Гостра, суха, не обтяжує живіт",
+        "pl": "Ostra, sucha, nie obciąża brzuch",
+        "en": "Pungent, dry, doesn't burden stomach"
+      }
+    },
+    {
+      "name": {
+        "ua": "Просо",
+        "pl": "Proso",
+        "en": "Millet"
+      },
+      "note": {
+        "ua": "Легке, суше за інші, розпалює агні",
+        "pl": "Lekkie, suche od innych, rozpala agni",
+        "en": "Light, drier than others, ignites agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кукурудза",
+        "pl": "Kukurydza",
+        "en": "Corn"
+      },
+      "note": {
+        "ua": "Гостра, суха, посилює травлення",
+        "pl": "Ostra, sucha, wspomaga trawienie",
+        "en": "Pungent, dry, enhances digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Полба",
+        "pl": "Orkisz",
+        "en": "Spelt"
+      },
+      "note": {
+        "ua": "Легче пшениці, гостра, розпалює агні",
+        "pl": "Lżejsze od pszenicy, ostre, rozpala agni",
+        "en": "Lighter than wheat, pungent, ignites agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Вівса",
+        "pl": "Owies",
+        "en": "Oats"
+      },
+      "note": {
+        "ua": "Легкі, теплі, гостра виправка необхідна",
+        "pl": "Lekkie, ciepłe, ostry dodatek konieczny",
+        "en": "Light, warm, pungent addition necessary"
+      }
+    },
+    {
+      "name": {
+        "ua": "Амарант",
+        "pl": "Amarant",
+        "en": "Amaranth"
+      },
+      "note": {
+        "ua": "Дуже легкий, гостра природа, суче",
+        "pl": "Bardzo lekki, ostra natura, suche",
+        "en": "Very light, pungent nature, dry"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кіноа",
+        "pl": "Quinoa",
+        "en": "Quinoa"
+      },
+      "note": {
+        "ua": "Легка, гіркувата, вибагливо для капхи",
+        "pl": "Lekka, lekko gorzka, idealnie dla kapha",
+        "en": "Light, slightly bitter, ideal for kapha"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чорна сочевиця",
+        "pl": "Czarna soczewica",
+        "en": "Black lentils"
+      },
+      "note": {
+        "ua": "Гостра, суха, легко засвоюється",
+        "pl": "Ostra, sucha, łatwo przyswajalна",
+        "en": "Pungent, dry, easily digestible"
+      }
+    }
+  ],
+  "meat": [
+    {
+      "name": {
+        "ua": "Курячина (білі м'ясо)",
+        "pl": "Kurczak (białe mięso)",
+        "en": "Chicken (white meat)"
+      },
+      "note": {
+        "ua": "Найлегша, гостра, посилює агні",
+        "pl": "Najlżejsze, ostre, wspomaga agni",
+        "en": "Lightest, pungent, enhances agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Індик",
+        "pl": "Indyk",
+        "en": "Turkey"
+      },
+      "note": {
+        "ua": "Легкий, гостриш, розпалює метаболізм",
+        "pl": "Lekki, ostrzejszy, rozpala metabolizm",
+        "en": "Light, more pungent, ignites metabolism"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гусак",
+        "pl": "Gęś",
+        "en": "Goose"
+      },
+      "note": {
+        "ua": "Гостра природа, розпалює слизові мембрани",
+        "pl": "Ostra natura, rozpala błony śluzowe",
+        "en": "Pungent nature, stimulates mucous membranes"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кріль",
+        "pl": "Królik",
+        "en": "Rabbit"
+      },
+      "note": {
+        "ua": "Найлегший м'ясо, гостра, сухо",
+        "pl": "Najlżejsze mięso, ostre, suche",
+        "en": "Lightest meat, pungent, dry"
+      }
+    },
+    {
+      "name": {
+        "ua": "Ловля (дичина)",
+        "pl": "Łowy (zwierzyna)",
+        "en": "Game (wild meat)"
+      },
+      "note": {
+        "ua": "Гостра, суха, посилює вогонь травлення",
+        "pl": "Ostra, sucha, wzmacnia ogień trawienia",
+        "en": "Pungent, dry, strengthens digestive fire"
+      }
+    },
+    {
+      "name": {
+        "ua": "Перепелка",
+        "pl": "Przepiórka",
+        "en": "Quail"
+      },
+      "note": {
+        "ua": "Дуже легка, гостра, розпалює агні",
+        "pl": "Bardzo lekka, ostra, rozpala agni",
+        "en": "Very light, pungent, ignites agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Качка",
+        "pl": "Kaczka",
+        "en": "Duck"
+      },
+      "note": {
+        "ua": "Гостра, але використовувати помірно",
+        "pl": "Ostra, ale używać umiarkowanie",
+        "en": "Pungent, but use moderately"
+      }
+    },
+    {
+      "name": {
+        "ua": "Молодавелик",
+        "pl": "Młody wołowina",
+        "en": "Young beef"
+      },
+      "note": {
+        "ua": "Важко, але молода гостріше старої",
+        "pl": "Ciężkie, ale młode ostrzejsze od starego",
+        "en": "Heavy, but young sharper than old"
+      }
+    }
+  ],
+  "fish": [
+    {
+      "name": {
+        "ua": "Щука",
+        "pl": "Szczupak",
+        "en": "Pike"
+      },
+      "note": {
+        "ua": "Гостра, суха, розпалює метаболізм",
+        "pl": "Ostra, sucha, rozpala metabolizm",
+        "en": "Pungent, dry, ignites metabolism"
+      }
+    },
+    {
+      "name": {
+        "ua": "Форель",
+        "pl": "Pstrąg",
+        "en": "Trout"
+      },
+      "note": {
+        "ua": "Гостра й суха, легше ніж інші риби",
+        "pl": "Ostra i sucha, lżejsze niż inne ryby",
+        "en": "Pungent and dry, lighter than other fish"
+      }
+    },
+    {
+      "name": {
+        "ua": "Судак",
+        "pl": "Sandacz",
+        "en": "Pike-perch"
+      },
+      "note": {
+        "ua": "Дуже гостра, суха, розпалює вогонь",
+        "pl": "Bardzo ostra, sucha, rozpala ogień",
+        "en": "Very pungent, dry, ignites fire"
+      }
+    },
+    {
+      "name": {
+        "ua": "Лящ",
+        "pl": "Leszcz",
+        "en": "Bream"
+      },
+      "note": {
+        "ua": "Гостра, сушить капху ефективно",
+        "pl": "Ostra, efektywnie osusza kapha",
+        "en": "Pungent, effectively dries kapha"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кальмар",
+        "pl": "Kałamarnica",
+        "en": "Squid"
+      },
+      "note": {
+        "ua": "Гостра, суха, розпалює травлення",
+        "pl": "Ostra, sucha, rozpala trawienie",
+        "en": "Pungent, dry, ignites digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Креветка",
+        "pl": "Krevetka",
+        "en": "Shrimp"
+      },
+      "note": {
+        "ua": "Гостра, гарячка, посилює метаболізм",
+        "pl": "Ostra, ciepła, wspomaga metabolizm",
+        "en": "Pungent, warm, enhances metabolism"
+      }
+    },
+    {
+      "name": {
+        "ua": "Устриця",
+        "pl": "Ostrygą",
+        "en": "Oyster"
+      },
+      "note": {
+        "ua": "Гостра, гарячка, розпалює агні",
+        "pl": "Ostra, ciepła, rozpala agni",
+        "en": "Pungent, warm, ignites agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Мушля",
+        "pl": "Małże",
+        "en": "Clam"
+      },
+      "note": {
+        "ua": "Гостра, суха, стимулює травлення",
+        "pl": "Ostra, sucha, stymuluje trawienie",
+        "en": "Pungent, dry, stimulates digestion"
+      }
+    }
+  ],
+  "dairy": [
+    {
+      "name": {
+        "ua": "Молоко (коров'яче, гаряче)",
+        "pl": "Mleko (krowskie, gorące)",
+        "en": "Milk (cow's, hot)"
+      },
+      "note": {
+        "ua": "Використовувати гарячим з спеціями для капхи",
+        "pl": "Używać gorące ze spcjami dla kapha",
+        "en": "Use hot with spices for kapha"
+      }
+    },
+    {
+      "name": {
+        "ua": "Йогурт (гарячий)",
+        "pl": "Jogurt (gorący)",
+        "en": "Yogurt (hot)"
+      },
+      "note": {
+        "ua": "Гірка, в'яжуча природа, у малих дозах",
+        "pl": "Gorzka, ściągająca natura, w małych dawkach",
+        "en": "Bitter, astringent nature, in small doses"
+      }
+    },
+    {
+      "name": {
+        "ua": "Сир (твердий, сухий)",
+        "pl": "Ser (twardy, suchy)",
+        "en": "Cheese (hard, dry)"
+      },
+      "note": {
+        "ua": "Суха форма молока, легше ніж свіжий",
+        "pl": "Sucha forma mleka, lżejsze niż świeży",
+        "en": "Dry form of milk, lighter than fresh"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кефір",
+        "pl": "Kefir",
+        "en": "Kefir"
+      },
+      "note": {
+        "ua": "Гіркуватий, в'яжучий, розпалює агні",
+        "pl": "Lekko gorzki, ściągający, rozpala agni",
+        "en": "Slightly bitter, astringent, ignites agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Сметана (у малій кількості)",
+        "pl": "Śmietana (w małej ilości)",
+        "en": "Sour cream (in small quantity)"
+      },
+      "note": {
+        "ua": "Гіркувата, в'яжуча, але важка природа",
+        "pl": "Lekko gorzka, ściągająca, ale ciężka natura",
+        "en": "Slightly bitter, astringent, but heavy nature"
+      }
+    },
+    {
+      "name": {
+        "ua": "Молочна сироватка",
+        "pl": "Serwatka mleczna",
+        "en": "Whey"
+      },
+      "note": {
+        "ua": "Легка, гіркувата, розпалює травлення",
+        "pl": "Lekka, lekko gorzka, rozpala trawienie",
+        "en": "Light, slightly bitter, ignites digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Козине молоко",
+        "pl": "Mleko kozie",
+        "en": "Goat milk"
+      },
+      "note": {
+        "ua": "Легше коров'ячого, гостра природа",
+        "pl": "Lżejsze od krowskiego, ostra natura",
+        "en": "Lighter than cow's, pungent nature"
+      }
+    },
+    {
+      "name": {
+        "ua": "Топлене масло (гі)",
+        "pl": "Masło topione (ghee)",
+        "en": "Ghee (clarified butter)"
+      },
+      "note": {
+        "ua": "Гостра, розпалює агні, теплий жир",
+        "pl": "Ostra, rozpala agni, ciepły tłuszcz",
+        "en": "Pungent, ignites agni, warm fat"
+      }
+    }
+  ],
+  "oils": [
+    {
+      "name": {
+        "ua": "Горчична олія",
+        "pl": "Olej musztardowy",
+        "en": "Mustard oil"
+      },
+      "note": {
+        "ua": "Найгорячіша, найгостріша, розпалює агні",
+        "pl": "Najgorstsza, najostrzejsza, rozpala agni",
+        "en": "Hottest, sharpest, ignites agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кунжутна олія",
+        "pl": "Olej sezamowy",
+        "en": "Sesame oil"
+      },
+      "note": {
+        "ua": "Гостра, гарячка, розпалює травлення",
+        "pl": "Ostra, ciepła, rozpala trawienie",
+        "en": "Pungent, warm, ignites digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кукурудзяна олія",
+        "pl": "Olej kukurydziany",
+        "en": "Corn oil"
+      },
+      "note": {
+        "ua": "Гостра, суха, посилює агні",
+        "pl": "Ostra, sucha, wspomaga agni",
+        "en": "Pungent, dry, enhances agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гарячі олії рослинні",
+        "pl": "Gorące oleje roślinne",
+        "en": "Warm plant oils"
+      },
+      "note": {
+        "ua": "Використовувати лише гарячі, не холодні",
+        "pl": "Używać tylko ciepłe, nie zimne",
+        "en": "Use only warm, not cold"
+      }
+    },
+    {
+      "name": {
+        "ua": "Жир птиці",
+        "pl": "Tłuszcz ptaka",
+        "en": "Poultry fat"
+      },
+      "note": {
+        "ua": "Гостра й суха, розпалює вогонь",
+        "pl": "Ostra i sucha, rozpala ogień",
+        "en": "Pungent and dry, ignites fire"
+      }
+    },
+    {
+      "name": {
+        "ua": "Жир баранячий",
+        "pl": "Tłuszcz baraní",
+        "en": "Lamb fat"
+      },
+      "note": {
+        "ua": "Гостра, гаряча, розпалює травлення",
+        "pl": "Ostra, ciepła, rozpala trawienie",
+        "en": "Pungent, warm, ignites digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Оливкова олія (гостра)",
+        "pl": "Olej oliwkowy (ostry)",
+        "en": "Olive oil (pungent)"
+      },
+      "note": {
+        "ua": "Гіркувата й в'яжуча, помірна помощь",
+        "pl": "Lekko gorzka i ściągająca, umiarkowana pomoc",
+        "en": "Slightly bitter and astringent, moderate help"
+      }
+    },
+    {
+      "name": {
+        "ua": "Нім олія",
+        "pl": "Olej neem",
+        "en": "Neem oil"
+      },
+      "note": {
+        "ua": "Гірка, в'яжуча, очищує лімфу",
+        "pl": "Gorzka, ściągająca, oczyszcza limfę",
+        "en": "Bitter, astringent, cleanses lymph"
+      }
+    }
+  ],
+  "spices": [
+    {
+      "name": {
+        "ua": "Імбир (свіжий)",
+        "pl": "Imbir (świeży)",
+        "en": "Ginger (fresh)"
+      },
+      "note": {
+        "ua": "Найважливіша спеція для капхи, розпалює агні",
+        "pl": "Najważniejsza przyprava dla kapha, rozpala agni",
+        "en": "Most important spice for kapha, ignites agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чорний перець",
+        "pl": "Czarny pieprz",
+        "en": "Black pepper"
+      },
+      "note": {
+        "ua": "Гостра, гаряча, розпалює травлення",
+        "pl": "Ostra, ciepła, rozpala trawienie",
+        "en": "Pungent, warm, ignites digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кайєнський перець",
+        "pl": "Pieprz cayenne",
+        "en": "Cayenne pepper"
+      },
+      "note": {
+        "ua": "Дуже гостра, суша, стимулює агні",
+        "pl": "Bardzo ostra, sucha, stymuluje agni",
+        "en": "Very pungent, dry, stimulates agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гірчиця",
+        "pl": "Musztarda",
+        "en": "Mustard"
+      },
+      "note": {
+        "ua": "Гостра, гаряча, розпалює метаболізм",
+        "pl": "Ostra, ciepła, rozpala metabolizm",
+        "en": "Pungent, warm, ignites metabolism"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кумін",
+        "pl": "Kminek",
+        "en": "Cumin"
+      },
+      "note": {
+        "ua": "Гостра, суха, посилює травлення",
+        "pl": "Ostra, sucha, wspomaga trawienie",
+        "en": "Pungent, dry, enhances digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Корінь",
+        "pl": "Koriander",
+        "en": "Coriander"
+      },
+      "note": {
+        "ua": "Гіркувата й в'яжуча, охолоджує без обтяження",
+        "pl": "Lekko gorzka i ściągająca, chłodzi bez obciążenia",
+        "en": "Slightly bitter and astringent, cools without burden"
+      }
+    },
+    {
+      "name": {
+        "ua": "Куркума",
+        "pl": "Kurkuma",
+        "en": "Turmeric"
+      },
+      "note": {
+        "ua": "Гіркувата, в'яжуча, очищує кров",
+        "pl": "Lekko gorzka, ściągająca, oczyszcza krew",
+        "en": "Slightly bitter, astringent, purifies blood"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кориця",
+        "pl": "Cynamon",
+        "en": "Cinnamon"
+      },
+      "note": {
+        "ua": "Гостра, гаряча, розпалює агні",
+        "pl": "Ostra, ciepła, rozpala agni",
+        "en": "Pungent, warm, ignites agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гвоздика",
+        "pl": "Goździk",
+        "en": "Clove"
+      },
+      "note": {
+        "ua": "Дуже гостра, гаряча, розпалює вогонь",
+        "pl": "Bardzo ostra, ciepła, rozpala ogień",
+        "en": "Very pungent, warm, ignites fire"
+      }
+    },
+    {
+      "name": {
+        "ua": "Макис",
+        "pl": "Muszkatołowiec",
+        "en": "Nutmeg"
+      },
+      "note": {
+        "ua": "Гостра, гаряча, розпалює травлення",
+        "pl": "Ostra, ciepła, rozpala trawienie",
+        "en": "Pungent, warm, ignites digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Асафетида (гінг)",
+        "pl": "Asafetyda (hing)",
+        "en": "Asafoetida (hing)"
+      },
+      "note": {
+        "ua": "Гостра, розпалює гази, розпалює агні",
+        "pl": "Ostra, rozpala gazy, rozpala agni",
+        "en": "Pungent, ignites gases, ignites agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чорний тмин",
+        "pl": "Czarny kminek",
+        "en": "Black cumin"
+      },
+      "note": {
+        "ua": "Гостра, суха, посилює травлення",
+        "pl": "Ostra, sucha, wspomaga trawienie",
+        "en": "Pungent, dry, enhances digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Капсикум",
+        "pl": "Kapsykum",
+        "en": "Capsicum"
+      },
+      "note": {
+        "ua": "Гостра, гаряча, розпалює метаболізм",
+        "pl": "Ostra, ciepła, rozpala metabolizm",
+        "en": "Pungent, warm, ignites metabolism"
+      }
+    },
+    {
+      "name": {
+        "ua": "Фенхель",
+        "pl": "Koperkwiat",
+        "en": "Fennel"
+      },
+      "note": {
+        "ua": "Гіркувата, в'яжуча, але допомагає травленню",
+        "pl": "Lekko gorzka, ściągająca, ale wspomaga trawienie",
+        "en": "Slightly bitter, astringent, but aids digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кокос (сушений, молодий)",
+        "pl": "Kokos (suszony, młody)",
+        "en": "Coconut (dried, young)"
+      },
+      "note": {
+        "ua": "Легкий, гіркуватий, не обтяжує капху",
+        "pl": "Lekki, lekko gorzki, nie obciąża kapha",
+        "en": "Light, slightly bitter, doesn't burden kapha"
+      }
+    }
+  ],
+  "teas": [
+    {
+      "name": {
+        "ua": "Імбирний чай",
+        "pl": "Herbata imbirowa",
+        "en": "Ginger tea"
+      },
+      "note": {
+        "ua": "Найголовніший, розпалює агні, гіркуватий",
+        "pl": "Najważniejszy, rozpala agni, lekko gorzki",
+        "en": "Most important, ignites agni, slightly bitter"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чорний чай (гарячий)",
+        "pl": "Czarna herbata (gorąca)",
+        "en": "Black tea (hot)"
+      },
+      "note": {
+        "ua": "Гостра, в'яжуча, розпалює травлення",
+        "pl": "Ostra, ściągająca, rozpala trawienie",
+        "en": "Pungent, astringent, ignites digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Трав'яний чай із пижма",
+        "pl": "Herbata ziołowa z piżmem",
+        "en": "Herbal tea with tansy"
+      },
+      "note": {
+        "ua": "Гостра, гаряча, розпалює вогонь травлення",
+        "pl": "Ostra, ciepła, rozpala ogień trawienia",
+        "en": "Pungent, warm, ignites digestive fire"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гарячий напій з куркумою",
+        "pl": "Gorący napój z kurkumą",
+        "en": "Warm turmeric drink"
+      },
+      "note": {
+        "ua": "Гіркувата, в'яжуча, очищує дихальні шляхи",
+        "pl": "Lekko gorzka, ściągająca, oczyszcza drogi oddechowe",
+        "en": "Slightly bitter, astringent, clears respiratory tracts"
+      }
+    },
+    {
+      "name": {
+        "ua": "Напій з горилиці",
+        "pl": "Napój z oregano",
+        "en": "Oregano drink"
+      },
+      "note": {
+        "ua": "Гостра, розпалює гази, розпалює агні",
+        "pl": "Ostra, rozpala gazy, rozpala agni",
+        "en": "Pungent, ignites gases, ignites agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гарячий напій з матою",
+        "pl": "Gorący napój z matą",
+        "en": "Warm mate drink"
+      },
+      "note": {
+        "ua": "Гостра, гарячка, розпалює метаболізм",
+        "pl": "Ostra, ciepła, rozpala metabolizm",
+        "en": "Pungent, warm, ignites metabolism"
+      }
+    },
+    {
+      "name": {
+        "ua": "Напій з мідої (базилік)",
+        "pl": "Napój ze Świętego Bazylii",
+        "en": "Holy basil drink"
+      },
+      "note": {
+        "ua": "Гостра, гаряча, розпалює дух і тіло",
+        "pl": "Ostra, ciepła, rozpala ducha i ciało",
+        "en": "Pungent, warm, ignites spirit and body"
+      }
+    },
+    {
+      "name": {
+        "ua": "Боровцевий чай",
+        "pl": "Herbata z tymianku",
+        "en": "Thyme tea"
+      },
+      "note": {
+        "ua": "Гостра, гаряча, розпалює дихальні шляхи",
+        "pl": "Ostra, ciepła, rozpala drogi oddechowe",
+        "en": "Pungent, warm, ignites respiratory tracts"
+      }
+    },
+    {
+      "name": {
+        "ua": "Напій з кмину",
+        "pl": "Napój z kminku",
+        "en": "Cumin drink"
+      },
+      "note": {
+        "ua": "Гостра, суха, посилює травлення",
+        "pl": "Ostra, sucha, wspomaga trawienie",
+        "en": "Pungent, dry, enhances digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Цикорій замість кави",
+        "pl": "Cykoria zamiast kawy",
+        "en": "Chicory instead of coffee"
+      },
+      "note": {
+        "ua": "Гіркувата, в'яжуча, очищує печінку",
+        "pl": "Lekko gorzka, ściągająca, oczyszcza wątrobę",
+        "en": "Slightly bitter, astringent, cleanses liver"
+      }
+    }
+  ]
+}

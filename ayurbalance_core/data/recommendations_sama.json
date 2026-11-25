@@ -1,0 +1,529 @@
+{
+  "foods_eat": [
+    {
+      "name": {
+        "ua": "Рис басматі",
+        "pl": "Ryż basmati",
+        "en": "Basmati rice"
+      },
+      "why": {
+        "ua": "Легкозасвоюване зерно з нейтральною енергетикою, не порушує жодну дошу. Має середній глікемічний індекс та забезпечує стабільну енергію",
+        "pl": "Łatwo przyswajalne ziarno o neutralnej energetyce, nie zaburza żadnej doszy. Ma średni indeks glikemiczny i zapewnia stabilną energię",
+        "en": "Easily digestible grain with neutral energetics, does not disturb any dosha. Has a moderate glycemic index and provides stable energy"
+      },
+      "how": {
+        "ua": "Варити з водою у пропорції 1:2. Їсти як основу обіду та вечері. Влітку подавати ледь теплим, взимку — гарячим з топленим маслом",
+        "pl": "Gotować z wodą w proporcji 1:2. Jeść jako podstawę obiadu i kolacji. Latem podawać lekko ciepły, zimą — gorący z masłem klarowanym",
+        "en": "Cook with water in 1:2 ratio. Eat as the base of lunch and dinner. In summer serve slightly warm, in winter — hot with ghee"
+      }
+    },
+    {
+      "name": {
+        "ua": "Маш (мунг дал)",
+        "pl": "Fasola mung",
+        "en": "Mung beans"
+      },
+      "why": {
+        "ua": "Єдиний бобовий, що вважається тридошічним — підходить усім типам. Багатий на рослинний білок, клітковину та фолієву кислоту. Легко засвоюється",
+        "pl": "Jedyna roślina strączkowa uważana za tridosziczną — odpowiednia dla wszystkich typów. Bogata w białko roślinne, błonnik i kwas foliowy. Łatwo przyswajalna",
+        "en": "The only legume considered tridoshic — suitable for all types. Rich in plant protein, fiber and folic acid. Easy to digest"
+      },
+      "how": {
+        "ua": "Замочити на 4 години, варити до м'якості 30-40 хвилин. Готувати як дал-суп з куркумою та коміном. Ідеальна щоденна страва",
+        "pl": "Namoczyć na 4 godziny, gotować do miękkości 30-40 minut. Przygotować jako zupę dal z kurkumą i kminkiem. Idealne danie na co dzień",
+        "en": "Soak for 4 hours, cook until soft for 30-40 minutes. Prepare as dal soup with turmeric and cumin. An ideal daily dish"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гхі (топлене масло)",
+        "pl": "Ghee (masło klarowane)",
+        "en": "Ghee (clarified butter)"
+      },
+      "why": {
+        "ua": "Тридошічний продукт — підтримує травний вогонь (агні) не перегріваючи. Містить коротколанцюгові жирні кислоти, бутират для здоров'я кишечника. Підвищує засвоєння жиророзчинних вітамінів",
+        "pl": "Produkt tridosziczny — wspiera ogień trawienny (agni) bez przegrzewania. Zawiera krótkołańcuchowe kwasy tłuszczowe, maślan dla zdrowia jelit. Zwiększa przyswajanie witamin rozpuszczalnych w tłuszczach",
+        "en": "Tridoshic product — supports digestive fire (agni) without overheating. Contains short-chain fatty acids, butyrate for gut health. Enhances absorption of fat-soluble vitamins"
+      },
+      "how": {
+        "ua": "Додавати 1-2 чайні ложки до готових страв, каш, рису. Використовувати для смаження спецій. Не перевищувати 2-3 столові ложки на день",
+        "pl": "Dodawać 1-2 łyżeczki do gotowych dań, kasz, ryżu. Używać do smażenia przypraw. Nie przekraczać 2-3 łyżek stołowych dziennie",
+        "en": "Add 1-2 teaspoons to prepared dishes, porridges, rice. Use for tempering spices. Do not exceed 2-3 tablespoons per day"
+      }
+    },
+    {
+      "name": {
+        "ua": "Цукіні (кабачок)",
+        "pl": "Cukinia",
+        "en": "Zucchini"
+      },
+      "why": {
+        "ua": "Нейтральний овоч з м'яким смаком, що не дратує жодну дошу. Низькокалорійний, містить калій, вітамін С та антиоксиданти. Підтримує гідратацію",
+        "pl": "Neutralne warzywo o łagodnym smaku, które nie drażni żadnej doszy. Niskokaloryczne, zawiera potas, witaminę C i antyoksydanty. Wspiera nawodnienie",
+        "en": "Neutral vegetable with mild taste that does not irritate any dosha. Low-calorie, contains potassium, vitamin C and antioxidants. Supports hydration"
+      },
+      "how": {
+        "ua": "Тушкувати, запікати або додавати до супів. Готувати зі спеціями — коміном, коріандром. Влітку можна вживати у легких салатах, взимку — у теплих стравах",
+        "pl": "Dusić, piec lub dodawać do zup. Gotować z przyprawami — kminkiem, kolendrą. Latem można jeść w lekkich sałatkach, zimą — w ciepłych daniach",
+        "en": "Stew, bake or add to soups. Cook with spices — cumin, coriander. In summer eat in light salads, in winter — in warm dishes"
+      }
+    },
+    {
+      "name": {
+        "ua": "Солодка картопля (батат)",
+        "pl": "Batat (słodki ziemniak)",
+        "en": "Sweet potato"
+      },
+      "why": {
+        "ua": "Природно солодкий коренеплід зі збалансованими властивостями. Багатий на бета-каротин, клітковину та вітамін В6. Забезпечує тривалу енергію без різких стрибків цукру",
+        "pl": "Naturalnie słodki korzeń o zrównoważonych właściwościach. Bogaty w beta-karoten, błonnik i witaminę B6. Zapewnia długotrwałą energię bez gwałtownych skoków cukru",
+        "en": "Naturally sweet root vegetable with balanced properties. Rich in beta-carotene, fiber and vitamin B6. Provides sustained energy without sharp sugar spikes"
+      },
+      "how": {
+        "ua": "Запікати цілком або шматочками при 200°C 30-40 хвилин. Додавати до супів та рагу. Взимку їсти частіше як зігріваючий гарнір",
+        "pl": "Piec w całości lub w kawałkach w 200°C przez 30-40 minut. Dodawać do zup i gulaszów. Zimą jeść częściej jako rozgrzewający dodatek",
+        "en": "Bake whole or in pieces at 200°C for 30-40 minutes. Add to soups and stews. In winter eat more often as a warming side dish"
+      }
+    },
+    {
+      "name": {
+        "ua": "Спаржа",
+        "pl": "Szparagi",
+        "en": "Asparagus"
+      },
+      "why": {
+        "ua": "В Аюрведі шатаварі (дикий вид спаржі) — один з найцінніших тридошічних продуктів. Містить пребіотичний інулін, фолати, вітамін К. Підтримує здоров'я нирок та репродуктивної системи",
+        "pl": "W Ajurwedzie szatawari (dziki gatunek szparagów) — jeden z najcenniejszych produktów tridoszicznych. Zawiera prebiotyczną inulinę, foliany, witaminę K. Wspiera zdrowie nerek i układu rozrodczego",
+        "en": "In Ayurveda shatavari (wild asparagus) is one of the most valuable tridoshic foods. Contains prebiotic inulin, folates, vitamin K. Supports kidney and reproductive health"
+      },
+      "how": {
+        "ua": "Злегка обсмажити на гхі 3-5 хвилин з сіллю та чорним перцем. Додавати до рису, кічарі. Не переварювати, щоб зберегти хрусткість та поживні речовини",
+        "pl": "Lekko podsmażyć na ghee 3-5 minut z solą i czarnym pieprzem. Dodawać do ryżu, kiczari. Nie rozgotowywać, aby zachować chrupkość i wartości odżywcze",
+        "en": "Lightly sauté in ghee for 3-5 minutes with salt and black pepper. Add to rice, kitchari. Do not overcook to preserve crunchiness and nutrients"
+      }
+    },
+    {
+      "name": {
+        "ua": "Мигдаль",
+        "pl": "Migdały",
+        "en": "Almonds"
+      },
+      "why": {
+        "ua": "Поживний горіх з нейтрально-теплою енергетикою. Джерело вітаміну Е, магнію та здорових жирів. За Аюрведою, зміцнює оджас (життєву силу) та підтримує мозок",
+        "pl": "Pożywny orzech o neutralno-ciepłej energetyce. Źródło witaminy E, magnezu i zdrowych tłuszczów. Według Ajurwedy wzmacnia odżas (siłę witalną) i wspiera mózg",
+        "en": "Nutritious nut with neutral-warm energetics. Source of vitamin E, magnesium and healthy fats. According to Ayurveda, strengthens ojas (vital force) and supports the brain"
+      },
+      "how": {
+        "ua": "Замочити 8-10 штук на ніч, зранку очистити від шкірки та з'їсти. Замочування покращує засвоюваність та знижує вміст фітинової кислоти. Можна додавати до каш",
+        "pl": "Namoczyć 8-10 sztuk na noc, rano obrać ze skórki i zjeść. Namaczanie poprawia przyswajalność i obniża zawartość kwasu fitynowego. Można dodawać do kasz",
+        "en": "Soak 8-10 overnight, peel in the morning and eat. Soaking improves digestibility and reduces phytic acid content. Can be added to porridges"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кічарі (рис з машем)",
+        "pl": "Kitchari (ryż z fasolą mung)",
+        "en": "Kitchari (rice with mung beans)"
+      },
+      "why": {
+        "ua": "Золотий стандарт тридошічного харчування в Аюрведі. Поєднання рису та машу дає повноцінний білок з усіма амінокислотами. Ідеальна для очищення та відновлення організму",
+        "pl": "Złoty standard tridoszycznego odżywiania w Ajurwedzie. Połączenie ryżu i fasoli mung daje pełnowartościowe białko ze wszystkimi aminokwasami. Idealna do oczyszczania i regeneracji organizmu",
+        "en": "The gold standard of tridoshic nutrition in Ayurveda. The combination of rice and mung beans provides complete protein with all amino acids. Ideal for cleansing and body restoration"
+      },
+      "how": {
+        "ua": "Змішати 1 частину машу з 2 частинами рису, варити з куркумою, коміном та гхі до м'якості. Їсти як основну страву обіду. Ідеальна їжа при зміні сезонів",
+        "pl": "Zmieszać 1 część fasoli mung z 2 częściami ryżu, gotować z kurkumą, kminkiem i ghee do miękkości. Jeść jako główne danie obiadowe. Idealne jedzenie przy zmianie pór roku",
+        "en": "Mix 1 part mung beans with 2 parts rice, cook with turmeric, cumin and ghee until soft. Eat as the main lunch dish. Perfect food during seasonal transitions"
+      }
+    },
+    {
+      "name": {
+        "ua": "Морква",
+        "pl": "Marchew",
+        "en": "Carrots"
+      },
+      "why": {
+        "ua": "Збалансований коренеплід з природною солодкістю. Рекордний вміст бета-каротину, який перетворюється на вітамін А. Підтримує зір, шкіру та імунітет",
+        "pl": "Zrównoważony korzeń o naturalnej słodkości. Rekordowa zawartość beta-karotenu, który przekształca się w witaminę A. Wspiera wzrok, skórę i odporność",
+        "en": "Balanced root vegetable with natural sweetness. Record content of beta-carotene which converts to vitamin A. Supports vision, skin and immunity"
+      },
+      "how": {
+        "ua": "Готувати на парі або тушкувати з гхі — бета-каротин краще засвоюється з жирами. Додавати до супів, рагу, кічарі. Сиру моркву їсти вдень, не ввечері",
+        "pl": "Gotować na parze lub dusić z ghee — beta-karoten lepiej się przyswaja z tłuszczami. Dodawać do zup, gulaszów, kitchari. Surową marchew jeść w ciągu dnia, nie wieczorem",
+        "en": "Steam or stew with ghee — beta-carotene is better absorbed with fats. Add to soups, stews, kitchari. Eat raw carrots during the day, not in the evening"
+      }
+    },
+    {
+      "name": {
+        "ua": "Яблука (приготовані)",
+        "pl": "Jabłka (gotowane)",
+        "en": "Apples (cooked)"
+      },
+      "why": {
+        "ua": "Приготовані яблука набувають тридошічних властивостей — стають м'якшими та легшими для травлення. Містять пектин — потужний пребіотик. Підтримують мікрофлору кишечника",
+        "pl": "Gotowane jabłka nabierają właściwości tridoszicznych — stają się łagodniejsze i łatwiejsze do trawienia. Zawierają pektynę — silny prebiotyk. Wspierają mikroflorę jelitową",
+        "en": "Cooked apples acquire tridoshic properties — they become milder and easier to digest. Contain pectin — a powerful prebiotic. Support gut microbiome"
+      },
+      "how": {
+        "ua": "Запікати з корицею та кардамоном, тушкувати на гхі. Їсти як десерт або сніданок. Ідеальна закуска за 30 хвилин до основної їжі для стимуляції агні",
+        "pl": "Piec z cynamonem i kardamonem, dusić na ghee. Jeść jako deser lub śniadanie. Idealny przekąs 30 minut przed głównym posiłkiem dla stymulacji agni",
+        "en": "Bake with cinnamon and cardamom, stew in ghee. Eat as dessert or breakfast. An ideal snack 30 minutes before the main meal to stimulate agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гарбуз",
+        "pl": "Dynia",
+        "en": "Pumpkin"
+      },
+      "why": {
+        "ua": "Солодкий та збалансований овоч, що підходить усім конституціям. Багатий на бета-каротин, калій та вітамін С. В Аюрведі вважається сатвічною (чистою) їжею, що заспокоює розум",
+        "pl": "Słodkie i zrównoważone warzywo odpowiednie dla wszystkich konstytucji. Bogate w beta-karoten, potas i witaminę C. W Ajurwedzie uważane za sattwiczny (czysty) pokarm, który uspokaja umysł",
+        "en": "Sweet and balanced vegetable suitable for all constitutions. Rich in beta-carotene, potassium and vitamin C. In Ayurveda considered sattvic (pure) food that calms the mind"
+      },
+      "how": {
+        "ua": "Запікати шматочками, готувати крем-суп з імбиром та мускатним горіхом. Взимку вживати частіше як зігріваючу поживну страву. Додавати до каш",
+        "pl": "Piec w kawałkach, przygotowywać krem-zupę z imbirem i gałką muszkatołową. Zimą jeść częściej jako rozgrzewające pożywne danie. Dodawać do kasz",
+        "en": "Bake in pieces, prepare cream soup with ginger and nutmeg. In winter eat more often as a warming nutritious dish. Add to porridges"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кіноа",
+        "pl": "Komosa ryżowa (quinoa)",
+        "en": "Quinoa"
+      },
+      "why": {
+        "ua": "Псевдозернова з повноцінним рослинним білком, що містить усі 9 незамінних амінокислот. Легка та нейтральна. Безглютенова, багата на залізо, магній та фосфор",
+        "pl": "Pseudozboże z pełnowartościowym białkiem roślinnym zawierającym wszystkie 9 niezbędnych aminokwasów. Lekka i neutralna. Bezglutenowa, bogata w żelazo, magnez i fosfor",
+        "en": "Pseudocereal with complete plant protein containing all 9 essential amino acids. Light and neutral. Gluten-free, rich in iron, magnesium and phosphorus"
+      },
+      "how": {
+        "ua": "Промити для видалення сапонінів, варити 15 хвилин у пропорції 1:2 з водою. Використовувати замість рису або як основу для салатів. Поєднувати з овочами та спеціями",
+        "pl": "Przepłukać w celu usunięcia saponin, gotować 15 minut w proporcji 1:2 z wodą. Używać zamiast ryżu lub jako podstawę do sałatek. Łączyć z warzywami i przyprawami",
+        "en": "Rinse to remove saponins, cook for 15 minutes in 1:2 ratio with water. Use instead of rice or as a salad base. Combine with vegetables and spices"
+      }
+    },
+    {
+      "name": {
+        "ua": "Фенхель (свіжий)",
+        "pl": "Koper włoski (świeży)",
+        "en": "Fresh fennel"
+      },
+      "why": {
+        "ua": "Тридошічний овоч-спеція з солодким та м'яким смаком. Підтримує травлення, знижує газоутворення. Містить анетол з протизапальними властивостями та вітамін С",
+        "pl": "Tridosziczne warzywo-przyprawa o słodkim i łagodnym smaku. Wspiera trawienie, zmniejsza wzdęcia. Zawiera anetol o właściwościach przeciwzapalnych i witaminę C",
+        "en": "Tridoshic vegetable-spice with sweet and mild taste. Supports digestion, reduces gas formation. Contains anethole with anti-inflammatory properties and vitamin C"
+      },
+      "how": {
+        "ua": "Їсти сирим у салатах, тушкувати або запікати з оливковою олією. Насіння жувати після їжі для покращення травлення. Влітку додавати свіжим до страв",
+        "pl": "Jeść surowym w sałatkach, dusić lub piec z oliwą z oliwek. Nasiona żuć po jedzeniu dla poprawy trawienia. Latem dodawać świeży do dań",
+        "en": "Eat raw in salads, stew or bake with olive oil. Chew seeds after meals to improve digestion. In summer add fresh to dishes"
+      }
+    },
+    {
+      "name": {
+        "ua": "Курка (домашня, органічна)",
+        "pl": "Kurczak (domowy, organiczny)",
+        "en": "Chicken (free-range, organic)"
+      },
+      "why": {
+        "ua": "Легкий тваринний білок з нейтральною енергетикою в Аюрведі. Добре засвоюється, містить усі незамінні амінокислоти, вітамін В12, цинк та селен. Підходить для збалансованої дієти",
+        "pl": "Lekkie białko zwierzęce o neutralnej energetyce w Ajurwedzie. Dobrze przyswajalne, zawiera wszystkie niezbędne aminokwasy, witaminę B12, cynk i selen. Odpowiednie dla zrównoważonej diety",
+        "en": "Light animal protein with neutral energetics in Ayurveda. Well absorbed, contains all essential amino acids, vitamin B12, zinc and selenium. Suitable for a balanced diet"
+      },
+      "how": {
+        "ua": "Тушкувати з овочами та спеціями або варити бульйон. Їсти в обід як основне джерело білка. Уникати смаження у великій кількості олії. Порція — розміром з долоню",
+        "pl": "Dusić z warzywami i przyprawami lub gotować bulion. Jeść na obiad jako główne źródło białka. Unikać smażenia w dużej ilości oleju. Porcja — wielkości dłoni",
+        "en": "Stew with vegetables and spices or make broth. Eat at lunch as the main protein source. Avoid deep frying. Portion — palm-sized"
+      }
+    },
+    {
+      "name": {
+        "ua": "Топінамбур (земляна груша)",
+        "pl": "Topinambur (słonecznik bulwiasty)",
+        "en": "Jerusalem artichoke"
+      },
+      "why": {
+        "ua": "Нейтральний коренеплід з високим вмістом інуліну — потужного пребіотика для мікробіому. Містить залізо, калій та вітаміни групи В. Підтримує здоров'я кишечника та імунітет",
+        "pl": "Neutralny korzeń o wysokiej zawartości inuliny — silnego prebiotyku dla mikrobiomu. Zawiera żelazo, potas i witaminy z grupy B. Wspiera zdrowie jelit i odporność",
+        "en": "Neutral root vegetable with high inulin content — a powerful prebiotic for the microbiome. Contains iron, potassium and B vitamins. Supports gut health and immunity"
+      },
+      "how": {
+        "ua": "Запікати при 190°C 25-30 хвилин, тушкувати або додавати до супів. Починати з малих порцій для адаптації мікрофлори. Добре поєднується з куркумою та розмарином",
+        "pl": "Piec w 190°C przez 25-30 minut, dusić lub dodawać do zup. Zaczynać od małych porcji dla adaptacji mikroflory. Dobrze komponuje się z kurkumą i rozmarynem",
+        "en": "Bake at 190°C for 25-30 minutes, stew or add to soups. Start with small portions for microflora adaptation. Pairs well with turmeric and rosemary"
+      }
+    }
+  ],
+  "foods_avoid": [
+    {
+      "name": {
+        "ua": "Надмірно гостра їжа (чилі, васабі)",
+        "pl": "Nadmiernie ostry jedzenie (chili, wasabi)",
+        "en": "Excessively spicy food (chili, wasabi)"
+      },
+      "why": {
+        "ua": "Надлишок гострого смаку розбалансовує Піту та Вату. Підвищує кислотність, дратує слизову шлунка та кишечника. Для збалансованого типу важливо не створювати надмірного жару в організмі",
+        "pl": "Nadmiar ostrego smaku rozbalansowuje Pittę i Vatę. Zwiększa kwasowość, drażni błonę śluzową żołądka i jelit. Dla zrównoważonego typu ważne jest niepowodowanie nadmiernego gorąca w organizmie",
+        "en": "Excess pungent taste imbalances Pitta and Vata. Increases acidity, irritates stomach and intestinal mucosa. For the balanced type it is important not to create excessive heat in the body"
+      }
+    },
+    {
+      "name": {
+        "ua": "Фастфуд та ультраоброблені продукти",
+        "pl": "Fast food i produkty ultraprzetworzone",
+        "en": "Fast food and ultra-processed products"
+      },
+      "why": {
+        "ua": "Містять трансжири, надлишок натрію та штучні добавки. В Аюрведі класифікуються як тамасічна їжа — пригнічують розум та порушують усі три доші одночасно. Доказово пов'язані з хронічним запаленням",
+        "pl": "Zawierają tłuszcze trans, nadmiar sodu i sztuczne dodatki. W Ajurwedzie klasyfikowane jako tamasyczny pokarm — tłumią umysł i zaburzają wszystkie trzy dosze jednocześnie. Naukowo powiązane z przewlekłym stanem zapalnym",
+        "en": "Contain trans fats, excess sodium and artificial additives. In Ayurveda classified as tamasic food — suppress the mind and disturb all three doshas simultaneously. Evidence-linked to chronic inflammation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Надлишок кофеїну (більше 2 чашок кави)",
+        "pl": "Nadmiar kofeiny (więcej niż 2 filiżanki kawy)",
+        "en": "Excess caffeine (more than 2 cups of coffee)"
+      },
+      "why": {
+        "ua": "Надмірний кофеїн підвищує Вату (тривожність, безсоння) та Піту (кислотність, дратівливість). Для типу Сама важливо підтримувати природний баланс без штучних стимуляторів",
+        "pl": "Nadmiar kofeiny podnosi Vatę (lęk, bezsenność) i Pittę (kwasowość, drażliwość). Dla typu Sama ważne jest utrzymanie naturalnej równowagi bez sztucznych stymulantów",
+        "en": "Excessive caffeine raises Vata (anxiety, insomnia) and Pitta (acidity, irritability). For Sama type it is important to maintain natural balance without artificial stimulants"
+      }
+    },
+    {
+      "name": {
+        "ua": "Заморожені напівфабрикати",
+        "pl": "Mrożone półprodukty",
+        "en": "Frozen ready meals"
+      },
+      "why": {
+        "ua": "В Аюрведі несвіжа їжа втрачає прану (життєву енергію). Заморожування руйнує текстуру та частину поживних речовин. Часто містить консерванти та надлишок натрію, що порушує водно-сольовий баланс",
+        "pl": "W Ajurwedzie nieświeże jedzenie traci pranę (energię życiową). Mrożenie niszczy teksturę i część wartości odżywczych. Często zawiera konserwanty i nadmiar sodu zaburzającego gospodarkę wodno-solną",
+        "en": "In Ayurveda stale food loses prana (vital energy). Freezing destroys texture and some nutrients. Often contains preservatives and excess sodium that disrupts water-salt balance"
+      }
+    },
+    {
+      "name": {
+        "ua": "Рафінований цукор у великій кількості",
+        "pl": "Rafinowany cukier w dużej ilości",
+        "en": "Refined sugar in large amounts"
+      },
+      "why": {
+        "ua": "Викликає різкі стрибки глюкози, посилює Капху (набір ваги, млявість) та довготривало порушує Піту. Сприяє хронічному запаленню, інсулінорезистентності та дисбіозу кишечника",
+        "pl": "Powoduje gwałtowne skoki glukozy, wzmacnia Kaphę (przyrost masy, ospałość) i długoterminowo zaburza Pittę. Sprzyja przewlekłemu stanowi zapalnemu, insulinooporności i dysbiozie jelitowej",
+        "en": "Causes sharp glucose spikes, increases Kapha (weight gain, lethargy) and long-term disturbs Pitta. Promotes chronic inflammation, insulin resistance and gut dysbiosis"
+      }
+    },
+    {
+      "name": {
+        "ua": "Надлишок сирих холодних продуктів взимку",
+        "pl": "Nadmiar surowych zimnych produktów zimą",
+        "en": "Excess raw cold foods in winter"
+      },
+      "why": {
+        "ua": "Холодна сира їжа в холодну пору року гасить травний вогонь (агні), посилює Вату та Капху. Для Сама-типу сезонна адаптація критично важлива — взимку потрібна тепла приготована їжа",
+        "pl": "Zimne surowe jedzenie w chłodnej porze roku gasi ogień trawienny (agni), wzmacnia Vatę i Kaphę. Dla typu Sama sezonowa adaptacja jest kluczowa — zimą potrzeba ciepłego gotowanego jedzenia",
+        "en": "Cold raw food in cold season extinguishes digestive fire (agni), aggravates Vata and Kapha. For Sama type seasonal adaptation is critically important — warm cooked food is needed in winter"
+      }
+    },
+    {
+      "name": {
+        "ua": "Надмірно жирна смажена їжа",
+        "pl": "Nadmiernie tłuste smażone jedzenie",
+        "en": "Excessively fatty fried food"
+      },
+      "why": {
+        "ua": "Глибоке смаження створює акролеїн та інші токсичні сполуки. Посилює Капху (тяжкість, млявість) та Піту (запалення печінки). Перевантажує підшлункову залозу та жовчний міхур",
+        "pl": "Głębokie smażenie tworzy akroleinę i inne toksyczne związki. Wzmacnia Kaphę (ciężkość, ospałość) i Pittę (zapalenie wątroby). Przeciąża trzustkę i pęcherzyk żółciowy",
+        "en": "Deep frying creates acrolein and other toxic compounds. Aggravates Kapha (heaviness, lethargy) and Pitta (liver inflammation). Overloads the pancreas and gallbladder"
+      }
+    },
+    {
+      "name": {
+        "ua": "Несумісні поєднання (молоко з фруктами, риба з молоком)",
+        "pl": "Niekompatybilne połączenia (mleko z owocami, ryba z mlekiem)",
+        "en": "Incompatible combinations (milk with fruits, fish with dairy)"
+      },
+      "why": {
+        "ua": "В Аюрведі вірудха ахара (несумісна їжа) — головна причина утворення ами (токсинів). Молоко з кислими фруктами згортається у шлунку, риба з молочними створює токсичне навантаження на печінку. Порушує всі три доші",
+        "pl": "W Ajurwedzie wiruddha ahara (niekompatybilne jedzenie) — główna przyczyna tworzenia amy (toksyn). Mleko z kwaśnymi owocami ścina się w żołądku, ryba z nabiałem tworzy toksyczne obciążenie wątroby. Zaburza wszystkie trzy dosze",
+        "en": "In Ayurveda viruddha ahara (incompatible food) is the main cause of ama (toxin) formation. Milk with sour fruits curdles in the stomach, fish with dairy creates toxic liver burden. Disturbs all three doshas"
+      }
+    }
+  ],
+  "spices": [
+    {
+      "name": {
+        "ua": "Куркума",
+        "pl": "Kurkuma",
+        "en": "Turmeric"
+      },
+      "why": {
+        "ua": "Тридошічна спеція номер один в Аюрведі. Куркумін — потужний протизапальний агент з доведеною ефективністю. Підтримує печінку, імунітет та антиоксидантний захист. Покращує травлення та очищує кров",
+        "pl": "Tridosziczna przyprawa numer jeden w Ajurwedzie. Kurkumina — silny środek przeciwzapalny o udowodnionej skuteczności. Wspiera wątrobę, odporność i ochronę antyoksydacyjną. Poprawia trawienie i oczyszcza krew",
+        "en": "The number one tridoshic spice in Ayurveda. Curcumin is a powerful anti-inflammatory agent with proven efficacy. Supports liver, immunity and antioxidant protection. Improves digestion and purifies blood"
+      },
+      "how": {
+        "ua": "Додавати 1/4-1/2 ч.л. до страв разом з чорним перцем та жирами (гхі) для підвищення біодоступності куркуміну у 20 разів. Використовувати щодня у стравах, золотому молоці",
+        "pl": "Dodawać 1/4-1/2 łyżeczki do potraw razem z czarnym pieprzem i tłuszczami (ghee) dla zwiększenia biodostępności kurkuminy 20-krotnie. Stosować codziennie w potrawach, złotym mleku",
+        "en": "Add 1/4-1/2 tsp to dishes together with black pepper and fats (ghee) to increase curcumin bioavailability 20-fold. Use daily in meals, golden milk"
+      }
+    },
+    {
+      "name": {
+        "ua": "Комін (зіра)",
+        "pl": "Kmin rzymski (kumin)",
+        "en": "Cumin"
+      },
+      "why": {
+        "ua": "Збалансована тридошічна спеція, що потужно стимулює агні (травний вогонь) без перегрівання. Містить тимол з антимікробними властивостями. Знижує здуття, покращує засвоєння поживних речовин",
+        "pl": "Zrównoważona tridosziczna przyprawa silnie stymulująca agni (ogień trawienny) bez przegrzewania. Zawiera tymol o właściwościach przeciwdrobnoustrojowych. Zmniejsza wzdęcia, poprawia przyswajanie składników odżywczych",
+        "en": "Balanced tridoshic spice that powerfully stimulates agni (digestive fire) without overheating. Contains thymol with antimicrobial properties. Reduces bloating, improves nutrient absorption"
+      },
+      "how": {
+        "ua": "Обсмажити цілі зерна на сухій сковороді або гхі 30 секунд до аромату, додати до страви. Використовувати 1/2-1 ч.л. у далах, рисі, овочах. Базова спеція для щоденного приготування",
+        "pl": "Podprażyć całe nasiona na suchej patelni lub ghee przez 30 sekund do aromatu, dodać do potrawy. Używać 1/2-1 łyżeczki w dalach, ryżu, warzywach. Podstawowa przyprawa do codziennego gotowania",
+        "en": "Dry roast whole seeds in a pan or ghee for 30 seconds until fragrant, add to dish. Use 1/2-1 tsp in dals, rice, vegetables. A staple spice for daily cooking"
+      }
+    },
+    {
+      "name": {
+        "ua": "Коріандр (насіння та свіжий)",
+        "pl": "Kolendra (nasiona i świeża)",
+        "en": "Coriander (seeds and fresh)"
+      },
+      "why": {
+        "ua": "Охолоджуюча тридошічна спеція, що чудово балансує тепло інших спецій. Підтримує нирки та сечовидільну систему. Містить лінолеву кислоту та антиоксиданти. Знижує рівень холестерину",
+        "pl": "Chłodząca tridosziczna przyprawa doskonale równoważąca ciepło innych przypraw. Wspiera nerki i układ moczowy. Zawiera kwas linolowy i antyoksydanty. Obniża poziom cholesterolu",
+        "en": "Cooling tridoshic spice that excellently balances the heat of other spices. Supports kidneys and urinary system. Contains linoleic acid and antioxidants. Lowers cholesterol levels"
+      },
+      "how": {
+        "ua": "Насіння злегка обсмажити та змолоти, додавати до страв. Свіжу кінзу додавати наприкінці приготування або як гарнір. Відвар з 1 ч.л. насіння на склянку води — засіб від здуття",
+        "pl": "Nasiona lekko podprażyć i zmielić, dodawać do potraw. Świeżą kolendrę dodawać pod koniec gotowania lub jako garnitur. Wywar z 1 łyżeczki nasion na szklankę wody — środek na wzdęcia",
+        "en": "Lightly roast and grind seeds, add to dishes. Add fresh cilantro at the end of cooking or as garnish. Decoction of 1 tsp seeds per cup of water — a remedy for bloating"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кардамон",
+        "pl": "Kardamon",
+        "en": "Cardamom"
+      },
+      "why": {
+        "ua": "Елегантна тридошічна спеція, яку Аюрведа називає 'царицею спецій'. Стимулює травлення, освіжає дихання, заспокоює шлунок. Містить цинеол з антисептичними властивостями. Покращує настрій",
+        "pl": "Elegancka tridosziczna przyprawa, którą Ajurweda nazywa 'królową przypraw'. Stymuluje trawienie, odświeża oddech, uspokaja żołądek. Zawiera cyneol o właściwościach antyseptycznych. Poprawia nastrój",
+        "en": "Elegant tridoshic spice that Ayurveda calls the 'queen of spices'. Stimulates digestion, freshens breath, soothes the stomach. Contains cineole with antiseptic properties. Improves mood"
+      },
+      "how": {
+        "ua": "Розтрощити стручок, додати зерна до чаю, кави, десертів та рисових страв. 1-2 стручки на порцію. Жувати стручок після їжі для покращення травлення та свіжості подиху",
+        "pl": "Rozgnieść strąk, dodać nasiona do herbaty, kawy, deserów i dań ryżowych. 1-2 strąki na porcję. Żuć strąk po jedzeniu dla poprawy trawienia i świeżości oddechu",
+        "en": "Crush a pod, add seeds to tea, coffee, desserts and rice dishes. 1-2 pods per portion. Chew a pod after eating to improve digestion and breath freshness"
+      }
+    },
+    {
+      "name": {
+        "ua": "Фенхель (насіння)",
+        "pl": "Koper włoski (nasiona)",
+        "en": "Fennel seeds"
+      },
+      "why": {
+        "ua": "М'яка тридошічна спеція з солодким та охолоджуючим ефектом. Потужний карменатив — усуває газоутворення та коліки. Містить анетол, що підтримує лактацію та гормональний баланс",
+        "pl": "Łagodna tridosziczna przyprawa o słodkim i chłodzącym efekcie. Silny karminatyw — usuwa wzdęcia i kolki. Zawiera anetol wspierający laktację i równowagę hormonalną",
+        "en": "Mild tridoshic spice with sweet and cooling effect. Powerful carminative — eliminates gas and colic. Contains anethole that supports lactation and hormonal balance"
+      },
+      "how": {
+        "ua": "Жувати 1/2 ч.л. насіння після їжі. Заварювати чай з 1 ч.л. на склянку окропу. Додавати до випічки, овочевих страв. Ідеальна спеція для вечірнього прийому їжі",
+        "pl": "Żuć 1/2 łyżeczki nasion po jedzeniu. Parzyć herbatę z 1 łyżeczki na szklankę wrzątku. Dodawać do wypieków, dań warzywnych. Idealna przyprawa do wieczornego posiłku",
+        "en": "Chew 1/2 tsp of seeds after eating. Brew tea from 1 tsp per cup of boiling water. Add to baked goods, vegetable dishes. An ideal spice for the evening meal"
+      }
+    },
+    {
+      "name": {
+        "ua": "Імбир (свіжий)",
+        "pl": "Imbir (świeży)",
+        "en": "Ginger (fresh)"
+      },
+      "why": {
+        "ua": "В Аюрведі свіжий імбир називають 'універсальними ліками'. Стимулює агні, покращує кровообіг, знижує нудоту. Гінгероли мають доведений протизапальний ефект. Свіжий імбир м'якший за сухий, підходить тридоші",
+        "pl": "W Ajurwedzie świeży imbir nazywany jest 'uniwersalnym lekiem'. Stymuluje agni, poprawia krążenie, zmniejsza nudności. Gingerole mają udowodniony efekt przeciwzapalny. Świeży imbir jest łagodniejszy od suchego, odpowiedni dla tridoszy",
+        "en": "In Ayurveda fresh ginger is called 'universal medicine'. Stimulates agni, improves circulation, reduces nausea. Gingerols have proven anti-inflammatory effect. Fresh ginger is milder than dry, suitable for tridosha"
+      },
+      "how": {
+        "ua": "Натерти 1 см кореня до страв або чаю. Їсти тонкий скибочку з сіллю та лимоном за 15 хвилин до їжі для стимуляції травлення. Взимку використовувати щедро, влітку — помірно",
+        "pl": "Zetrzeć 1 cm korzenia do potraw lub herbaty. Zjeść cienki plasterek z solą i cytryną 15 minut przed jedzeniem dla stymulacji trawienia. Zimą używać obficie, latem — umiarkowanie",
+        "en": "Grate 1 cm of root into dishes or tea. Eat a thin slice with salt and lemon 15 minutes before meals to stimulate digestion. In winter use generously, in summer — moderately"
+      }
+    }
+  ],
+  "teas": [
+    {
+      "name": {
+        "ua": "Тридошічний чай балансу",
+        "pl": "Tridosziczna herbata równowagi",
+        "en": "Tridoshic Balance Tea"
+      },
+      "ingredients": {
+        "ua": "Насіння фенхелю (1 ч.л.), насіння коріандру (1 ч.л.), насіння коміну (1 ч.л.)",
+        "pl": "Nasiona kopru włoskiego (1 łyżeczka), nasiona kolendry (1 łyżeczka), nasiona kminu rzymskiego (1 łyżeczka)",
+        "en": "Fennel seeds (1 tsp), coriander seeds (1 tsp), cumin seeds (1 tsp)"
+      },
+      "benefits": {
+        "ua": "Класичний аюрведичний чай CCF (комін-коріандр-фенхель) — золотий стандарт для балансу всіх трьох дош. Покращує травлення, знижує здуття, виводить токсини. М'яко стимулює метаболізм без перегрівання",
+        "pl": "Klasyczna ajurwedyjska herbata CCF (kumin-kolendra-koper) — złoty standard dla równowagi wszystkich trzech dosz. Poprawia trawienie, zmniejsza wzdęcia, usuwa toksyny. Łagodnie stymuluje metabolizm bez przegrzewania",
+        "en": "Classic Ayurvedic CCF tea (cumin-coriander-fennel) — the gold standard for balancing all three doshas. Improves digestion, reduces bloating, removes toxins. Gently stimulates metabolism without overheating"
+      },
+      "recipe": {
+        "ua": "Злегка розтовкти насіння. Залити 500 мл окропу, накрити та настоювати 10-15 хвилин. Процідити та пити теплим протягом дня. Можна готувати в термосі на весь день. Пити за 30 хвилин до або через 1 годину після їжі",
+        "pl": "Lekko roztłuc nasiona. Zalać 500 ml wrzątku, przykryć i parzyć 10-15 minut. Przecedzić i pić ciepłą w ciągu dnia. Można przygotować w termosie na cały dzień. Pić 30 minut przed lub 1 godzinę po jedzeniu",
+        "en": "Lightly crush the seeds. Pour 500 ml of boiling water, cover and steep for 10-15 minutes. Strain and drink warm throughout the day. Can be prepared in a thermos for the whole day. Drink 30 minutes before or 1 hour after meals"
+      }
+    },
+    {
+      "name": {
+        "ua": "Золоте молоко (Хальді Дудх)",
+        "pl": "Złote mleko (Haldi Dudh)",
+        "en": "Golden Milk (Haldi Doodh)"
+      },
+      "ingredients": {
+        "ua": "Куркума (1/2 ч.л.), свіжий імбир (1 см, тертий), кардамон (1 стручок), чорний перець (щіпка), мед або джаггері (1 ч.л.), молоко або рослинне молоко (250 мл)",
+        "pl": "Kurkuma (1/2 łyżeczki), świeży imbir (1 cm, starty), kardamon (1 strąk), czarny pieprz (szczypta), miód lub dżaggeri (1 łyżeczka), mleko lub mleko roślinne (250 ml)",
+        "en": "Turmeric (1/2 tsp), fresh ginger (1 cm, grated), cardamom (1 pod), black pepper (a pinch), honey or jaggery (1 tsp), milk or plant milk (250 ml)"
+      },
+      "benefits": {
+        "ua": "Потужний протизапальний напій з доведеною ефективністю куркуміну. Зміцнює імунітет, покращує сон, підтримує суглоби. Чорний перець підвищує біодоступність куркуміну на 2000%. Заспокоює всі три доші перед сном",
+        "pl": "Silny napój przeciwzapalny o udowodnionej skuteczności kurkuminy. Wzmacnia odporność, poprawia sen, wspiera stawy. Czarny pieprz zwiększa biodostępność kurkuminy o 2000%. Uspokaja wszystkie trzy dosze przed snem",
+        "en": "Powerful anti-inflammatory drink with proven curcumin efficacy. Strengthens immunity, improves sleep, supports joints. Black pepper increases curcumin bioavailability by 2000%. Calms all three doshas before sleep"
+      },
+      "recipe": {
+        "ua": "Нагріти молоко з куркумою, імбиром, кардамоном та перцем на малому вогні 5 хвилин, не доводячи до кипіння. Процідити, охолодити до 40°C та додати мед (мед не нагрівати вище 40°C!). Пити за 30 хвилин до сну щовечора",
+        "pl": "Podgrzewać mleko z kurkumą, imbirem, kardamonem i pieprzem na małym ogniu przez 5 minut, nie doprowadzając do wrzenia. Przecedzić, ostudzić do 40°C i dodać miód (nie podgrzewać miodu powyżej 40°C!). Pić 30 minut przed snem co wieczór",
+        "en": "Heat milk with turmeric, ginger, cardamom and pepper on low heat for 5 minutes without boiling. Strain, cool to 40°C and add honey (do not heat honey above 40°C!). Drink 30 minutes before bed every evening"
+      }
+    },
+    {
+      "name": {
+        "ua": "Сезонний адаптивний чай",
+        "pl": "Sezonowa herbata adaptacyjna",
+        "en": "Seasonal Adaptive Tea"
+      },
+      "ingredients": {
+        "ua": "Базовий: свіжий імбир (1 см), лимон (1 скибочка), м'ята (3-4 листки), мед (1 ч.л.). Зима: додати корицю (1/4 ч.л.) та гвоздику (1 шт.). Літо: додати троянду (1 ч.л. пелюстків) та більше м'яти",
+        "pl": "Bazowy: świeży imbir (1 cm), cytryna (1 plasterek), mięta (3-4 listki), miód (1 łyżeczka). Zima: dodać cynamon (1/4 łyżeczki) i goździk (1 szt.). Lato: dodać różę (1 łyżeczka płatków) i więcej mięty",
+        "en": "Base: fresh ginger (1 cm), lemon (1 slice), mint (3-4 leaves), honey (1 tsp). Winter: add cinnamon (1/4 tsp) and clove (1 pc). Summer: add rose (1 tsp petals) and more mint"
+      },
+      "benefits": {
+        "ua": "Адаптується до сезону, підтримуючи рівновагу Сама-типу цілий рік. Взимку зігріває та підтримує імунітет, влітку охолоджує та освіжає. Імбир стимулює травлення, лимон лужить, м'ята заспокоює, мед живить",
+        "pl": "Adaptuje się do pory roku, utrzymując równowagę typu Sama przez cały rok. Zimą rozgrzewa i wspiera odporność, latem chłodzi i odświeża. Imbir stymuluje trawienie, cytryna alkalizuje, mięta uspokaja, miód odżywia",
+        "en": "Adapts to the season, maintaining Sama type balance year-round. In winter it warms and supports immunity, in summer it cools and refreshes. Ginger stimulates digestion, lemon alkalizes, mint soothes, honey nourishes"
+      },
+      "recipe": {
+        "ua": "Натерти імбир, залити 300 мл гарячої води (80°C). Додати сезонні інгредієнти, настоювати 7 хвилин. Додати лимон та м'яту. Остудити до 40°C, додати мед. Пити зранку для пробудження агні або між прийомами їжі",
+        "pl": "Zetrzeć imbir, zalać 300 ml gorącej wody (80°C). Dodać sezonowe składniki, parzyć 7 minut. Dodać cytrynę i miętę. Ostudzić do 40°C, dodać miód. Pić rano dla przebudzenia agni lub między posiłkami",
+        "en": "Grate ginger, pour 300 ml hot water (80°C). Add seasonal ingredients, steep for 7 minutes. Add lemon and mint. Cool to 40°C, add honey. Drink in the morning to awaken agni or between meals"
+      }
+    }
+  ]
+}

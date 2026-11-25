@@ -1,0 +1,1244 @@
+{
+  "vegetables": [
+    {
+      "name": {
+        "ua": "Батат",
+        "pl": "Słodki ziemniak",
+        "en": "Sweet potato"
+      },
+      "note": {
+        "ua": "Гарячий, маслянистий, важкий - ідеально балансує холодну Вату",
+        "pl": "Ciepły, oleisty, ciężki - idealnie balansuje zimną Vatę",
+        "en": "Warm, oily, heavy - perfectly balances cold Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Морква",
+        "pl": "Marchew",
+        "en": "Carrot"
+      },
+      "note": {
+        "ua": "Гарячість та солодкість живлять Вату, вареній маслі особливо корисна",
+        "pl": "Ciepło i słodycz odżywiają Vatę, szczególnie przydatna gotowana w oleju",
+        "en": "Warmth and sweetness nourish Vata, especially beneficial when cooked in oil"
+      }
+    },
+    {
+      "name": {
+        "ua": "Цибуля",
+        "pl": "Cebula",
+        "en": "Onion"
+      },
+      "note": {
+        "ua": "Гарячий смак, маслянистість, сприяє травленню та балансу Вати",
+        "pl": "Ciepły smak, oleistość, wspomaga trawienie i balans Vaty",
+        "en": "Warm taste, oiliness, aids digestion and Vata balance"
+      }
+    },
+    {
+      "name": {
+        "ua": "Часник",
+        "pl": "Czosnek",
+        "en": "Garlic"
+      },
+      "note": {
+        "ua": "Гарячий, солоний, маслянистий - сильно активує Агні та стабілізує Вату",
+        "pl": "Ciepły, słony, oleisty - silnie aktywuje Agni i stabilizuje Vatę",
+        "en": "Hot, salty, oily - strongly activates Agni and stabilizes Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Буряк",
+        "pl": "Burak",
+        "en": "Beet"
+      },
+      "note": {
+        "ua": "Солодкий, земляний, живлячий - гарячізує та заспокоює нервову систему",
+        "pl": "Słodki, ziemisty, odżywczy - grzeje i uspokaja układ nerwowy",
+        "en": "Sweet, earthy, nourishing - warms and calms nervous system"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гарбуз",
+        "pl": "Dynia",
+        "en": "Pumpkin"
+      },
+      "note": {
+        "ua": "Солодкий, гарячий, маслянистий - відновлює енергію та сухість Вати",
+        "pl": "Słodki, ciepły, oleisty - przywraca energię i suchość Vaty",
+        "en": "Sweet, warm, oily - restores energy and dryness of Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кабачок",
+        "pl": "Kabaczek",
+        "en": "Zucchini"
+      },
+      "note": {
+        "ua": "М'який, легко перетравлюється, гарячізується в маслі та цибулі",
+        "pl": "Miękki, łatwo strawny, grzeje się w oleju i cebuli",
+        "en": "Soft, easy to digest, warms in oil and onion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Спаржа",
+        "pl": "Szparag",
+        "en": "Asparagus"
+      },
+      "note": {
+        "ua": "Тепла, маслянисто-соладка, стимулює Агні без перегрівання",
+        "pl": "Ciepła, oleisто-słodka, stymuluje Agni bez przegrzewania",
+        "en": "Warm, oily-sweet, stimulates Agni without overheating"
+      }
+    },
+    {
+      "name": {
+        "ua": "Окра",
+        "pl": "Okra",
+        "en": "Okra"
+      },
+      "note": {
+        "ua": "Маслянистий слиз, теплий смак - прекрасний демулцент для Вати",
+        "pl": "Oleisty śluz, ciepły smak - doskonały demulgent dla Vaty",
+        "en": "Oily mucilage, warm taste - excellent demulcent for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Петрушка",
+        "pl": "Pietruszka",
+        "en": "Parsley"
+      },
+      "note": {
+        "ua": "Теплий ароматичний додаток, стимулює праву циркуляцію та Агні",
+        "pl": "Ciepły aromatyczny dodatek, stymuluje prawidłową cyrkulację i Agni",
+        "en": "Warm aromatic supplement, stimulates proper circulation and Agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кріп",
+        "pl": "Koper",
+        "en": "Dill"
+      },
+      "note": {
+        "ua": "Теплий, легко перетравлюється, знижує вздуття та газоутворення",
+        "pl": "Ciepły, łatwo strawny, zmniejsza wzdęcia i gaz",
+        "en": "Warm, easy to digest, reduces bloating and gas"
+      }
+    },
+    {
+      "name": {
+        "ua": "Шпинат вареній",
+        "pl": "Szpinak gotowany",
+        "en": "Cooked spinach"
+      },
+      "note": {
+        "ua": "Вареній у маслі та цибулі стає гарячим і маслянистим, корисний для Вати",
+        "pl": "Gotowany w oleju i cebuli staje się ciepły i oleisty, przydatny dla Vaty",
+        "en": "Cooked in oil and onion becomes warm and oily, beneficial for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Капуста краснокачанна вареня",
+        "pl": "Kapusta czerwona gotowana",
+        "en": "Red cabbage cooked"
+      },
+      "note": {
+        "ua": "Вареня у маслі та спеціях зменшує холодність та суху якість",
+        "pl": "Gotowana w oleju i przyprawach zmniejsza zimno i suchość",
+        "en": "Cooked in oil and spices reduces cold and dry qualities"
+      }
+    },
+    {
+      "name": {
+        "ua": "Помідор",
+        "pl": "Pomidor",
+        "en": "Tomato"
+      },
+      "note": {
+        "ua": "Кислий та гарячий - в вареній формі та з маслом активує Агні",
+        "pl": "Kwaśny i ciepły - w gotowanej formie i z olejem aktywuje Agni",
+        "en": "Sour and hot - in cooked form with oil activates Agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Редис вареній",
+        "pl": "Rzodkiew gotowana",
+        "en": "Cooked radish"
+      },
+      "note": {
+        "ua": "Вареній втрачає сухість, гарячість допомагає травленню у холодних умовах",
+        "pl": "Gotowany traci suchość, ciepło wspomaga trawienie w zimnych warunkach",
+        "en": "Cooked loses dryness, heat aids digestion in cold conditions"
+      }
+    },
+    {
+      "name": {
+        "ua": "Ріпа",
+        "pl": "Rzepa",
+        "en": "Turnip"
+      },
+      "note": {
+        "ua": "Теплий овоч, в маслі стає маслянистим, добре перетравлюється",
+        "pl": "Ciepły warzywo, w oleju staje się oleiste, dobrze się trawie",
+        "en": "Warm vegetable, becomes oily in oil, digests well"
+      }
+    },
+    {
+      "name": {
+        "ua": "Селера (коренеплід)",
+        "pl": "Seler (kłącze)",
+        "en": "Celery root"
+      },
+      "note": {
+        "ua": "Теплий корінь, ароматичний, стимулює пищеварення та циркуляцію",
+        "pl": "Ciepły korzeń, aromatyczny, stymuluje trawienie i krążenie",
+        "en": "Warm root, aromatic, stimulates digestion and circulation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Картопля вареня",
+        "pl": "Ziemniak gotowany",
+        "en": "Cooked potato"
+      },
+      "note": {
+        "ua": "Основний крохмальний овоч - гарячізується в маслі та цибулі для Вати",
+        "pl": "Główne warzywo skrobiowe - grzeje się w oleju i cebuli dla Vaty",
+        "en": "Primary starchy vegetable - warms in oil and onion for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кукурудза",
+        "pl": "Kukurydza",
+        "en": "Corn"
+      },
+      "note": {
+        "ua": "Важка, солодка, маслянистої консистенції - ідеальна гуни для Вати",
+        "pl": "Ciężka, słodka, oleistej konsystencji - idealne guni dla Vaty",
+        "en": "Heavy, sweet, oily consistency - ideal gunas for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Перець болгарський вареній",
+        "pl": "Papryka słodka gotowana",
+        "en": "Cooked bell pepper"
+      },
+      "note": {
+        "ua": "М'який, гарячий, легко перетравлюється у вареній формі з маслом",
+        "pl": "Miękki, ciepły, łatwo się trawie w gotowanej formie z olejem",
+        "en": "Soft, warm, easily digested cooked form with oil"
+      }
+    }
+  ],
+  "fruits": [
+    {
+      "name": {
+        "ua": "Банан",
+        "pl": "Banan",
+        "en": "Banana"
+      },
+      "note": {
+        "ua": "Важкий, маслянистий, солодкий - один з найкращих фруктів для Вати",
+        "pl": "Ciężki, oleisty, słodki - jeden z najlepszych owoców dla Vaty",
+        "en": "Heavy, oily, sweet - one of the best fruits for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Авокадо",
+        "pl": "Awokado",
+        "en": "Avocado"
+      },
+      "note": {
+        "ua": "Надзвичайно маслянистий, холодне, але в теплому середовищі балансує Вату",
+        "pl": "Niezwykle oleisty, chłodny, ale w ciepłym otoczeniu balansuje Vatę",
+        "en": "Extremely oily, cool, but in warm environment balances Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Манго",
+        "pl": "Mango",
+        "en": "Mango"
+      },
+      "note": {
+        "ua": "Солодкий, теплий, маслянистий - один з найпостійніших нектарів природи",
+        "pl": "Słodki, ciepły, oleisty - jeden z najpowszechniejszych nektarów przyrody",
+        "en": "Sweet, warm, oily - one of nature's most universal nectars"
+      }
+    },
+    {
+      "name": {
+        "ua": "Персик",
+        "pl": "Brzoskwinia",
+        "en": "Peach"
+      },
+      "note": {
+        "ua": "Солодкий, теплий, маслянистий, сприяє збалансованню холодної Вати",
+        "pl": "Słodki, ciepły, oleisty, sprzyja zbalansowaniu zimnej Vaty",
+        "en": "Sweet, warm, oily, promotes balancing of cold Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Груша вареня",
+        "pl": "Gruszka gotowana",
+        "en": "Cooked pear"
+      },
+      "note": {
+        "ua": "Легко перетравлюється, вареня з маслом та спеціями стає гарячою для Вати",
+        "pl": "Łatwo się trawie, gotowana z olejem i przyprawami staje się ciepła dla Vaty",
+        "en": "Easy to digest, cooked with oil and spices becomes warm for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Апельсин",
+        "pl": "Pomarańcza",
+        "en": "Orange"
+      },
+      "note": {
+        "ua": "Кислий та солодкий смак, теплий - активує Агні без збільшення Вати",
+        "pl": "Kwaśny i słodki smak, ciepły - aktywuje Agni bez zwiększenia Vaty",
+        "en": "Sour and sweet taste, warm - activates Agni without increasing Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Лимон (в теплій воді)",
+        "pl": "Cytryna (w ciepłej wodzie)",
+        "en": "Lemon (in warm water)"
+      },
+      "note": {
+        "ua": "Кислий смак теплої води стимулює травлення і балансує Вату",
+        "pl": "Kwaśny smak ciepłej wody stymuluje trawienie i balansuje Vatę",
+        "en": "Sour taste of warm water stimulates digestion and balances Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Абрикос",
+        "pl": "Morela",
+        "en": "Apricot"
+      },
+      "note": {
+        "ua": "Солодкий, теплий, легко перетравлюється - гарний вибір для Вати",
+        "pl": "Słodki, ciepły, łatwo się trawie - dobry wybór dla Vaty",
+        "en": "Sweet, warm, easy to digest - good choice for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Датель",
+        "pl": "Daktyl",
+        "en": "Date"
+      },
+      "note": {
+        "ua": "Одна з найважших ягід, сильно маслянистий і солодкий - прекрасна для Вати",
+        "pl": "Jeden z najcięższych owoców, silnie oleisty i słodki - doskonały dla Vaty",
+        "en": "One of the heaviest fruits, highly oily and sweet - excellent for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кокос (м'якоть)",
+        "pl": "Kokos (miąższ)",
+        "en": "Coconut (flesh)"
+      },
+      "note": {
+        "ua": "Нарізана на невеликі шматки, гарячізована у маслі - сильно балансує Вату",
+        "pl": "Pokrojona na małe kawałki, grzana w oleju - silnie balansuje Vatę",
+        "en": "Sliced into small pieces, warmed in oil - strongly balances Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Інжир",
+        "pl": "Figa",
+        "en": "Fig"
+      },
+      "note": {
+        "ua": "Солодкий, гарячий, маслянистий - смаження в маслі робить його ідеальним",
+        "pl": "Słodki, ciepły, oleisty - smażenie w oleju czyni go idealnym",
+        "en": "Sweet, hot, oily - frying in oil makes it ideal"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гранат (зерна)",
+        "pl": "Granat (ziarna)",
+        "en": "Pomegranate (seeds)"
+      },
+      "note": {
+        "ua": "Кислий, солодкий, дещо теплий - розпалює Агні, добре для Вати у малих дозах",
+        "pl": "Kwaśny, słodki, nieco ciepły - rozpala Agni, dobre dla Vaty w małych dawkach",
+        "en": "Sour, sweet, slightly warm - ignites Agni, good for Vata in small doses"
+      }
+    },
+    {
+      "name": {
+        "ua": "Вишня",
+        "pl": "Wiśnia",
+        "en": "Cherry"
+      },
+      "note": {
+        "ua": "Кислий, солодкий, теплий - в вареній формі з медом робиться теплою для Вати",
+        "pl": "Kwaśny, słodki, ciepły - w gotowanej formie z miodem staje się ciepły dla Vaty",
+        "en": "Sour, sweet, warm - in cooked form with honey becomes warm for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Малина",
+        "pl": "Malina",
+        "en": "Raspberry"
+      },
+      "note": {
+        "ua": "Кислий, вареній у маслі та медом - хороший вибір для холодної Вати",
+        "pl": "Kwaśny, gotowany w oleju i medzie - dobry wybór dla zimnej Vaty",
+        "en": "Sour, cooked in oil and honey - good choice for cold Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Ожина",
+        "pl": "Jeżyna",
+        "en": "Blackberry"
+      },
+      "note": {
+        "ua": "Кислий, в теплій формі активує Агні без збільшення сухості Вати",
+        "pl": "Kwaśny, w ciepłej formie aktywuje Agni bez zwiększenia suchości Vaty",
+        "en": "Sour, in warm form activates Agni without increasing Vata dryness"
+      }
+    }
+  ],
+  "grains": [
+    {
+      "name": {
+        "ua": "Рис білий",
+        "pl": "Ryż biały",
+        "en": "White rice"
+      },
+      "note": {
+        "ua": "М'який, важкий, маслянистий при варіння з маслом - основний зерно для Вати",
+        "pl": "Miękki, ciężki, oleisty przy gotowaniu z olejem - główne ziarno dla Vaty",
+        "en": "Soft, heavy, oily when cooked with oil - primary grain for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Рис басматі",
+        "pl": "Ryż basmati",
+        "en": "Basmati rice"
+      },
+      "note": {
+        "ua": "Тонкий, ароматичний, легко перетравлюється при варіння у маслі та топленому маслі",
+        "pl": "Drobny, aromatyczny, łatwo się trawie przy gotowaniu w oleju i ghee",
+        "en": "Fine, aromatic, easy to digest when cooked in oil and ghee"
+      }
+    },
+    {
+      "name": {
+        "ua": "Овес",
+        "pl": "Owies",
+        "en": "Oats"
+      },
+      "note": {
+        "ua": "Важкий, маслянистий, теплий - готуйте на молоці та маслі для Вати",
+        "pl": "Ciężki, oleisty, ciepły - gotuj na mleku i oleju dla Vaty",
+        "en": "Heavy, oily, warm - cook in milk and oil for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Пшениця",
+        "pl": "Pszenica",
+        "en": "Wheat"
+      },
+      "note": {
+        "ua": "Важке зерно, солодкий смак, живлячий - основна крупа для Вати при варіння з маслом",
+        "pl": "Ciężkie ziarno, słodki smak, odżywczy - główna kasza dla Vaty przy gotowaniu z olejem",
+        "en": "Heavy grain, sweet taste, nourishing - primary grain for Vata when cooked with oil"
+      }
+    },
+    {
+      "name": {
+        "ua": "Цільнозернова пшеничні макарони",
+        "pl": "Pełnoziarnisty makaron pszeniczny",
+        "en": "Whole wheat pasta"
+      },
+      "note": {
+        "ua": "Важкий, твердий, легко перетравлюється у теплому соусе з маслом",
+        "pl": "Ciężki, twardy, łatwo się trawie w ciepłym sosie z olejem",
+        "en": "Heavy, substantial, easy to digest in warm oily sauce"
+      }
+    },
+    {
+      "name": {
+        "ua": "Ячмінь",
+        "pl": "Jęczmień",
+        "en": "Barley"
+      },
+      "note": {
+        "ua": "Теплий, легко перетравлюється, добре для травлення та гідратації Вати",
+        "pl": "Ciepły, łatwo się trawie, dobre dla trawienia i nawodnienia Vaty",
+        "en": "Warm, easy to digest, good for digestion and hydration of Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Просо",
+        "pl": "Proso",
+        "en": "Millet"
+      },
+      "note": {
+        "ua": "Теплий, легкий смак, добре у маслі - підходить для більшості типів Вати",
+        "pl": "Ciepły, lekki smak, dobrze w oleju - pasuje dla większości typów Vaty",
+        "en": "Warm, light taste, good in oil - suits most Vata types"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кукурудзяна каша",
+        "pl": "Kasza kukurydziana",
+        "en": "Cornmeal"
+      },
+      "note": {
+        "ua": "Важка, солодка, маслянистої консистенції у варіння на молоці та маслі",
+        "pl": "Ciężka, słodka, oleistej konsystencji w gotowaniu na mleku i oleju",
+        "en": "Heavy, sweet, oily consistency when cooked in milk and oil"
+      }
+    },
+    {
+      "name": {
+        "ua": "Селери (насіння)",
+        "pl": "Seler (nasienie)",
+        "en": "Celery seed"
+      },
+      "note": {
+        "ua": "Теплий смак, малою кількістю добавляється в готування для активації Агні Вати",
+        "pl": "Ciepły smak, małą ilością dodawane w gotowanie dla aktywacji Agni Vaty",
+        "en": "Warm taste, added in small amounts during cooking to activate Vata Agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гречка вареня",
+        "pl": "Gryka gotowana",
+        "en": "Cooked buckwheat"
+      },
+      "note": {
+        "ua": "Дещо легка, але у теплій формі з маслом та цибулею піддається Вату добре",
+        "pl": "Nieco lekka, ale w ciepłej formie z olejem i cebulą poddaje się Vacie dobrze",
+        "en": "Somewhat light, but in warm form with oil and onion suits Vata well"
+      }
+    }
+  ],
+  "meat": [
+    {
+      "name": {
+        "ua": "Курка (темне м'ясо)",
+        "pl": "Kurczak (ciemne mięso)",
+        "en": "Chicken (dark meat)"
+      },
+      "note": {
+        "ua": "Теплий, маслянистий, легко перетравлюється - найкращий вибір м'яса для Вати",
+        "pl": "Ciepły, oleisty, łatwo się trawie - najlepszy wybór mięsa dla Vaty",
+        "en": "Warm, oily, easy to digest - best meat choice for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гуска",
+        "pl": "Gęś",
+        "en": "Goose"
+      },
+      "note": {
+        "ua": "Більш гарячий та маслянистий за курку - робить сильне вогнище Агні",
+        "pl": "Bardziej ciepły i oleisty niż kurczak - wznawia silny Agni",
+        "en": "Warmer and oilier than chicken - restores strong Agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Качка",
+        "pl": "Kaczka",
+        "en": "Duck"
+      },
+      "note": {
+        "ua": "Маслянистий, теплий, гарний для Вати у холодних місяцях",
+        "pl": "Oleisty, ciepły, dobry dla Vaty w zimnych miesiącach",
+        "en": "Oily, warm, good for Vata in cold months"
+      }
+    },
+    {
+      "name": {
+        "ua": "Баранина",
+        "pl": "Baranina",
+        "en": "Lamb"
+      },
+      "note": {
+        "ua": "Гарячий, маслянистий, живлячий - сильно розпалює Агні та теплоту у холодній Ваті",
+        "pl": "Ciepły, oleisty, odżywczy - silnie rozpala Agni i ciepło w zimnej Vacie",
+        "en": "Hot, oily, nourishing - strongly ignites Agni and warmth in cold Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Свинина (м'якісне м'ясо)",
+        "pl": "Wieprzowina (mięso miękkie)",
+        "en": "Pork (tender meat)"
+      },
+      "note": {
+        "ua": "Дуже маслянистий, теплий, дещо важкий - особливо корисний для сухої Вати",
+        "pl": "Bardzo oleisty, ciepły, dość ciężki - szczególnie przydatny dla suchej Vaty",
+        "en": "Very oily, warm, somewhat heavy - especially beneficial for dry Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Крупа слизова (говядина м'яка)",
+        "pl": "Mięs wyskubane (wołowina miękka)",
+        "en": "Bone broth (tender beef)"
+      },
+      "note": {
+        "ua": "Масний бульйон, теплий, розпалює Агні та скріпує кості - ідеальний для Вати",
+        "pl": "Tłusty bulion, ciepły, rozpala Agni i wzmacnia kości - idealny dla Vaty",
+        "en": "Fatty broth, warm, ignites Agni and strengthens bones - ideal for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Яйцо (вареня)",
+        "pl": "Jajko (gotowane)",
+        "en": "Egg (cooked)"
+      },
+      "note": {
+        "ua": "Маслянистий, живлячий, теплий - один з найкращих білків для Вати",
+        "pl": "Oleisty, odżywczy, ciepły - jeden z najlepszych białek dla Vaty",
+        "en": "Oily, nourishing, warm - one of the best proteins for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кролик",
+        "pl": "Królik",
+        "en": "Rabbit"
+      },
+      "note": {
+        "ua": "Легка м'ясо, але у маслі і теплому соусі стає корисною для Вати",
+        "pl": "Lekkie mięso, ale w oleju i ciepłym sosie staje się przydatne dla Vaty",
+        "en": "Light meat, but in oil and warm sauce becomes beneficial for Vata"
+      }
+    }
+  ],
+  "fish": [
+    {
+      "name": {
+        "ua": "Лосось",
+        "pl": "Łosoś",
+        "en": "Salmon"
+      },
+      "note": {
+        "ua": "Масний, теплий, багатий на Омега-3 олії - чудово балансує сухість Вати",
+        "pl": "Tłusty, ciepły, bogaty w oleje Omega-3 - cudownie balansuje suchość Vaty",
+        "en": "Fatty, warm, rich in Omega-3 oils - wonderfully balances Vata dryness"
+      }
+    },
+    {
+      "name": {
+        "ua": "Форель",
+        "pl": "Pstrąg",
+        "en": "Trout"
+      },
+      "note": {
+        "ua": "Масна, м'яка, теплий смак - чудово перетравлюється та розпалює Агні",
+        "pl": "Tłusta, miękka, ciepły smak - cudownie się trawie i rozpala Agni",
+        "en": "Fatty, soft, warm taste - digests wonderfully and ignites Agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Скумбрія",
+        "pl": "Makrela",
+        "en": "Mackerel"
+      },
+      "note": {
+        "ua": "Дуже масна, гарячий смак, живлячий - найприйнятніший дар океану для Вати",
+        "pl": "Bardzo tłusta, gorący smak, odżywczy - najwszechstronniejszy dar oceanu dla Vaty",
+        "en": "Very fatty, hot taste, nourishing - most versatile ocean gift for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Селява",
+        "pl": "Śledź",
+        "en": "Herring"
+      },
+      "note": {
+        "ua": "Масна, солоний смак, теплий у вареній формі - активує Агні холодної Вати",
+        "pl": "Tłusta, słony smak, ciepły w gotowanej formie - aktywuje Agni zimnej Vaty",
+        "en": "Fatty, salty taste, warm cooked - activates cold Vata Agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Тунець",
+        "pl": "Tuńczyk",
+        "en": "Tuna"
+      },
+      "note": {
+        "ua": "М'яс, теплий, м'якісний - в дозованих кількостях добре для Вати у яйцях та бульйонах",
+        "pl": "Miękkie, ciepły, łagodny - w dozowanych ilościach dobre dla Vaty w jajkach i bulionach",
+        "en": "Soft, warm, mild - in measured amounts good for Vata in broths and oils"
+      }
+    },
+    {
+      "name": {
+        "ua": "Креветка",
+        "pl": "Krewetka",
+        "en": "Shrimp"
+      },
+      "note": {
+        "ua": "Теплий, солоний, легко перетравлюється - у маслі та цибулі балансує Вату",
+        "pl": "Ciepły, słony, łatwo się trawie - w oleju i cebuli balansuje Vatę",
+        "en": "Warm, salty, easy to digest - in oil and onion balances Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Молюск (мідія)",
+        "pl": "Małż",
+        "en": "Mussel"
+      },
+      "note": {
+        "ua": "Масний, теплий, живлячий смак - добре для скріплення кісток та енергії Вати",
+        "pl": "Tłusty, ciepły, odżywczy smak - dobre dla wzmocnienia kości i energii Vaty",
+        "en": "Fatty, warm, nourishing taste - good for strengthening bones and Vata energy"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кальмар",
+        "pl": "Kałamarnica",
+        "en": "Squid"
+      },
+      "note": {
+        "ua": "М'яс, теплий, у фаршованій формі з маслом та спеціями - розпалює Агні Вати",
+        "pl": "Miękkie, ciepły, w faszerowanej formie z olejem i przyprawami - rozpala Agni Vaty",
+        "en": "Soft, warm, stuffed with oil and spices - ignites Vata Agni"
+      }
+    }
+  ],
+  "dairy": [
+    {
+      "name": {
+        "ua": "Топлене масло (Ghee)",
+        "pl": "Osklarowane masło (Ghee)",
+        "en": "Clarified butter (Ghee)"
+      },
+      "note": {
+        "ua": "Золотий нектар Аюрведи - найкращий жир для Вати, активує всі тканини",
+        "pl": "Złoty nektar Ayurvedy - najlepszy tłuszcz dla Vaty, aktywuje wszystkie tkanki",
+        "en": "Golden nectar of Ayurveda - best fat for Vata, activates all tissues"
+      }
+    },
+    {
+      "name": {
+        "ua": "Молоко коровине (теплий)",
+        "pl": "Mleko krowie (ciepłe)",
+        "en": "Cow milk (warm)"
+      },
+      "note": {
+        "ua": "Основа для всіх молочних комбінацій Вати - теплий, маслянистий, живлячий",
+        "pl": "Podstawa wszystkich mlecznych kombinacji Vaty - ciepły, oleisty, odżywczy",
+        "en": "Foundation for all Vata milk combinations - warm, oily, nourishing"
+      }
+    },
+    {
+      "name": {
+        "ua": "Йогурт (теплий, свіжий)",
+        "pl": "Jogurt (ciepły, świeży)",
+        "en": "Yogurt (warm, fresh)"
+      },
+      "note": {
+        "ua": "Живлячий, теплий, кислий смак - збагачує мікрофлору та активує Агні",
+        "pl": "Odżywczy, ciepły, kwaśny smak - wzbogaca mikroflor i aktywuje Agni",
+        "en": "Nourishing, warm, sour taste - enriches microflora and activates Agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Сир твердий (теплий)",
+        "pl": "Ser twardy (ciepły)",
+        "en": "Hard cheese (warm)"
+      },
+      "note": {
+        "ua": "Дуже важкий, маслянистий, живлячий - у малих дозах ідеальний для Вати",
+        "pl": "Bardzo ciężki, oleisty, odżywczy - w małych dawkach idealny dla Vaty",
+        "en": "Very heavy, oily, nourishing - in small amounts ideal for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кисломолочний напій (ласі)",
+        "pl": "Napój fermentowany (lassi)",
+        "en": "Fermented milk drink (lassi)"
+      },
+      "note": {
+        "ua": "Теплий, маслянистий, кислий - класичний напій для Вати у Аюрведі",
+        "pl": "Ciepły, oleisty, kwaśny - klasyczny napój dla Vaty w Ayurvedy",
+        "en": "Warm, oily, sour - classic Ayurvedic drink for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Вершки молочні",
+        "pl": "Śmietana",
+        "en": "Cream"
+      },
+      "note": {
+        "ua": "Чистий жир з молока, нарізаний на маслі - дуже балансує холод та суху Вату",
+        "pl": "Czysty tłuszcz z mleka, pokrojony na maśle - bardzo balansuje zimno i suchą Vatę",
+        "en": "Pure milk fat, sliced in butter - very balances cold and dry Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Молочне желе (панір)",
+        "pl": "Sernik mleczny (panir)",
+        "en": "Milk curd (paneer)"
+      },
+      "note": {
+        "ua": "Важкий, маслянистий білок, теплий у маслі та спеціях - прекрасна їжа для Вати",
+        "pl": "Ciężki, oleisty białek, ciepły w oleju i przyprawach - doskonała żywność dla Vaty",
+        "en": "Heavy, oily protein, warm in oil and spices - excellent food for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кумис (молоко коня)",
+        "pl": "Kumys (mleko konia)",
+        "en": "Kumiss (horse milk)"
+      },
+      "note": {
+        "ua": "Теплий, кислий, живлячий - давній напій для укріплення костей та енергії Вати",
+        "pl": "Ciepły, kwaśny, odżywczy - starożytny napój do wzmocnienia kości i energii Vaty",
+        "en": "Warm, sour, nourishing - ancient drink for strengthening Vata bones and energy"
+      }
+    }
+  ],
+  "oils": [
+    {
+      "name": {
+        "ua": "Кунжутна олія",
+        "pl": "Olej sezamowy",
+        "en": "Sesame oil"
+      },
+      "note": {
+        "ua": "Гарячий, маслянистий, гідраційний - найбільш рекомендована олія для Вати у Чараці",
+        "pl": "Ciepły, oleisty, nawilżający - najbardziej rekomendowany olej dla Vaty u Charaki",
+        "en": "Warm, oily, hydrating - most recommended oil for Vata in Caraka"
+      }
+    },
+    {
+      "name": {
+        "ua": "Аюрведичне кунжутне масло (Таїл)",
+        "pl": "Olejek sezamowy Ayurwedy (Tail)",
+        "en": "Ayurvedic sesame oil (Tail)"
+      },
+      "note": {
+        "ua": "Специфічна комбінація кунжутної олії з аюрведичними травами - розпалює Агні та розслабляє Вату",
+        "pl": "Specjalna kombinacja oleju sezamowego z ziołami Ayurwedy - rozpala Agni i rozluźnia Vatę",
+        "en": "Special combination of sesame oil with Ayurvedic herbs - ignites Agni and relaxes Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Оливкова олія",
+        "pl": "Olej z oliwek",
+        "en": "Olive oil"
+      },
+      "note": {
+        "ua": "Теплий, маслянистий, живлячий смак - альтернатива кунжутній олії для Вати",
+        "pl": "Ciepły, oleisty, odżywczy smak - alternatywa dla oleju sezamowego dla Vaty",
+        "en": "Warm, oily, nourishing taste - alternative to sesame oil for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кокосова олія (органічна)",
+        "pl": "Olej kokosowy (organiczny)",
+        "en": "Coconut oil (organic)"
+      },
+      "note": {
+        "ua": "Охолоджуючий, маслянистий - у теплих регіонах помірно балансує Вату, у холодних - обережно",
+        "pl": "Chłodzący, oleisty - w ciepłych regionach umiarkowanie balansuje Vatę, w zimnych - ostrożnie",
+        "en": "Cooling, oily - in warm regions moderately balances Vata, in cold regions cautiously"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гірчична олія",
+        "pl": "Olej musztardowy",
+        "en": "Mustard oil"
+      },
+      "note": {
+        "ua": "Дуже гарячий, пахучий, маслянистий - в малих дозах розпалює Агні холодної Вати",
+        "pl": "Bardzo ciepły, pachnący, oleisty - w małych dawkach rozpala Agni zimnej Vaty",
+        "en": "Very hot, aromatic, oily - in small doses ignites cold Vata Agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Авокадова олія",
+        "pl": "Olej z awokado",
+        "en": "Avocado oil"
+      },
+      "note": {
+        "ua": "Маслянистий, теплий, живлячий - хороша альтернатива для чутливої Вати",
+        "pl": "Oleisty, ciepły, odżywczy - dobra alternatywa dla czułej Vaty",
+        "en": "Oily, warm, nourishing - good alternative for sensitive Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Касторова олія (Еранда Тайла)",
+        "pl": "Olej rycynowy (Eranda Taila)",
+        "en": "Castor oil (Eranda Taila)"
+      },
+      "note": {
+        "ua": "Теплий, важкий, смазуючий - корисний для масажу та внутрішнього застосування при запорах Вати",
+        "pl": "Ciepły, ciężki, smarujący - przydatny do masażu i wewnętrznego stosowania przy zaparciach Vaty",
+        "en": "Warm, heavy, lubricating - useful for massage and internal use for Vata constipation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Мигдальна олія",
+        "pl": "Olej migdałowy",
+        "en": "Almond oil"
+      },
+      "note": {
+        "ua": "Теплий, маслянистий, живлячий - чудово живить суху шкіру та холод Вати",
+        "pl": "Ciepły, oleisty, odżywczy - cudownie żywi suchą skórę i zimno Vaty",
+        "en": "Warm, oily, nourishing - wonderfully nourishes dry skin and Vata cold"
+      }
+    }
+  ],
+  "spices": [
+    {
+      "name": {
+        "ua": "Імбир (свіжий)",
+        "pl": "Imbir (świeży)",
+        "en": "Ginger (fresh)"
+      },
+      "note": {
+        "ua": "Гарячий, гостро пахучий, активує Агні - основна спеція для Вати в аюрведі",
+        "pl": "Ciepły, ostro pachnący, aktywuje Agni - główna przyprawa dla Vaty w ayurvedy",
+        "en": "Hot, aromatic, activates Agni - primary spice for Vata in Ayurveda"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кмин",
+        "pl": "Kminek",
+        "en": "Cumin"
+      },
+      "note": {
+        "ua": "Теплий, ароматичний, улегшує газоутворення - дуже корисний для травлення Вати",
+        "pl": "Ciepły, aromatyczny, ułatwia gaz - bardzo przydatny do trawienia Vaty",
+        "en": "Warm, aromatic, eases bloating - very beneficial for Vata digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Коріандр",
+        "pl": "Koriander",
+        "en": "Coriander"
+      },
+      "note": {
+        "ua": "Теплий, солодкий смак, охолоджує без надмірного охолодження - балансує палітру Вати",
+        "pl": "Ciepły, słodki smak, chłodzi bez nadmiernego chłodzenia - balansuje paletę Vaty",
+        "en": "Warm, sweet taste, cools without excessive cooling - balances Vata palette"
+      }
+    },
+    {
+      "name": {
+        "ua": "Фенхель",
+        "pl": "Koper włoski",
+        "en": "Fennel"
+      },
+      "note": {
+        "ua": "Теплий, солодкий, ароматичний - розслабляє нервову систему та травлення Вати",
+        "pl": "Ciepły, słodki, aromatyczny - rozluźnia układ nerwowy i trawienie Vaty",
+        "en": "Warm, sweet, aromatic - relaxes nervous system and Vata digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гвоздика",
+        "pl": "Goździki",
+        "en": "Clove"
+      },
+      "note": {
+        "ua": "Дуже гарячий, гостро пахучий, розпалює Агні - у малих дозах для Вати",
+        "pl": "Bardzo ciepły, ostro pachnący, rozpala Agni - w małych dawkach dla Vaty",
+        "en": "Very hot, aromatic, ignites Agni - in small doses for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кориця",
+        "pl": "Cynamon",
+        "en": "Cinnamon"
+      },
+      "note": {
+        "ua": "Гарячий, маслянистий смак, розпалює теплоту - прекрасно рівнює Вату у холодних місяцях",
+        "pl": "Gorący, oleisty smak, rozpala ciepło - doskonale równoważy Vatę w zimnych miesiącach",
+        "en": "Hot, oily taste, ignites warmth - perfectly balances Vata in cold months"
+      }
+    },
+    {
+      "name": {
+        "ua": "Мускатний горіх",
+        "pl": "Gałka muszkatołowa",
+        "en": "Nutmeg"
+      },
+      "note": {
+        "ua": "Гарячий, маслянистий, успокоюючий - розслабляє нерви та заспокоює Вату на сні",
+        "pl": "Gorący, oleisty, uspokajający - rozluźnia nerwy i uspokaja Vatę na śnie",
+        "en": "Hot, oily, calming - relaxes nerves and calms Vata at sleep"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чорна перець",
+        "pl": "Pieprz czarny",
+        "en": "Black pepper"
+      },
+      "note": {
+        "ua": "Дуже гарячий, гостро пахучий, розпалює Агні - у малих дозах активує травлення Вати",
+        "pl": "Bardzo ciepły, ostro pachnący, rozpala Agni - w małych dawkach aktywuje trawienie Vaty",
+        "en": "Very hot, aromatic, ignites Agni - in small doses activates Vata digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кардамон",
+        "pl": "Kardamon",
+        "en": "Cardamom"
+      },
+      "note": {
+        "ua": "Теплий, солодкий, ароматичний - універсальна спеція для всіх типів Вати",
+        "pl": "Ciepły, słodki, aromatyczny - uniwersalna przyprawa dla wszystkich typów Vaty",
+        "en": "Warm, sweet, aromatic - universal spice for all Vata types"
+      }
+    },
+    {
+      "name": {
+        "ua": "Морська сіль",
+        "pl": "Sól morska",
+        "en": "Sea salt"
+      },
+      "note": {
+        "ua": "Теплий, солоний смак, активує Агні та утримує рідини - ідеальна для Вати",
+        "pl": "Ciepły, słony smak, aktywuje Agni i zatrzymuje płyny - idealna dla Vaty",
+        "en": "Warm, salty taste, activates Agni and retains fluids - ideal for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Орегано",
+        "pl": "Oregano",
+        "en": "Oregano"
+      },
+      "note": {
+        "ua": "Теплий, гостро пахучий, зміцнює систему - добре для укріплення імунітету Вати",
+        "pl": "Ciepły, ostro pachnący, wzmacnia system - dobre do wzmocnienia odporności Vaty",
+        "en": "Warm, aromatic, strengthens system - good for strengthening Vata immunity"
+      }
+    },
+    {
+      "name": {
+        "ua": "Базилік",
+        "pl": "Bazylika",
+        "en": "Basil"
+      },
+      "note": {
+        "ua": "Теплий, ароматичний, розслабляючий - успокоює розум та травлення Вати",
+        "pl": "Ciepły, aromatyczny, rozluźniający - uspokaja umysł i trawienie Vaty",
+        "en": "Warm, aromatic, relaxing - calms mind and Vata digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Тимʼян",
+        "pl": "Tymianek",
+        "en": "Thyme"
+      },
+      "note": {
+        "ua": "Теплий, гарячий, гостро пахучий - розпалює тепло та активує розум Вати",
+        "pl": "Ciepły, gorący, ostro pachnący - rozpala ciepło i aktywuje umysł Vaty",
+        "en": "Warm, hot, aromatic - ignites warmth and activates Vata mind"
+      }
+    },
+    {
+      "name": {
+        "ua": "Розмарин",
+        "pl": "Rozmaryn",
+        "en": "Rosemary"
+      },
+      "note": {
+        "ua": "Теплий, гостро пахучий, кровообігу стимулюючий - розвиває кровообіг і грушу Вати",
+        "pl": "Ciepły, ostro pachnący, stymulujący krążenie - wzmacnia krążenie i serce Vaty",
+        "en": "Warm, aromatic, circulation-stimulating - enhances circulation and heart of Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Жовта гірчиця (насіння)",
+        "pl": "Musztarda żółta (nasienie)",
+        "en": "Yellow mustard seed"
+      },
+      "note": {
+        "ua": "Дуже гарячий, гостро пахучий, розпалює Агні - у мінімальних дозах збогачує смак для Вати",
+        "pl": "Bardzo ciepły, ostro pachnący, rozpala Agni - w minimalnych dawkach wzbogaca smak dla Vaty",
+        "en": "Very hot, aromatic, ignites Agni - in minimal doses enriches taste for Vata"
+      }
+    }
+  ],
+  "teas": [
+    {
+      "name": {
+        "ua": "Чай з імбиру (свіжий)",
+        "pl": "Herbata z imbiru (świeży)",
+        "en": "Ginger tea (fresh)"
+      },
+      "note": {
+        "ua": "Гарячий, гостро пахучий, активує Агні - найпопулярніший напій для Вати в Аюрведі",
+        "pl": "Gorący, ostro pachnący, aktywuje Agni - najpopularniejszy napój dla Vaty w Ayurvedy",
+        "en": "Hot, aromatic, activates Agni - most popular drink for Vata in Ayurveda"
+      }
+    },
+    {
+      "name": {
+        "ua": "Лікувальний чай з трав (Kada)",
+        "pl": "Leczniczy czaj z ziół (Kada)",
+        "en": "Medicinal herb tea (Kada)"
+      },
+      "note": {
+        "ua": "Гарячий, многовідповідний, живлячий - готується з теплих трав на маслі для Вати",
+        "pl": "Gorący, wielodziałaniowy, odżywczy - przygotowywany z ciepłych ziół na oleju dla Vaty",
+        "en": "Hot, multifunctional, nourishing - prepared with warm herbs on oil for Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чай з кореню солодки",
+        "pl": "Herbata z korzenia łykworu",
+        "en": "Licorice root tea"
+      },
+      "note": {
+        "ua": "Теплий, солодкий, живлячий - розслабляє нервову систему і улегшує суху горло Вати",
+        "pl": "Ciepły, słodki, odżywczy - rozluźnia układ nerwowy i ułatwia suchą gardło Vaty",
+        "en": "Warm, sweet, nourishing - relaxes nervous system and eases dry throat of Vata"
+      }
+    },
+    {
+      "name": {
+        "ua": "Теплі молочні напої (молоко з кумаля)",
+        "pl": "Ciepłe napoje mleczne (mleko z kumalą)",
+        "en": "Warm milk drinks (milk with turmeric)"
+      },
+      "note": {
+        "ua": "Гарячий, маслянистий, живлячий - класичний вечірній напій для Вати перед сном",
+        "pl": "Gorący, oleisty, odżywczy - klasyczny wieczorny napój dla Vaty przed snem",
+        "en": "Hot, oily, nourishing - classic evening drink for Vata before sleep"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чай з феніхеля (Сауф)",
+        "pl": "Herbata z feniku (Sauf)",
+        "en": "Fennel tea (Sauf)"
+      },
+      "note": {
+        "ua": "Теплий, солодкий, ароматичний - розслабляє травну систему і улегшує газоутворення",
+        "pl": "Ciepły, słodki, aromatyczny - rozluźnia układ pokarmowy i ułatwia gaz",
+        "en": "Warm, sweet, aromatic - relaxes digestive system and eases bloating"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чай з гвоздики",
+        "pl": "Herbata z goździków",
+        "en": "Clove tea"
+      },
+      "note": {
+        "ua": "Дуже гарячий, гостро пахучий, розпалює теплоту - у малих дозах для активації Агні",
+        "pl": "Bardzo gorący, ostro pachnący, rozpala ciepło - w małych dawkach do aktywacji Agni",
+        "en": "Very hot, aromatic, ignites warmth - in small doses to activate Agni"
+      }
+    },
+    {
+      "name": {
+        "ua": "Бульйон костей (масний)",
+        "pl": "Bulion z kości (tłusty)",
+        "en": "Bone broth (fatty)"
+      },
+      "note": {
+        "ua": "Гарячий, масний, живлячий - давній напій для укріплення кісток і енергії Вати",
+        "pl": "Gorący, tłusty, odżywczy - starożytny napój do wzmocnienia kości i energii Vaty",
+        "en": "Hot, fatty, nourishing - ancient drink for strengthening bones and Vata energy"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чай з корицею та молоком",
+        "pl": "Herbata z cynamonem i mlekiem",
+        "en": "Cinnamon and milk tea"
+      },
+      "note": {
+        "ua": "Гарячий, маслянистий, солодкий - розпалює теплоту та заспокоює розум",
+        "pl": "Gorący, oleisty, słodki - rozpala ciepło i uspokaja umysł",
+        "en": "Hot, oily, sweet - ignites warmth and calms mind"
+      }
+    },
+    {
+      "name": {
+        "ua": "Золотий напій (Молоко з куркумою)",
+        "pl": "Złoty napój (Mleko z kurkumą)",
+        "en": "Golden milk (Milk with turmeric)"
+      },
+      "note": {
+        "ua": "Гарячий, протизапальний, живлячий - класичний Аюрведичний напій для всіх прострел Вати",
+        "pl": "Gorący, противоспалительный, odżywczy - klasyczny napój Ayurwedy dla wszystkich typów Vaty",
+        "en": "Hot, anti-inflammatory, nourishing - classic Ayurvedic drink for all Vata conditions"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чай з іхлімоном та медом",
+        "pl": "Herbata z cytryną i miodem",
+        "en": "Lemon and honey tea"
+      },
+      "note": {
+        "ua": "Теплий, кислий, солодкий - активує Агні та розслабляє дихання Вати",
+        "pl": "Ciepły, kwaśny, słodki - aktywuje Agni i rozluźnia oddychanie Vaty",
+        "en": "Warm, sour, sweet - activates Agni and relaxes breathing of Vata"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1292 @@
+{
+  "vegetables": [
+    {
+      "name": {
+        "ua": "Огірок",
+        "pl": "Ogórek",
+        "en": "Cucumber"
+      },
+      "note": {
+        "ua": "Охолоджуючий, легкий, зменшує внутрішній жар піти",
+        "pl": "Chłodzący, lekki, zmniejsza wewnętrzne ciepło pitta",
+        "en": "Cooling, light, reduces pitta's internal heat"
+      }
+    },
+    {
+      "name": {
+        "ua": "Салат-латук",
+        "pl": "Sałata masłana",
+        "en": "Lettuce"
+      },
+      "note": {
+        "ua": "Холодний, в'яжучий смак балансує гострість піти",
+        "pl": "Zimny, wяжący smak równoważy ostrość pitta",
+        "en": "Cool, astringent taste balances pitta's sharpness"
+      }
+    },
+    {
+      "name": {
+        "ua": "Броколі",
+        "pl": "Brokuł",
+        "en": "Broccoli"
+      },
+      "note": {
+        "ua": "В'яжучий, холодний, захищає печінку від гарячки піти",
+        "pl": "Wяżący, zimny, chroni wątrobę przed gorączką pitta",
+        "en": "Astringent, cool, protects liver from pitta's heat"
+      }
+    },
+    {
+      "name": {
+        "ua": "Цвітна капуста",
+        "pl": "Kalafior",
+        "en": "Cauliflower"
+      },
+      "note": {
+        "ua": "Легка, охолоджуюча, не дратує чутливий кишечник піти",
+        "pl": "Lekka, chłodząca, nie drażni wrażliwą trzewię pitta",
+        "en": "Light, cooling, doesn't irritate pitta's sensitive intestines"
+      }
+    },
+    {
+      "name": {
+        "ua": "Спаржа",
+        "pl": "Szparagy",
+        "en": "Asparagus"
+      },
+      "note": {
+        "ua": "В'яжучий смак, охолоджуючий, лікує запалення шкіри",
+        "pl": "Smak wяжący, chłodzący, leczy zapalenie skóry",
+        "en": "Astringent taste, cooling, heals skin inflammation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кабачок",
+        "pl": "Cukinia",
+        "en": "Zucchini"
+      },
+      "note": {
+        "ua": "М'який, охолоджуючий, не дратує чутливе травлення піти",
+        "pl": "Miękki, chłodzący, nie drażni wrażliwą trawię pitta",
+        "en": "Soft, cooling, doesn't irritate pitta's sensitive digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Селера",
+        "pl": "Seler",
+        "en": "Celery"
+      },
+      "note": {
+        "ua": "Холодна, гіркий смак очищує кров від токсичного жару",
+        "pl": "Zimna, gorzki smak oczyszcza krew z toksycznego ciepła",
+        "en": "Cool, bitter taste purifies blood from toxic heat"
+      }
+    },
+    {
+      "name": {
+        "ua": "Морква (сирова)",
+        "pl": "Marchew (surowa)",
+        "en": "Carrot (raw)"
+      },
+      "note": {
+        "ua": "Солодка, січна, охолоджуюча при сирому вигляді",
+        "pl": "Słodka, wycinająca, chłodząca w surowym stanie",
+        "en": "Sweet, cutting, cooling in raw form"
+      }
+    },
+    {
+      "name": {
+        "ua": "Петрушка",
+        "pl": "Pietruszka",
+        "en": "Parsley"
+      },
+      "note": {
+        "ua": "Гіркий смак, охолоджуюча, детоксикує печінку від піти",
+        "pl": "Gorzki smak, chłodząca, detoksykuje wątrobę z pitta",
+        "en": "Bitter taste, cooling, detoxifies liver from pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кінза",
+        "pl": "Kolendra",
+        "en": "Cilantro"
+      },
+      "note": {
+        "ua": "Гіркий смак, охолоджуюча, зменшує запалення в кишечнику",
+        "pl": "Gorzki smak, chłodząca, zmniejsza zapalenie w jelitach",
+        "en": "Bitter taste, cooling, reduces intestinal inflammation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Часник (мало)",
+        "pl": "Czosnek (mało)",
+        "en": "Garlic (minimal)"
+      },
+      "note": {
+        "ua": "Гострий, але в малих дозах розігріває кров, уникати при запаленні",
+        "pl": "Ostry, ale w małych dawkach rozgrzewa krew, unikać przy zapaleniu",
+        "en": "Pungent, but in small doses warms blood, avoid during inflammation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гарбуз",
+        "pl": "Dynia",
+        "en": "Pumpkin"
+      },
+      "note": {
+        "ua": "Солодкий, легкий, охолоджуючий, живить піту без виснаження",
+        "pl": "Słodki, lekki, chłodzący, żywi pitta bez wyczerpania",
+        "en": "Sweet, light, cooling, nourishes pitta without depletion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Батат",
+        "pl": "Batат",
+        "en": "Sweet potato"
+      },
+      "note": {
+        "ua": "Солодкий, важкий, охолоджуючий, стабілізує піту",
+        "pl": "Słodki, ciężki, chłodzący, stabilizuje pitta",
+        "en": "Sweet, heavy, cooling, stabilizes pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Насіння гарбуза",
+        "pl": "Nasiona dyni",
+        "en": "Pumpkin seeds"
+      },
+      "note": {
+        "ua": "В'яжучі, охолоджуючі, живлять і заспокоюють нервову систему",
+        "pl": "Wяжące, chłodzące, żywią i uspokajają system nerwowy",
+        "en": "Astringent, cooling, nourish and calm nervous system"
+      }
+    },
+    {
+      "name": {
+        "ua": "Мангольд",
+        "pl": "Mangold",
+        "en": "Chard"
+      },
+      "note": {
+        "ua": "Гіркий смак, холодний, очищує печінку від застою крові",
+        "pl": "Gorzki smak, zimny, oczyszcza wątrobę ze stagnacji krwi",
+        "en": "Bitter taste, cold, cleanses liver from blood stagnation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Шпинат",
+        "pl": "Szpinak",
+        "en": "Spinach"
+      },
+      "note": {
+        "ua": "Гіркий, холодний, але важкий — їсти вареним із гхі",
+        "pl": "Gorzki, zimny, ale ciężki — jeść gotowanym z ghee",
+        "en": "Bitter, cold, but heavy — eat cooked with ghee"
+      }
+    },
+    {
+      "name": {
+        "ua": "Артишок",
+        "pl": "Karczoch",
+        "en": "Artichoke"
+      },
+      "note": {
+        "ua": "В'яжучий, холодний, захищає печінку піти від перегріву",
+        "pl": "Wяżący, zimny, chroni wątrobę pitta przed przegrzaniem",
+        "en": "Astringent, cool, protects pitta's liver from overheating"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гарячий перець (мінімум)",
+        "pl": "Papryka ostra (minimum)",
+        "en": "Hot pepper (minimal)"
+      },
+      "note": {
+        "ua": "Гострий — уникати, але з інших спецій отримати корисні властивості",
+        "pl": "Ostry — unikać, ale uzyskać właściwości ze specjalności",
+        "en": "Pungent — avoid, but get benefits from other spices"
+      }
+    },
+    {
+      "name": {
+        "ua": "Морські водорості",
+        "pl": "Algi morskie",
+        "en": "Sea vegetables"
+      },
+      "note": {
+        "ua": "Солені — мінімум, але мінерали холодять і живлять піту",
+        "pl": "Słone — minimum, ale minerały chłodzą i żywią pitta",
+        "en": "Salty — minimal, but minerals cool and nourish pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Мікс листового салату",
+        "pl": "Miks sałaty liściowej",
+        "en": "Mixed greens"
+      },
+      "note": {
+        "ua": "Холодна, в'яжуча, натуральна охолоджує систему піти",
+        "pl": "Zimna, wяżąca, naturalnie chłodzi system pitta",
+        "en": "Cool, astringent, naturally cools pitta system"
+      }
+    },
+    {
+      "name": {
+        "ua": "Буряк",
+        "pl": "Buraki",
+        "en": "Beets"
+      },
+      "note": {
+        "ua": "Солодкий, але гарячий — їсти мало та охолодженим",
+        "pl": "Słodki, ale gorący — jeść mało i ochłodzony",
+        "en": "Sweet, but heating — eat little and cooled"
+      }
+    },
+    {
+      "name": {
+        "ua": "Редька",
+        "pl": "Rzepa",
+        "en": "Radish"
+      },
+      "note": {
+        "ua": "Гострий, в'яжучий — мінімум, але очищає від застою",
+        "pl": "Ostry, wяżący — minimum, ale oczyszcza ze stagnacji",
+        "en": "Pungent, astringent — minimal, but clears stagnation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Капуста",
+        "pl": "Kapusta",
+        "en": "Cabbage"
+      },
+      "note": {
+        "ua": "В'яжуча, холодна, легко перетравлюється пітою",
+        "pl": "Wяżąca, zimna, łatwo trawiona przez pitta",
+        "en": "Astringent, cold, easily digested by pitta"
+      }
+    }
+  ],
+  "fruits": [
+    {
+      "name": {
+        "ua": "Манго",
+        "pl": "Mango",
+        "en": "Mango"
+      },
+      "note": {
+        "ua": "Солодке, охолоджуюче, квінтесенція охолоджуючого фрукта для піти",
+        "pl": "Słodkie, chłodzące, квинтесencja chłodzącego owocu dla pitta",
+        "en": "Sweet, cooling, quintessence of cooling fruit for pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кокос",
+        "pl": "Kokos",
+        "en": "Coconut"
+      },
+      "note": {
+        "ua": "Холодний, маслянистий, охолоджує кров піти від запалення",
+        "pl": "Zimny, tłusty, chłodzi krew pitta z zapalenia",
+        "en": "Cool, oily, cools pitta's inflamed blood"
+      }
+    },
+    {
+      "name": {
+        "ua": "Груша",
+        "pl": "Gruszka",
+        "en": "Pear"
+      },
+      "note": {
+        "ua": "Холодна, в'яжуча, легка, ідеальна для чутливого кишечнику піти",
+        "pl": "Zimna, wяжąca, lekka, idealna dla wrażliwego jelita pitta",
+        "en": "Cool, astringent, light, ideal for pitta's sensitive intestines"
+      }
+    },
+    {
+      "name": {
+        "ua": "Яблуко",
+        "pl": "Jabłko",
+        "en": "Apple"
+      },
+      "note": {
+        "ua": "Холодне, в'яжуче, солодке, найбезпечніше для піти",
+        "pl": "Zimne, wяжące, słodkie, najbezpieczniejsze dla pitta",
+        "en": "Cool, astringent, sweet, safest for pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гранат",
+        "pl": "Granat",
+        "en": "Pomegranate"
+      },
+      "note": {
+        "ua": "Холодний, в'яжучий, гіркий смак очищує кров від гарячки",
+        "pl": "Zimny, wяжący, gorzki smak oczyszcza krew z gorączki",
+        "en": "Cool, astringent, bitter taste purifies blood from heat"
+      }
+    },
+    {
+      "name": {
+        "ua": "Дині",
+        "pl": "Melony",
+        "en": "Melons"
+      },
+      "note": {
+        "ua": "Охолоджуючі, водянисті, гасять внутрішній вогонь піти",
+        "pl": "Chłodzące, wodzkowe, gaszone wewnętrzny ogień pitta",
+        "en": "Cooling, watery, extinguish pitta's inner fire"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кавун",
+        "pl": "Arbuz",
+        "en": "Watermelon"
+      },
+      "note": {
+        "ua": "Дуже холодний, водянистий, найкраще охолоджує гарячу піту",
+        "pl": "Bardzo zimny, wodkowy, najlepiej chłodzi gorącą pitta",
+        "en": "Very cool, watery, best cools hot pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Банан",
+        "pl": "Banan",
+        "en": "Banana"
+      },
+      "note": {
+        "ua": "Солодкий, важкий, охолоджуючий, успокоює нерви піти",
+        "pl": "Słodki, ciężki, chłodzący, uspokaja nerwy pitta",
+        "en": "Sweet, heavy, cooling, calms pitta's nerves"
+      }
+    },
+    {
+      "name": {
+        "ua": "Ківі",
+        "pl": "Kiwi",
+        "en": "Kiwi"
+      },
+      "note": {
+        "ua": "Холодний, гіркий смак, очищує печінку від токсичного жару",
+        "pl": "Zimny, gorzki smak, oczyszcza wątrobę z toksycznego ciepła",
+        "en": "Cool, bitter taste, cleanses liver from toxic heat"
+      }
+    },
+    {
+      "name": {
+        "ua": "Апельсин",
+        "pl": "Pomarańcza",
+        "en": "Orange"
+      },
+      "note": {
+        "ua": "Кислий — обмежити, але холодний цитрус можна в невеликій кількості",
+        "pl": "Kwaśny — ograniczyć, ale zimny cytryn można w małej ilości",
+        "en": "Acidic — limit, but cool citrus okay in small amounts"
+      }
+    },
+    {
+      "name": {
+        "ua": "Лимон (сік в воді)",
+        "pl": "Cytryna (sok w wodzie)",
+        "en": "Lemon (juice in water)"
+      },
+      "note": {
+        "ua": "Кислий, але холодна вода зменшує ефект — мінімум",
+        "pl": "Kwaśny, ale zimna woda zmniejsza efekt — minimum",
+        "en": "Acidic, but cool water reduces effect — minimal"
+      }
+    },
+    {
+      "name": {
+        "ua": "Слива",
+        "pl": "Śliwka",
+        "en": "Plum"
+      },
+      "note": {
+        "ua": "Холодна, в'яжуча, сухуватого смаку, добра для піти",
+        "pl": "Zimna, wяżąca, suchawa na smak, dobra dla pitta",
+        "en": "Cool, astringent, slightly dry taste, good for pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Персик",
+        "pl": "Brzoskwinia",
+        "en": "Peach"
+      },
+      "note": {
+        "ua": "Трохи гарячий — мало, але холодний персик допускається",
+        "pl": "Trochę gorący — mało, ale zimny brzoskwinia dozwolona",
+        "en": "Slightly heating — little, but cool peach allowed"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чорниця",
+        "pl": "Jagoda czarna",
+        "en": "Blueberry"
+      },
+      "note": {
+        "ua": "Холодна, в'яжуча, гіркий смак детоксикує печінку",
+        "pl": "Zimna, wяжąca, gorzki smak detoksykuje wątrobę",
+        "en": "Cool, astringent, bitter taste detoxifies liver"
+      }
+    },
+    {
+      "name": {
+        "ua": "Малина",
+        "pl": "Malina",
+        "en": "Raspberry"
+      },
+      "note": {
+        "ua": "Холодна, в'яжуча, легка, безпечна для чутливого кишечнику",
+        "pl": "Zimna, wяжąca, lekka, bezpieczna dla wrażliwego jelita",
+        "en": "Cool, astringent, light, safe for sensitive intestines"
+      }
+    },
+    {
+      "name": {
+        "ua": "Цукрові дині",
+        "pl": "Melony cukrowe",
+        "en": "Sweet melons"
+      },
+      "note": {
+        "ua": "Охолоджуючі, солодкі, але важкі — їсти мало перед іншою їжею",
+        "pl": "Chłodzące, słodkie, ale ciężkie — jeść mało przed inną edą",
+        "en": "Cooling, sweet, but heavy — eat little before other food"
+      }
+    }
+  ],
+  "grains": [
+    {
+      "name": {
+        "ua": "Рис білий",
+        "pl": "Ryż biały",
+        "en": "White rice"
+      },
+      "note": {
+        "ua": "Холодний, легкий, охолоджує піту краще, ніж інші зерна",
+        "pl": "Zimny, lekki, chłodzi pitta lepiej niż inne zboża",
+        "en": "Cool, light, cools pitta better than other grains"
+      }
+    },
+    {
+      "name": {
+        "ua": "Рис басматі",
+        "pl": "Ryż basmati",
+        "en": "Basmati rice"
+      },
+      "note": {
+        "ua": "Холодний, легкий, найкращий вибір зерна для балансу піти",
+        "pl": "Zimny, lekki, najlepszy wybór zboża dla równowagi pitta",
+        "en": "Cool, light, best grain choice for pitta balance"
+      }
+    },
+    {
+      "name": {
+        "ua": "Овес",
+        "pl": "Owies",
+        "en": "Oats"
+      },
+      "note": {
+        "ua": "Важкий, холодний, але маслянистий — варити з гхі та охолодженою молоком",
+        "pl": "Ciężki, zimny, ale tłusty — gotować z ghee i ochłodzonym mlekiem",
+        "en": "Heavy, cool, but oily — cook with ghee and cool milk"
+      }
+    },
+    {
+      "name": {
+        "ua": "Ячмінь",
+        "pl": "Jęczmień",
+        "en": "Barley"
+      },
+      "note": {
+        "ua": "Холодний, в'яжучий, сухий — чудово охолоджує і детоксикує піту",
+        "pl": "Zimny, wяжący, suchy — wspaniale chłodzi i detoksykuje pitta",
+        "en": "Cool, astringent, dry — excellently cools and detoxifies pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Пшеничка",
+        "pl": "Pszenica",
+        "en": "Wheat"
+      },
+      "note": {
+        "ua": "Теплий — мало, переважно охолоджені борошняні вироби",
+        "pl": "Ciepły — mało, przede wszystkim ochłodzone wyroby mączne",
+        "en": "Warming — little, prefer cooled wheat products"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кукурудза",
+        "pl": "Kukurydza",
+        "en": "Corn"
+      },
+      "note": {
+        "ua": "Теплий, але легкий — мало, охолоджена кукурудзяна каша",
+        "pl": "Ciepły, ale lekki — mało, ochłodzona kasza kukurydziana",
+        "en": "Warming, but light — little, cooled cornmeal porridge"
+      }
+    },
+    {
+      "name": {
+        "ua": "Квіноа",
+        "pl": "Komosa ryżowa",
+        "en": "Quinoa"
+      },
+      "note": {
+        "ua": "Легка, холодна, важка для траплення — мало, з гхі",
+        "pl": "Lekka, zimna, ciężka do trawienia — mało, z ghee",
+        "en": "Light, cool, heavy to digest — little, with ghee"
+      }
+    },
+    {
+      "name": {
+        "ua": "Жито",
+        "pl": "Żyto",
+        "en": "Rye"
+      },
+      "note": {
+        "ua": "Холодне, в'яжуче, сухе — чудово для інтоксикації піти",
+        "pl": "Zimne, wяжące, suche — wspaniale dla intoksykacji pitta",
+        "en": "Cool, astringent, dry — great for pitta detox"
+      }
+    },
+    {
+      "name": {
+        "ua": "Нут",
+        "pl": "Ciecierzyca",
+        "en": "Chickpea"
+      },
+      "note": {
+        "ua": "Холодний, в'яжучий, сухий — відмінний білок для піти",
+        "pl": "Zimny, wяжący, suchy — znakomite białko dla pitta",
+        "en": "Cool, astringent, dry — excellent protein for pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Сочевиця червона",
+        "pl": "Soczewica czerwona",
+        "en": "Red lentil"
+      },
+      "note": {
+        "ua": "Холодна, легка, очищує чорну желч — краще всіх бобових",
+        "pl": "Zimna, lekka, oczyszcza czarną żółć — najlepiej spośród strączków",
+        "en": "Cool, light, clears black bile — best of legumes"
+      }
+    }
+  ],
+  "meat": [
+    {
+      "name": {
+        "ua": "М'ясо кролика",
+        "pl": "Mięso królikа",
+        "en": "Rabbit meat"
+      },
+      "note": {
+        "ua": "Легке, холодне, найкраще м'ясо для піти без запалення",
+        "pl": "Lekkie, zimne, najlepsze mięso dla pitta bez zapalenia",
+        "en": "Light, cool, best meat for pitta without inflammation"
+      }
+    },
+    {
+      "name": {
+        "ua": "М'ясо курки (біле)",
+        "pl": "Mięso kurczaka (białe)",
+        "en": "Chicken breast (white)"
+      },
+      "note": {
+        "ua": "Легке, холодне, знімати шкіру, варити, не смажити",
+        "pl": "Lekkie, zimne, zdjąć skórę, gotować, nie smażyć",
+        "en": "Light, cool, remove skin, cook, don't fry"
+      }
+    },
+    {
+      "name": {
+        "ua": "Індик (біле м'ясо)",
+        "pl": "Indyk (białe mięso)",
+        "en": "Turkey (white meat)"
+      },
+      "note": {
+        "ua": "Холодніше за курку, легке, найбезпечніше для піти",
+        "pl": "Zimniejsze niż kurczak, lekkie, najbezpieczniejsze dla pitta",
+        "en": "Cooler than chicken, light, safest for pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Оленина",
+        "pl": "Wołowina dzika",
+        "en": "Venison"
+      },
+      "note": {
+        "ua": "Холодна, сухуватої текстури, детоксикує від гарячки піти",
+        "pl": "Zimna, suchawej tekstury, detoksykuje z gorączki pitta",
+        "en": "Cool, dry texture, detoxifies pitta from heat"
+      }
+    },
+    {
+      "name": {
+        "ua": "М'ясо качки (мало)",
+        "pl": "Mięso kaczki (mało)",
+        "en": "Duck meat (minimal)"
+      },
+      "note": {
+        "ua": "Гаряче, жирне — мінімум, тільки яйця качки холодніші",
+        "pl": "Gorące, tłuste — minimum, tylko jaja kaczki zimniejsze",
+        "en": "Heating, fatty — minimal, only duck eggs cooler"
+      }
+    },
+    {
+      "name": {
+        "ua": "М'ясо гуски (мало)",
+        "pl": "Mięso gęsi (mało)",
+        "en": "Goose meat (minimal)"
+      },
+      "note": {
+        "ua": "Дуже гаряче, жирне — мінімум, для очень вкл піти",
+        "pl": "Bardzo gorące, tłuste — minimum, dla bardzo zapalnej pitta",
+        "en": "Very heating, fatty — minimal, for very inflamed pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "М'ясо фазана",
+        "pl": "Mięso bażanta",
+        "en": "Pheasant meat"
+      },
+      "note": {
+        "ua": "Холодне, легке, диких птахів краще для балансу піти",
+        "pl": "Zimne, lekkie, dzikiego ptactwa lepiej dla równowagi pitta",
+        "en": "Cool, light, wild game better for pitta balance"
+      }
+    },
+    {
+      "name": {
+        "ua": "М'ясо яйце-ніс (мало)",
+        "pl": "Mięso kuropatwy (mało)",
+        "en": "Partridge meat (minimal)"
+      },
+      "note": {
+        "ua": "Холодне, сухе, альтернатива поганій мясу для піти",
+        "pl": "Zimne, suche, alternatywa dla słabego mięsa dla pitta",
+        "en": "Cool, dry, alternative to poor meats for pitta"
+      }
+    }
+  ],
+  "fish": [
+    {
+      "name": {
+        "ua": "Окунь",
+        "pl": "Okoń",
+        "en": "Perch"
+      },
+      "note": {
+        "ua": "Холодна, легка риба, найбезпечніша для піти",
+        "pl": "Zimna, lekka ryba, najbezpieczniejsza dla pitta",
+        "en": "Cool, light fish, safest for pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Судак",
+        "pl": "Szczupak",
+        "en": "Pike"
+      },
+      "note": {
+        "ua": "Холодна, в'яжуча, дикая риба охолоджує піту",
+        "pl": "Zimna, wяжąca, dzika ryba chłodzi pitta",
+        "en": "Cool, astringent, wild fish cools pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Щука",
+        "pl": "Szczupak",
+        "en": "Pike"
+      },
+      "note": {
+        "ua": "Холодна, сухуватої текстури, очищує від застою піти",
+        "pl": "Zimna, suchawej tekstury, oczyszcza ze stagnacji pitta",
+        "en": "Cool, slightly dry, clears pitta stagnation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Форель",
+        "pl": "Pstrąg",
+        "en": "Trout"
+      },
+      "note": {
+        "ua": "Охолоджуюча, але жирна — мало, з сухими сецями",
+        "pl": "Chłodząca, ale tłusta — mało, z suchymi specjalnościami",
+        "en": "Cooling, but fatty — little, with dry spices"
+      }
+    },
+    {
+      "name": {
+        "ua": "Плітка",
+        "pl": "Leszcz",
+        "en": "Bream"
+      },
+      "note": {
+        "ua": "Холодна, легка, білуватої текстури, безпечна для піти",
+        "pl": "Zimna, lekka, białawej tekstury, bezpieczna dla pitta",
+        "en": "Cool, light, whitish texture, safe for pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Селедка (мало)",
+        "pl": "Śledź (mało)",
+        "en": "Herring (minimal)"
+      },
+      "note": {
+        "ua": "Солена, гарячувата — мінімум, але Омега-3 корисна",
+        "pl": "Słona, gorączkowa — minimum, ale Omega-3 jest pożyteczna",
+        "en": "Salty, slightly heating — minimal, but Omega-3 beneficial"
+      }
+    },
+    {
+      "name": {
+        "ua": "Креветки",
+        "pl": "Krewetki",
+        "en": "Shrimp"
+      },
+      "note": {
+        "ua": "Холодні, легкі, морські видобутки охолоджують піту",
+        "pl": "Zimne, lekkie, morskie łupy chłodzą pitta",
+        "en": "Cool, light, seafood cools pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Устриці",
+        "pl": "Ostrygi",
+        "en": "Oysters"
+      },
+      "note": {
+        "ua": "Холодні, в'яжучі, мінерали охолоджують внутрішній жар",
+        "pl": "Zimne, wяżące, minerały chłodzą wewnętrzne ciepło",
+        "en": "Cool, astringent, minerals cool internal heat"
+      }
+    }
+  ],
+  "dairy": [
+    {
+      "name": {
+        "ua": "Гхі (топлене масло)",
+        "pl": "Ghee (masło topione)",
+        "en": "Ghee (clarified butter)"
+      },
+      "note": {
+        "ua": "Холодне, лікувальне, базис аюрведичного лікування піти",
+        "pl": "Zimne, leczące, podstawa leczenia ayurwedyjskiego pitta",
+        "en": "Cool, healing, basis of Ayurvedic pitta treatment"
+      }
+    },
+    {
+      "name": {
+        "ua": "Молоко коров'яче (холодне)",
+        "pl": "Mleko krowine (zimne)",
+        "en": "Cow's milk (cold)"
+      },
+      "note": {
+        "ua": "Холодне, солодке, живить піту й усе тіло без запалення",
+        "pl": "Zimne, słodkie, żywi pitta i całe ciało bez zapalenia",
+        "en": "Cool, sweet, nourishes pitta and whole body without inflammation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Йогурт (холодний, св жий)",
+        "pl": "Jogurt (zimny, świeży)",
+        "en": "Yogurt (cold, fresh)"
+      },
+      "note": {
+        "ua": "Холодний, кислий — мало, але беззаперечно охолоджує піту",
+        "pl": "Zimny, kwaśny — mało, ale bezspornie chłodzi pitta",
+        "en": "Cool, acidic — little, but definitely cools pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Сир (свіжий, не солений)",
+        "pl": "Ser (świeży, niezasolony)",
+        "en": "Cheese (fresh, unsalted)"
+      },
+      "note": {
+        "ua": "Холодний, нежирний, солодкий смак, добре для піти",
+        "pl": "Zimny, niskotłusty, słodki smak, dobry dla pitta",
+        "en": "Cool, low-fat, sweet taste, good for pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кисломолочний напій (не кефір)",
+        "pl": "Napój mleczno-kwaśny (nie kefir)",
+        "en": "Sour milk drink (not kefir)"
+      },
+      "note": {
+        "ua": "Холодний, кислий — мало, але знижує тепло піти",
+        "pl": "Zimny, kwaśny — mało, ale zmniejsza ciepło pitta",
+        "en": "Cool, acidic — little, but reduces pitta heat"
+      }
+    },
+    {
+      "name": {
+        "ua": "Сироватка молочна",
+        "pl": "Serwatka mleczna",
+        "en": "Whey"
+      },
+      "note": {
+        "ua": "Холодна, легка, очищує токсини без істотного обтяження",
+        "pl": "Zimna, lekka, oczyszcza toksyny bez znacznego obciążenia",
+        "en": "Cool, light, cleanses toxins without significant burden"
+      }
+    },
+    {
+      "name": {
+        "ua": "Масло кокосове",
+        "pl": "Olej kokosowy",
+        "en": "Coconut oil"
+      },
+      "note": {
+        "ua": "Найхолодніше масло, охолоджує шкіру від запалення піти",
+        "pl": "Najzimniejsze масло, chłodzi skórę z zapalenia pitta",
+        "en": "Coolest oil, cools skin from pitta inflammation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Молоко мигдального",
+        "pl": "Mleko migdałowe",
+        "en": "Almond milk"
+      },
+      "note": {
+        "ua": "Холодне, солодке, живить без перегріву піти",
+        "pl": "Zimne, słodkie, żywi bez przegrzania pitta",
+        "en": "Cool, sweet, nourishes without pitta overheating"
+      }
+    }
+  ],
+  "oils": [
+    {
+      "name": {
+        "ua": "Кокосова олія",
+        "pl": "Olej kokosowy",
+        "en": "Coconut oil"
+      },
+      "note": {
+        "ua": "Найхолодніша олія, гасить внутрішній вогонь піти",
+        "pl": "Najzimniejszy olej, gasi wewnętrzny ogień pitta",
+        "en": "Coolest oil, extinguishes pitta's inner fire"
+      }
+    },
+    {
+      "name": {
+        "ua": "Сезамова олія (трохи)",
+        "pl": "Olej sezamowy (trochę)",
+        "en": "Sesame oil (little)"
+      },
+      "note": {
+        "ua": "Гарячува — трохи, але вітамін Е охолоджує шкіру",
+        "pl": "Gorąca — trochę, ale witamina E chłodzi skórę",
+        "en": "Heating — little, but vitamin E cools skin"
+      }
+    },
+    {
+      "name": {
+        "ua": "Олія з насіння соняшника",
+        "pl": "Olej ze słonecznika",
+        "en": "Sunflower oil"
+      },
+      "note": {
+        "ua": "Легка, нейтральна, охолоджує краще, ніж більш гарячі олії",
+        "pl": "Lekka, neutralna, chłodzi lepiej niż gorętsze oleje",
+        "en": "Light, neutral, cools better than hotter oils"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гарбузова олія",
+        "pl": "Olej z dyni",
+        "en": "Pumpkin seed oil"
+      },
+      "note": {
+        "ua": "Холодна, вяжуча, живить шкіру від запалення піти",
+        "pl": "Zimna, wяжąca, żywi skórę z zapalenia pitta",
+        "en": "Cool, astringent, nourishes skin from pitta inflammation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Оливкова олія (холодного віджиму)",
+        "pl": "Olej z oliwek (zimnotłoczony)",
+        "en": "Olive oil (cold-pressed)"
+      },
+      "note": {
+        "ua": "Холодна, світла, гарна для шкіри піти при зовнішньому застосуванні",
+        "pl": "Zimna, jasna, dobra do skóry pitta przy zewnętrznym zastosowaniu",
+        "en": "Cool, light, good for pitta skin externally"
+      }
+    },
+    {
+      "name": {
+        "ua": "Олія лляного насіння",
+        "pl": "Olej z nasienia lnu",
+        "en": "Flaxseed oil"
+      },
+      "note": {
+        "ua": "Холодна, сухуватої природи, очищує від застою жару піти",
+        "pl": "Zimna, suchej natury, oczyszcza ze stagnacji ciepła pitta",
+        "en": "Cool, dry nature, clears pitta heat stagnation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Олія з насіння розторопші",
+        "pl": "Olej z nasienia ostropestu",
+        "en": "Milk thistle oil"
+      },
+      "note": {
+        "ua": "Холодна, детоксикує печінку від запалення піти",
+        "pl": "Zimna, detoksykuje wątrobę z zapalenia pitta",
+        "en": "Cool, detoxifies liver from pitta inflammation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кокосова олія (органічна)",
+        "pl": "Olej kokosowy (organiczny)",
+        "en": "Coconut oil (organic)"
+      },
+      "note": {
+        "ua": "Органічна якість найкраще для внутрішнього та зовнішнього охолоджування піти",
+        "pl": "Jakość organiczna najlepsza do wewnętrznego i zewnętrznego chłodzenia pitta",
+        "en": "Organic quality best for internal and external pitta cooling"
+      }
+    }
+  ],
+  "spices": [
+    {
+      "name": {
+        "ua": "Кардамон",
+        "pl": "Kardamon",
+        "en": "Cardamom"
+      },
+      "note": {
+        "ua": "Холодна спеція, гідна королів, охолоджує пиття та їжу піти",
+        "pl": "Zimna przyprawa, godna królów, chłodzi napoje i jedzenie pitta",
+        "en": "Cool spice, fit for kings, cools pitta's drinks and food"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кміни",
+        "pl": "Kmin",
+        "en": "Cumin"
+      },
+      "note": {
+        "ua": "Холодна, в'яжуча, розжалює травлення піти без подразнення",
+        "pl": "Zimna, wяжąca, ulepsza trawienie pitta bez drażnienia",
+        "en": "Cool, astringent, improves pitta digestion without irritation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кориця",
+        "pl": "Cynamon",
+        "en": "Cinnamon"
+      },
+      "note": {
+        "ua": "Теплий — мало, але гіркий смак охолоджує внутрішній жар",
+        "pl": "Ciepły — mało, ale gorzki smak chłodzi wewnętrzne ciepło",
+        "en": "Warming — little, but bitter taste cools inner heat"
+      }
+    },
+    {
+      "name": {
+        "ua": "Шафран",
+        "pl": "Szafran",
+        "en": "Saffron"
+      },
+      "note": {
+        "ua": "Холодний, гіркий, лікувальний, регенерує кров піти",
+        "pl": "Zimny, gorzki, leczący, regeneruje krew pitta",
+        "en": "Cool, bitter, healing, regenerates pitta's blood"
+      }
+    },
+    {
+      "name": {
+        "ua": "Турмерик (куркума)",
+        "pl": "Kurkuma",
+        "en": "Turmeric"
+      },
+      "note": {
+        "ua": "Гарячий — трохи, але антизапальна для печінки піти",
+        "pl": "Gorący — trochę, ale antyzapalny dla wątroby pitta",
+        "en": "Heating — little, but anti-inflammatory for pitta's liver"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кориандр (кінза)",
+        "pl": "Kolendra",
+        "en": "Coriander"
+      },
+      "note": {
+        "ua": "Холодна, гіркий смак, детоксикує печінку піти",
+        "pl": "Zimna, gorzki smak, detoksykuje wątrobę pitta",
+        "en": "Cool, bitter taste, detoxifies pitta's liver"
+      }
+    },
+    {
+      "name": {
+        "ua": "Дзиндзерь (свіжий)",
+        "pl": "Imbir (świeży)",
+        "en": "Ginger (fresh)"
+      },
+      "note": {
+        "ua": "Гарячий — мало, але свіжий охолоджує краще, ніж сухий",
+        "pl": "Gorący — mało, ale świeży chłodzi lepiej niż suchy",
+        "en": "Heating — little, but fresh cools better than dry"
+      }
+    },
+    {
+      "name": {
+        "ua": "Фенхель",
+        "pl": "Koperkowy",
+        "en": "Fennel"
+      },
+      "note": {
+        "ua": "Холодний, м'яткий, охолоджує травну систему піти",
+        "pl": "Zimny, miętowy, chłodzi system trawienia pitta",
+        "en": "Cool, minty, cools pitta's digestive system"
+      }
+    },
+    {
+      "name": {
+        "ua": "Святий базиліум (tulsi)",
+        "pl": "Bazylika święta (tulsi)",
+        "en": "Holy basil (tulsi)"
+      },
+      "note": {
+        "ua": "Холодна, святої енергії, гасить вогонь емоцій піти",
+        "pl": "Zimna, świętej energii, gasi ogień emocji pitta",
+        "en": "Cool, sacred energy, extinguishes pitta's emotional fire"
+      }
+    },
+    {
+      "name": {
+        "ua": "М'ята перцева",
+        "pl": "Mięta pieprzowa",
+        "en": "Peppermint"
+      },
+      "note": {
+        "ua": "Дуже холодна, освіжаюча, стимулює холодне травлення піти",
+        "pl": "Bardzo zimna, orzeźwiająca, stymuluje zimne trawienie pitta",
+        "en": "Very cool, refreshing, stimulates pitta's cool digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Жасмин (квіток)",
+        "pl": "Jasmin (kwiat)",
+        "en": "Jasmine (flower)"
+      },
+      "note": {
+        "ua": "Холодна, ароматна, заспокоює розум піти від гарячки",
+        "pl": "Zimna, aromatyczna, uspokaja umysł pitta z gorączki",
+        "en": "Cool, aromatic, calms pitta's mind from heat"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гвоздика",
+        "pl": "Goździk",
+        "en": "Clove"
+      },
+      "note": {
+        "ua": "Гарячий — мало, але антимікробна для горла піти",
+        "pl": "Gorący — mało, ale antybakteryjny dla gardła pitta",
+        "en": "Heating — little, but antimicrobial for pitta's throat"
+      }
+    },
+    {
+      "name": {
+        "ua": "Лавровий листок",
+        "pl": "Liść laurowy",
+        "en": "Bay leaf"
+      },
+      "note": {
+        "ua": "Нейтральна, гіркавата, очищує від затримання тепла в травленні",
+        "pl": "Neutralna, gorzka, oczyszcza z zatrzymania ciepła w trawieniu",
+        "en": "Neutral, slightly bitter, clears heat retention in digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Сіль гімалайська (мало)",
+        "pl": "Sól himalajska (mało)",
+        "en": "Himalayan salt (minimal)"
+      },
+      "note": {
+        "ua": "Солена — мінімум, але мінерали охолоджують глибокі шари піти",
+        "pl": "Słona — minimum, ale minerały chłodzą głębokie warstwy pitta",
+        "en": "Salty — minimal, but minerals cool pitta's deep layers"
+      }
+    },
+    {
+      "name": {
+        "ua": "Тмин",
+        "pl": "Kminek",
+        "en": "Caraway"
+      },
+      "note": {
+        "ua": "Холодний, в'яжучий, розжалює товстий кишечник піти",
+        "pl": "Zimny, wяżący, ulepsza grubą jelita pitta",
+        "en": "Cool, astringent, improves pitta's colon"
+      }
+    }
+  ],
+  "teas": [
+    {
+      "name": {
+        "ua": "Мятний чай (м'яту перцеву)",
+        "pl": "Herbata miętowa (miętę pieprzową)",
+        "en": "Peppermint tea"
+      },
+      "note": {
+        "ua": "Холодний, освіжаючий, стимулює холодне травлення — ідеал піти",
+        "pl": "Zimny, orzeźwiający, stymuluje zimne trawienie — ideał pitta",
+        "en": "Cool, refreshing, stimulates cool digestion — pitta's ideal"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чай з кокосової води",
+        "pl": "Herbata z wody kokosowej",
+        "en": "Coconut water tea"
+      },
+      "note": {
+        "ua": "Холодний, електролітний, гасить жагу піти",
+        "pl": "Zimny, elektrolitowy, gasi pragnienie pitta",
+        "en": "Cool, electrolyte-rich, quenches pitta's thirst"
+      }
+    },
+    {
+      "name": {
+        "ua": "Трав'яний чай з гіркого сніданку (chamomile, fennel)",
+        "pl": "Herbata ziołowa ze śniadania (rumianek, koperkowy)",
+        "en": "Herbal morning tea (chamomile, fennel)"
+      },
+      "note": {
+        "ua": "Холодний, заспокійний, детоксикує печінку піти з ночі",
+        "pl": "Zimny, uspokajający, detoksykuje wątrobę pitta z nocy",
+        "en": "Cool, calming, detoxifies pitta's liver overnight"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чай з св жого імбиру (холодний)",
+        "pl": "Herbata ze świeżego imbiru (zimna)",
+        "en": "Fresh ginger tea (cooled)"
+      },
+      "note": {
+        "ua": "Гарячий на звар, але охолоджений пиття крещує траплення піти",
+        "pl": "Gorący na gotowaniu, ale ochłodzony napój ulepszy trawienie pitta",
+        "en": "Hot when brewed, but cooled drink improves pitta digestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чай із святого базиліуму (tulsi)",
+        "pl": "Herbata ze świętego bazyliki (tulsi)",
+        "en": "Holy basil tea (tulsi)"
+      },
+      "note": {
+        "ua": "Холодна медитативна спеція, гасить гнів піти",
+        "pl": "Zimna medytacyjna przyprawa, gasi gniew pitta",
+        "en": "Cool meditative spice, extinguishes pitta's anger"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чай з жасмину",
+        "pl": "Herbata z jasminu",
+        "en": "Jasmine tea"
+      },
+      "note": {
+        "ua": "Холодний, ароматний, успокоює розум піти від перегріву",
+        "pl": "Zimny, aromatyczny, uspokaja umysł pitta od przegrzania",
+        "en": "Cool, fragrant, calms pitta's overheated mind"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чай з плодів шипшини",
+        "pl": "Herbata z owoców róży dzikiej",
+        "en": "Rose hip tea"
+      },
+      "note": {
+        "ua": "Холодна, вяжучий смак, живить кров піти від запалення",
+        "pl": "Zimna, wяżący smak, żywi krew pitta z zapalenia",
+        "en": "Cool, astringent taste, nourishes pitta's inflamed blood"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чай з календули",
+        "pl": "Herbata z nagietka",
+        "en": "Calendula tea"
+      },
+      "note": {
+        "ua": "Холодна, гіркавата, гасить висипи та запалення шкіри піти",
+        "pl": "Zimna, gorzka, gasi wysypkę i zapalenie skóry pitta",
+        "en": "Cool, bitter, cools pitta's skin rashes and inflammation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Напій з лимонної трави (холодний)",
+        "pl": "Napój z trawy cytrynowej (zimny)",
+        "en": "Lemongrass drink (cold)"
+      },
+      "note": {
+        "ua": "Холодна, кислувата, але охолоджена вода нейтралізує кислоту для піти",
+        "pl": "Zimna, zakwaszona, ale ochłodzona woda neutralizuje kwas dla pitta",
+        "en": "Cool, slightly sour, but cool water neutralizes acid for pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чай з красуватої ромашки",
+        "pl": "Herbata z rumianku zacnego",
+        "en": "Chamomile tea"
+      },
+      "note": {
+        "ua": "Холодна, гіркавата, заспокойвує нерви піти перед сном",
+        "pl": "Zimna, gorzka, uspokaja nerwy pitta przed snem",
+        "en": "Cool, slightly bitter, calms pitta's nerves before sleep"
+      }
+    }
+  ]
+}

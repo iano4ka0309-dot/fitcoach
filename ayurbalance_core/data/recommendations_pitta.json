@@ -1,0 +1,1316 @@
+{
+  "foods_eat": [
+    {
+      "name": {
+        "ua": "Кокосове молоко",
+        "pl": "Mleko kokosowe",
+        "en": "Coconut milk"
+      },
+      "why": {
+        "ua": "Охолоджує та заспокоює запалення Pitta",
+        "pl": "Chłodzi i uspokaja zapalenie Pitta",
+        "en": "Cools and soothes Pitta inflammation"
+      },
+      "how": {
+        "ua": "Додавайте до каш, напоїв, десертів",
+        "pl": "Dodawaj do kasz, napojów, deserów",
+        "en": "Add to porridges, drinks, desserts"
+      }
+    },
+    
+    {
+      "name": {
+        "ua": "Органічне коров'яче молоко",
+        "pl": "Mleko ekologiczne (organiczne)",
+        "en": "Organic cow's milk"
+      },
+      "why": {
+        "ua": "Охолоджує та знижує запалення",
+        "pl": "łagodzi stany zapalne",
+        "en": "Cools and calms inflammation"
+      },
+      "how": {
+        "ua": "Пийте теплим з медом увечері",
+        "pl": "Pij ciepłe z miodem wieczorem",
+        "en": "Drink warm with honey in evening"
+      }
+    },
+    {
+      "name": {
+        "ua": "Рис басматі",
+        "pl": "Ryż basmati",
+        "en": "Basmati rice"
+      },
+      "why": {
+        "ua": "Легко перетравлюється, охолоджує",
+        "pl": "Łatwostrawne, chłodzi",
+        "en": "Easy to digest, cooling"
+      },
+      "how": {
+        "ua": "Готуйте з кокосовим молоком та куркумою",
+        "pl": "Gotuj z mlekiem kokosowym i kurkumą",
+        "en": "Cook with coconut milk and turmeric"
+      }
+    },
+    {
+      "name": {
+        "ua": "Солодка груша",
+        "pl": "Słodka gruszka",
+        "en": "Sweet pear"
+      },
+      "why": {
+        "ua": "Охолоджує, зволожує без розігріву",
+        "pl": "Chłodzi, nawilża bez rozgrzewania",
+        "en": "Cools, moistens without heating"
+      },
+      "how": {
+        "ua": "Їжте між прийомами їжі як закуску",
+        "pl": "Jedz między posiłkami jako przekąskę",
+        "en": "Eat between meals as snack"
+      }
+    },
+    {
+      "name": {
+        "ua": "Спаржа",
+        "pl": "Szparag",
+        "en": "Asparagus"
+      },
+      "why": {
+        "ua": "Охолоджує, детоксифікує печінку",
+        "pl": "Chłodzi, detoksykuje wątrobę",
+        "en": "Cools, detoxifies liver"
+      },
+      "how": {
+        "ua": "Готуйте на парі з кокосовою олією",
+        "pl": "Gotuj na parze z olejem kokosowym",
+        "en": "Steam with coconut oil"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гарбуз",
+        "pl": "Dynia",
+        "en": "Squash"
+      },
+      "why": {
+        "ua": "Охолоджує, легке для травлення",
+        "pl": "Chłodzi, łatwe do strawienia",
+        "en": "Cools, easy to digest"
+      },
+      "how": {
+        "ua": "Припускайте з квітом кумину та кокосовою олією",
+        "pl": "Dusić z kminem i olejem kokosowym",
+        "en": "Stew with cumin and coconut oil"
+      }
+    },
+    {
+      "name": {
+        "ua": "Абрикоси свіжі",
+        "pl": "Świeże morele",
+        "en": "Fresh apricots"
+      },
+      "why": {
+        "ua": "Охолоджує, збагачує кров",
+        "pl": "Chłodzi, wzbogaca krew",
+        "en": "Cools, enriches blood"
+      },
+      "how": {
+        "ua": "Їжте свіжими або замочені без насіння",
+        "pl": "Jedz świeżymi lub moczył bez nasion",
+        "en": "Eat fresh or soaked without seeds"
+      }
+    },
+    {
+      "name": {
+        "ua": "Зелена сочевиця",
+        "pl": "Zielona soczewica",
+        "en": "Green lentils"
+      },
+      "why": {
+        "ua": "Охолоджує, легка для травлення",
+        "pl": "Chłodzi, łatwa do strawienia",
+        "en": "Cools, light to digest"
+      },
+      "how": {
+        "ua": "Варіть з кокосовим молоком та спеціями",
+        "pl": "Gotuj z mlekiem kokosowym i przyprawami",
+        "en": "Cook with coconut milk and spices"
+      }
+    },
+    {
+      "name": {
+        "ua": "Салат з листя",
+        "pl": "Zielona sałata",
+        "en": "Leafy greens"
+      },
+      "why": {
+        "ua": "Охолоджує, очищує кров",
+        "pl": "Chłodzi, oczyszcza krew",
+        "en": "Cools, cleanses blood"
+      },
+      "how": {
+        "ua": "Їжте сирі з олією холодного віджиму та лимоном",
+        "pl": "Jedz surowe z olejem tłoczonym na zimno i cytryną",
+        "en": "Eat raw with cool oil and lemon"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кокосовий цукор",
+        "pl": "Cukier kokosowy",
+        "en": "Coconut sugar"
+      },
+      "why": {
+        "ua": "Охолоджує, не запалює Pitta",
+        "pl": "Chłodzi, nie rozgrzewa Pitta",
+        "en": "Cools, doesn't inflame Pitta"
+      },
+      "how": {
+        "ua": "Використовуйте замість білого цукру",
+        "pl": "Użyj zamiast białego cukru",
+        "en": "Use instead of white sugar"
+      }
+    },
+    {
+      "name": {
+        "ua": "Спельта",
+        "pl": "Orkisz",
+        "en": "Spelt"
+      },
+      "why": {
+        "ua": "Охолоджує зерно, легше ніж пшениця",
+        "pl": "Chłodzące ziarno, łatwiejsze niż pszenica",
+        "en": "Cooling grain, lighter than wheat"
+      },
+      "how": {
+        "ua": "Готуйте як звичайну крупу з олією",
+        "pl": "Gotuj jak zwyczajną kaszę z olejem",
+        "en": "Cook as regular grain with oil"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кокос висушений несолодкий",
+        "pl": "Wysuszony kokos niezasłodzony",
+        "en": "Unsweetened dried coconut"
+      },
+      "why": {
+        "ua": "Охолоджує без цукру",
+        "pl": "Chłodzi bez cukru",
+        "en": "Cools without sugar"
+      },
+      "how": {
+        "ua": "Додавайте до каш та десертів",
+        "pl": "Dodaj do kasz i deserów",
+        "en": "Add to porridges and desserts"
+      }
+    },
+    {
+      "name": {
+        "ua": "Ячмінь",
+        "pl": "Jęczmień",
+        "en": "Barley"
+      },
+      "why": {
+        "ua": "Охолоджує, зволожує",
+        "pl": "Chłodzi, nawilża",
+        "en": "Cools, moistens"
+      },
+      "how": {
+        "ua": "Варіть як кашу або квас",
+        "pl": "Gotuj jako kaszę lub woda jęczmienna",
+        "en": "Cook as porridge or water"
+      }
+    },
+    {
+      "name": {
+        "ua": "Авокадо",
+        "pl": "Awokado",
+        "en": "Avocado"
+      },
+      "why": {
+        "ua": "Охолоджує, змащує, заспокоює",
+        "pl": "Chłodzi, smaruje, uspokaja",
+        "en": "Cools, lubricates, soothes"
+      },
+      "how": {
+        "ua": "Їжте в салатах або як самостійну закуску",
+        "pl": "Jedz w sałatkach lub jako samodzielną przekąskę",
+        "en": "Eat in salads or as standalone snack"
+      }
+    },
+    {
+      "name": {
+        "ua": "Меліса лікарська",
+        "pl": "Melissa lekarska",
+        "en": "Lemon balm"
+      },
+      "why": {
+        "ua": "Охолоджує розум та емоції",
+        "pl": "Chłodzi umysł i emocje",
+        "en": "Cools mind and emotions"
+      },
+      "how": {
+        "ua": "Заварюйте свіжу траву в чай",
+        "pl": "Zalewaj świeżą trawę, parz jak herbatę",
+        "en": "Brew fresh herb in tea"
+      }
+    },
+    {
+      "name": {
+        "ua": "М'ята перцева",
+        "pl": "Mięta pieprzowa",
+        "en": "Peppermint"
+      },
+      "why": {
+        "ua": "Охолоджує, освіжає дихання",
+        "pl": "Chłodzi, odświeża oddech",
+        "en": "Cools, refreshes breath"
+      },
+      "how": {
+        "ua": "Заварюйте в гарячій воді або додавайте до салатів",
+        "pl": "Zalewaj gorącą wodą lub dodaj do sałatek",
+        "en": "Brew in hot water or add to salads"
+      }
+    },
+    
+    {
+      "name": {
+        "ua": "Квасоля мунг",
+        "pl": "Fasola mung",
+        "en": "Mung beans"
+      },
+      "why": {
+        "ua": "Охолоджує, легко перетравлюється",
+        "pl": "Chłodzi, łatwo się trawieni",
+        "en": "Cools, easy to digest"
+      },
+      "how": {
+        "ua": "Варіть з кокосовим молоком та спеціями",
+        "pl": "Gotuj z mlekiem kokosowym i przyprawami",
+        "en": "Cook with coconut milk and spices"
+      }
+    }
+  ],
+  "foods_avoid": [
+    {
+      "name": {
+        "ua": "Гостра їжа",
+        "pl": "Ostre jedzenie",
+        "en": "Spicy food"
+      },
+      "why": {
+        "ua": "Розгріває та запалює Pitta",
+        "pl": "Rozgrzewa i rozpala Pitta",
+        "en": "Heats and inflames Pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Помідори стиглі",
+        "pl": "Dojrzałe pomidory",
+        "en": "Ripe tomatoes"
+      },
+      "why": {
+        "ua": "Гіркі та кислі, запалюють Pitta",
+        "pl": "Gorące i kwaśne, zapalają Pitta",
+        "en": "Hot and acidic, inflame Pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чорний перець",
+        "pl": "Czarny pieprz",
+        "en": "Black pepper"
+      },
+      "why": {
+        "ua": "Розгріває тіло",
+        "pl": "Rozgrzewa ciało",
+        "en": "Heats the body"
+      }
+    },
+    {
+      "name": {
+        "ua": "Алкоголь",
+        "pl": "Alkohol",
+        "en": "Alcohol"
+      },
+      "why": {
+        "ua": "Розгріває та запалює органи",
+        "pl": "Rozgrzewa i pala organy",
+        "en": "Heats and inflames organs"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кава",
+        "pl": "Kawa",
+        "en": "Coffee"
+      },
+      "why": {
+        "ua": "Розгріває, обезводнює",
+        "pl": "Rozgrzewa, odwadnia",
+        "en": "Heats, dehydrates"
+      }
+    },
+    {
+      "name": {
+        "ua": "Червоне м'ясо",
+        "pl": "Czerwone mięso",
+        "en": "Red meat"
+      },
+      "why": {
+        "ua": "Важке для травлення, розгріває",
+        "pl": "Ciężkie do strawienia, rozgrzewa",
+        "en": "Heavy to digest, heats"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гірчиця",
+        "pl": "Musztarda",
+        "en": "Mustard"
+      },
+      "why": {
+        "ua": "Гостра, запалює Pitta",
+        "pl": "Ostra, pali Pitta",
+        "en": "Sharp, inflames Pitta"
+      }
+    },
+    {
+      "name": {
+        "ua": "Оцет білий",
+        "pl": "Biały ocet",
+        "en": "White vinegar"
+      },
+      "why": {
+        "ua": "Кислий, запалює",
+        "pl": "Kwaśny, pali",
+        "en": "Acidic, inflames"
+      }
+    },
+    {
+      "name": {
+        "ua": "Яйця жарені",
+        "pl": "Jajka smażone",
+        "en": "Fried eggs"
+      },
+      "why": {
+        "ua": "Важке для травлення, розгріває",
+        "pl": "Ciężkie do strawienia, rozgrzewa",
+        "en": "Heavy to digest, heats"
+      }
+    },
+    {
+      "name": {
+        "ua": "Морозиво",
+        "pl": "Lody",
+        "en": "Ice cream"
+      },
+      "why": {
+        "ua": "Холодне, але з цукром запалює",
+        "pl": "Zimne, ale z cukrem pali",
+        "en": "Cold, but sugar inflames"
+      }
+    },
+    {
+      "name": {
+        "ua": "Горіхи арахісові смажені",
+        "pl": "Orzeszki arachidowe smażone",
+        "en": "Roasted peanuts"
+      },
+      "why": {
+        "ua": "Розгріває, багато масла",
+        "pl": "Rozgrzewa, dużo oleju",
+        "en": "Heats, high in oil"
+      }
+    },
+    {
+      "name": {
+        "ua": "Солені страви",
+        "pl": "Słone dania",
+        "en": "Salty dishes"
+      },
+      "why": {
+        "ua": "Утримує тепло, запалює",
+        "pl": "Zatrzymuje ciepło, pali",
+        "en": "Retains heat, inflames"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гарячі напої",
+        "pl": "Gorące napoje",
+        "en": "Hot drinks"
+      },
+      "why": {
+        "ua": "Розгріває Pitta доша",
+        "pl": "Rozgrzewa Pitta dosza",
+        "en": "Heats Pitta dosha"
+      }
+    },
+    {
+      "name": {
+        "ua": "Насіння гарбуза смажене",
+        "pl": "Nasiona dyni smażone",
+        "en": "Roasted pumpkin seeds"
+      },
+      "why": {
+        "ua": "Розгріває через смаження",
+        "pl": "Rozgrzewa przez smażenie",
+        "en": "Heats due to roasting"
+      }
+    },
+    {
+      "name": {
+        "ua": "Устриці та морепродукти",
+        "pl": "Ostrygi i owoce morza",
+        "en": "Oysters and shellfish"
+      },
+      "why": {
+        "ua": "Розгріває, солене",
+        "pl": "Rozgrzewa, słone",
+        "en": "Heats, salty"
+      }
+    }
+  ],
+  "spices": [
+    {
+      "name": {
+        "ua": "Кумин",
+        "pl": "Kmin",
+        "en": "Cumin"
+      },
+      "why": {
+        "ua": "Охолоджує, покращує травлення",
+        "pl": "Chłodzi, poprawia strawienie",
+        "en": "Cools, aids digestion"
+      },
+      "how": {
+        "ua": "Додавайте до каш та овочів по 1/4 ч.л.",
+        "pl": "Dodaj do kasz i warzyw po 1/4 łyżeczki",
+        "en": "Add to porridges and vegetables 1/4 tsp"
+      }
+    },
+    {
+      "name": {
+        "ua": "Коріандр (кінза насіння)",
+        "pl": "Nasiona kolendry",
+        "en": "Coriander seeds"
+      },
+      "why": {
+        "ua": "Охолоджує, знижує запалення",
+        "pl": "Chłodzi, zmniejsza zapalenie",
+        "en": "Cools, reduces inflammation"
+      },
+      "how": {
+        "ua": "Замочіть в холодній воді та пийте",
+        "pl": "Namocz w zimnej wodzie i pij",
+        "en": "Soak in cold water and drink"
+      }
+    },
+    {
+      "name": {
+        "ua": "Фенхель",
+        "pl": "Koper włoski",
+        "en": "Fennel"
+      },
+      "why": {
+        "ua": "Охолоджує, освіжає дихання",
+        "pl": "Chłodzi, odświeża oddech",
+        "en": "Cools, refreshes breath"
+      },
+      "how": {
+        "ua": "Жуйте насіння або додавайте до чаю",
+        "pl": "Żuj nasiona lub dodaj do czaju",
+        "en": "Chew seeds or add to tea"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кардамон",
+        "pl": "Kardamon",
+        "en": "Cardamom"
+      },
+      "why": {
+        "ua": "М'яко охолоджує, підтримує хворих",
+        "pl": "Łagodnie chłodzi, wspiera słabych",
+        "en": "Mildly cools, supports weak"
+      },
+      "how": {
+        "ua": "Додавайте 3-4 стручка на чашку чаю",
+        "pl": "Dodaj 3-4 strąki na filiżankę czaju",
+        "en": "Add 3-4 pods per cup of tea"
+      }
+    },
+    {
+      "name": {
+        "ua": "Куркума",
+        "pl": "Kurkuma",
+        "en": "Turmeric"
+      },
+      "why": {
+        "ua": "Охолоджує, очищує кров",
+        "pl": "Chłodzi, oczyszcza krew",
+        "en": "Cools, cleanses blood"
+      },
+      "how": {
+        "ua": "Додавайте 1/4-1/2 ч.л. до каш",
+        "pl": "Dodaj 1/4-1/2 łyżeczki do kasz",
+        "en": "Add 1/4-1/2 tsp to porridges"
+      }
+    },
+    
+    {
+      "name": {
+        "ua": "Гвоздика",
+        "pl": "Goździk",
+        "en": "Clove"
+      },
+      "why": {
+        "ua": "Мало охолоджує, гамує біль",
+        "pl": "Mało chłodzi, uspokaja ból",
+        "en": "Mildly cools, soothes pain"
+      },
+      "how": {
+        "ua": "Додавайте по 2-3 штук на чашку",
+        "pl": "Dodaj 2-3 sztuki na filiżankę",
+        "en": "Add 2-3 pieces per cup"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кінза",
+        "pl": "Kolendra świeża",
+        "en": "Fresh cilantro"
+      },
+      "why": {
+        "ua": "Охолоджує найкраще для Pitta",
+        "pl": "Chłodzi najlepiej dla Pitta",
+        "en": "Best cooling for Pitta"
+      },
+      "how": {
+        "ua": "Посипайте готові страви перед подачею",
+        "pl": "Posypuj gotowe dania przed podaniem",
+        "en": "Sprinkle finished dishes before serving"
+      }
+    },
+    {
+      "name": {
+        "ua": "Насіння льону",
+        "pl": "Nasiona lnu",
+        "en": "Flax seeds"
+      },
+      "why": {
+        "ua": "Охолоджує, зволожує",
+        "pl": "Chłodzi, nawilża",
+        "en": "Cools, moistens"
+      },
+      "how": {
+        "ua": "Замочіть на ніч та пийте воду",
+        "pl": "Namocz na noc i pij wodę",
+        "en": "Soak overnight and drink water"
+      }
+    },
+    {
+      "name": {
+        "ua": "Шафран",
+        "pl": "Szafran",
+        "en": "Saffron"
+      },
+      "why": {
+        "ua": "Охолоджує, вгамовує емоції",
+        "pl": "Chłodzi, uspokaja emocje",
+        "en": "Cools, soothes emotions"
+      },
+      "how": {
+        "ua": "Додавайте 3-5 ниток на чашку молока",
+        "pl": "Dodaj 3-5 nici na filiżankę mleka",
+        "en": "Add 3-5 threads per cup of milk"
+      }
+    }
+  ],
+  "teas": [
+    {
+      "name": {
+        "ua": "Чай охолоджуючий Pitta",
+        "pl": "Herbata chłodząca Pitta",
+        "en": "Cooling Pitta Tea"
+      },
+      "ingredients": {
+        "ua": "1 ч.л. насіння кумину, 1 ч.л. насіння кориандру, 5 листків м'яти, 1 скибочка лимону, холодна вода",
+        "pl": "1 łyżeczka nasion kuminu, 1 łyżeczka nasion kolendry, 5 liści mięty, 1 plasterek cytryny, zimna woda",
+        "en": "1 tsp cumin seeds, 1 tsp coriander seeds, 5 mint leaves, 1 lemon slice, cold water"
+      },
+      "benefits": {
+        "ua": "Охолоджує систему, очищує кров, покращує травлення",
+        "pl": "Chłodzi system, oczyszcza krew, poprawia strawienie",
+        "en": "Cools system, cleanses blood, aids digestion"
+      },
+      "recipe": {
+        "ua": "Насіння кумину та коріандру злегка обсмажте на сухій пательні 2 хвилини. Залийте 1.5 чашками холодної води, додайте м'яту та лимон. Наcтоюйте 20 хвилин. Пийте охолодженим.",
+        "pl": "Nasiona kuminu i kolendry lekko prażyć na suchej patelni 2 minuty. Zalej 1,5 szkanką zimnej wody, dodaj miętę i cytrynę. Zaparzaj 20 minut. Pij schłodzony.",
+        "en": "Lightly roast cumin and coriander seeds on dry pan 2 minutes. Pour 1.5 cups cold water, add mint and lemon. Steep 20 minutes. Drink chilled."
+      }
+    },
+    {
+      "name": {
+        "ua": "Молочний чай з шафраном",
+        "pl": "Mleczna herbata z szafranem",
+        "en": "Saffron Milk Tea"
+      },
+      "ingredients": {
+        "ua": "1 чашка коров'ячого молока, 5-7 ниток шафрану, 1 ч.л. меду, щипка кардамону",
+        "pl": "1 filiżanka mleka krowy, 5-7 nici szafranu, 1 łyżeczka miodu, szczypta kardamonu",
+        "en": "1 cup cow's milk, 5-7 saffron threads, 1 tsp honey, pinch of cardamom"
+      },
+      "benefits": {
+        "ua": "Охолоджує, заспокоює нервову систему, покращує сон",
+        "pl": "Chłodzi, uspokaja system nerwowy, poprawia sen",
+        "en": "Cools, calms nervous system, improves sleep"
+      },
+      "recipe": {
+        "ua": "Нагрійте молоко до теплого (не гарячого). Додайте шафран на 5 хвилин. Додайте мед та кардамон. Пийте вечером перед сном.",
+        "pl": "Ogrzej mleko do ciepła (nie gorące). Dodaj szafran na 5 minut. Dodaj miód i kardamon. Pij wieczorem przed snem.",
+        "en": "Heat milk to warm (not hot). Add saffron for 5 minutes. Add honey and cardamom. Drink in evening before sleep."
+      }
+    },
+    {
+      "name": {
+        "ua": "Чай кокосовий охолоджуючий",
+        "pl": "Herbata kokosowa chłodząca",
+        "en": "Cooling Coconut Tea"
+      },
+      "ingredients": {
+        "ua": "1 чашка кокосового молока, 1 ч.л. насіння фенхелю, 3-4 листки м'яти, мід до смаку",
+        "pl": "1 filiżanka mleka kokosowego, 1 łyżeczka nasion kopru włoskiego, 3-4 liście mięty, miód do smaku",
+        "en": "1 cup coconut milk, 1 tsp fennel seeds, 3-4 mint leaves, honey to taste"
+      },
+      "benefits": {
+        "ua": "Охолоджує, зволожує, заспокоює запалення",
+        "pl": "Chłodzi, nawilża, uspokaja zapalenie",
+        "en": "Cools, moistens, soothes inflammation"
+      },
+      "recipe": {
+        "ua": "Заварте насіння фенхелю в гарячій воді 5 хвилин. Додайте кокосове молоко та м'яту. Охолодіть до теплої температури. Додайте мед. Пийте 2 рази на день.",
+        "pl": "Zalej nasiona kopru włoskiego gorącą wodą 5 minut. Dodaj mleko kokosowe i miętę. Schłodź do ciepłej temperatury. Dodaj miód. Pij 2 razy dziennie.",
+        "en": "Brew fennel seeds in hot water 5 minutes. Add coconut milk and mint. Cool to warm temperature. Add honey. Drink 2 times daily."
+      }
+    }
+  ],
+  "oils": [
+    {
+      "name": {
+        "ua": "Кокосова олія",
+        "pl": "Olej kokosowy",
+        "en": "Coconut oil"
+      },
+      "use": {
+        "ua": "Для готування, масажу тіла, змащування волосся",
+        "pl": "Do gotowania, masażu ciała, natłuszczania włosów",
+        "en": "For cooking, body massage, hair oiling"
+      },
+      "benefits": {
+        "ua": "Охолоджує, антизапальна, захищає від сонця",
+        "pl": "Chłodzi, przeciwzapalna, chroni przed słońcem",
+        "en": "Cools, anti-inflammatory, sun protection"
+      }
+    },
+    {
+      "name": {
+        "ua": "Олія гхі (топлене масло)",
+        "pl": "Olej ghee",
+        "en": "Ghee oil"
+      },
+      "use": {
+        "ua": "Для готування каш, додавання до молока, масажу",
+        "pl": "Do gotowania kasz, dodawania do mleka, masażu",
+        "en": "For cooking porridges, adding to milk, massage"
+      },
+      "benefits": {
+        "ua": "Охолоджує м'яко, покращує травлення та імунітет",
+        "pl": "Łagodnie chłodzi, poprawia strawienie i odporność",
+        "en": "Mildly cools, improves digestion and immunity"
+      }
+    },
+    {
+      "name": {
+        "ua": "Олія чорного кмину",
+        "pl": "Olej z czarnuszki",
+        "en": "Black cumin oil"
+      },
+      "use": {
+        "ua": "Для масажу, додавання до напоїв, для шкіри",
+        "pl": "Do masażu, dodawania do napojów, na skórę",
+        "en": "For massage, adding to drinks, for skin"
+      },
+      "benefits": {
+        "ua": "Охолоджує, очищує, сильно антизапальна",
+        "pl": "Chłodzi, oczyszcza, silnie przeciwzapalna",
+        "en": "Cools, cleanses, strongly anti-inflammatory"
+      }
+    }
+  ],
+  "meal_times": {
+    "breakfast": {
+      "ua": "6:30-7:00 ранку. Їжте легкий, прохолодний сніданок за 30 хвилин після пробудження",
+      "pl": "6:30-7:00 rano. Jedz lekkie, chłodne śniadanie 30 minut po przebudzeniu",
+      "en": "6:30-7:00 AM. Eat light, cool breakfast 30 minutes after waking"
+    },
+    "lunch": {
+      "ua": "12:00-13:00 день. Найбільший прийом їжі за день, коли сонце найвище",
+      "pl": "12:00-13:00 w południe. Największy posiłek dnia, kiedy słońce najwyżej",
+      "en": "12:00-1:00 PM. Largest meal when sun is highest"
+    },
+    "dinner": {
+      "ua": "18:00-19:00 вечер. Легкий, прохолодний вечір, за 3 години до сну",
+      "pl": "18:00-19:00 wieczorem. Lekki, chłodny posiłek, 3 godziny przed snem",
+      "en": "6:00-7:00 PM. Light, cool dinner 3 hours before sleep"
+    },
+    "rules": [
+      {
+        "ua": "Їжте в спокійному середовищі без відволікань",
+        "pl": "Jedz w spokojnym otoczeniu bez rozpraszaczy",
+        "en": "Eat in calm environment without distractions"
+      },
+      {
+        "ua": "Не переїдайте - зупиняйтесь коли на 75% насичені",
+        "pl": "Nie przejadaj się - zatrzymaj się na 75% sytości",
+        "en": "Don't overeat - stop at 75% fullness"
+      },
+      {
+        "ua": "Чекайте 3-4 години між прийомами їжі для повного перетравлення",
+        "pl": "Czekaj 3-4 godziny między posiłkami na pełne strawienie",
+        "en": "Wait 3-4 hours between meals for complete digestion"
+      },
+      {
+        "ua": "Не пийте холодну воду під час їжі — вода має бути кімнатної температури. Зачекайте 30 хвилин після їжі",
+"pl": "Nie pij zimnej wody podczas posiłku — woda powinna być w temperaturze pokojowej. Poczekaj 30 minut po jedzeniu",
+"en": "Don't drink cold water during meals — water should be at room temperature. Wait 30 minutes after eating"
+      },
+      {
+        "ua": "Їжте сезонні продукти, які охолоджують ваш організм",
+        "pl": "Jedz sezonowe produkty, które chłodzą Twoje ciało",
+        "en": "Eat seasonal foods that cool your body"
+      }
+    ]
+  },
+  "sleep": {
+    "bedtime": {
+      "ua": "21:30-22:00. Лягайте коли Сонце зовсім зайшло",
+      "pl": "21:30-22:00. Połóż się kiedy słońce całkowicie zaszło",
+      "en": "9:30-10:00 PM. Go to bed when sun is completely set"
+    },
+    "wake_time": {
+      "ua": "5:30-6:00. Прокидайтесь до сходу сонця для мірності",
+      "pl": "5:30-6:00. Budź się przed wschodem słońca na spokój",
+      "en": "5:30-6:00 AM. Wake before sunrise for peace"
+    },
+    "duration": {
+      "ua": "7-8 годин якісного сну без переривань",
+      "pl": "7-8 godzin wysokiej jakości snu bez przerw",
+      "en": "7-8 hours quality uninterrupted sleep"
+    },
+    "tips": [
+      {
+        "ua": "Масажуйте голову кокосовою олією перед сном",
+        "pl": "Masuj głowę olejem kokosowym przed snem",
+        "en": "Massage head with coconut oil before sleep"
+      },
+      {
+        "ua": "Уникайте гарячого молока - замініть на холодне з медом",
+        "pl": "Unikaj gorącego mleka - zastąp chłodnym z miodem",
+        "en": "Avoid hot milk - replace with cool with honey"
+      },
+      {
+        "ua": "Спіть в темній, прохолодній кімнаті",
+        "pl": "Śpij w ciemnym, chłodnym pokoju",
+        "en": "Sleep in dark, cool room"
+      },
+      {
+        "ua": "Не дивіться на екрани за 1 годину перед сном",
+        "pl": "Nie patrzaj na ekrany 1 godzinę przed snem",
+        "en": "Avoid screens 1 hour before sleep"
+      },
+      {
+        "ua": "Практикуйте медитацію чи йогу перед сном",
+        "pl": "Ćwicz medytację czy jogę przed snem",
+        "en": "Practice meditation or yoga before sleep"
+      }
+    ]
+  },
+  "exercise": {
+    "recommended": [
+      {
+        "ua": "Прогулянки на свіжому повітрі вранці або вечорами, 30-45 хвилин",
+        "pl": "Spacery na świeżym powietrzu rano lub wieczorem, 30-45 minut",
+        "en": "Morning or evening walks in fresh air, 30-45 minutes"
+      },
+      {
+        "ua": "Йога з охолоджуючими асанами (Чандра Намаскар, нахили вперед)",
+        "pl": "Joga z chłodzącymi asanami (salutacja księżyca, zgięcia do przodu)",
+        "en": "Yoga with cooling poses (moon salutation, forward bends)"
+      },
+      {
+        "ua": "Плавання в прохолодній воді 2-3 рази на тиждень",
+        "pl": "Pływanie w chłodnej wodzie 2-3 razy tygodniowo",
+        "en": "Swimming in cool water 2-3 times per week"
+      },
+      {
+        "ua": "Цигун або Тай-Чі вранці, повільні та спокійні рухи",
+        "pl": "Qigong lub Tai Chi rano, powolne i spokojne ruchy",
+        "en": "Qigong or Tai Chi in morning, slow peaceful movements"
+      },
+      {
+        "ua": "Прогулянка по траві без взуття вранці",
+        "pl": "Spacer po trawie boso rano bez butów",
+        "en": "Barefoot walk on grass in morning without shoes"
+      }
+    ],
+    "avoid": [
+      {
+        "ua": "Інтенсивні вправи в спеку",
+        "pl": "Intensywne ćwiczenia w gorące dni",
+        "en": "Intense exercise in hot weather"
+      },
+      {
+        "ua": "Бігання в обідню спеку",
+        "pl": "Bieganie w południowym upale",
+        "en": "Running in midday heat"
+      },
+      {
+        "ua": "Силові вправи без розминки",
+        "pl": "Ćwiczenia siłowe bez rozgrzewki",
+        "en": "Weight training without warm-up"
+      },
+      {
+        "ua": "Змагання та конкурентні спорти",
+        "pl": "Konkurencyjne sporty",
+        "en": "Competitive sports"
+      },
+      {
+        "ua": "Вправи в період максимальної спеки (12:00-16:00)",
+        "pl": "Ćwiczenia podczas największego upału (12:00-16:00)",
+        "en": "Exercise during peak heat (12:00-4:00 PM)"
+      }
+    ],
+    "tips": [
+      {
+        "ua": "Займайтесь в ранкові години до 8:00",
+        "pl": "Ćwicz rano przed godz. 8:00",
+        "en": "Exercise in early morning before 8 AM"
+      },
+      {
+        "ua": "Пийте холодну воду під час та після вправ",
+        "pl": "Pij zimną wodę podczas i po ćwiczeniach",
+        "en": "Drink cool water during and after exercise"
+      },
+      {
+        "ua": "Не перенавантажуйтесь - 50-60% від максимального зусилля",
+        "pl": "Nie przesiliaj się - 50-60% maksymalnego wysiłku",
+        "en": "Don't overexert - 50-60% max effort"
+      },
+      {
+        "ua": "Тренуйтеся в приємній атмосфері поруч з водою",
+        "pl": "Ćwicz w przyjemnej atmosferze blisko wody",
+        "en": "Exercise in pleasant atmosphere near water"
+      },
+      {
+        "ua": "Виконуйте вправи 5 днів на тиждень з днями відпочинку",
+        "pl": "Ćwicz 5 dni tygodniowo z dniami odpoczynku",
+        "en": "Exercise 5 days weekly with rest days"
+      }
+    ]
+  },
+  "stress_mind": {
+    "practices": [
+      {
+        "ua": "Медитація охолоджуючого дихання (Чітра Нади Пранаяма) - 10-15 хвилин щодня",
+        "pl": "Medytacja chłodzącego oddechu (Chitra Nadi Pranayama) - 10-15 minut dziennie",
+        "en": "Cooling breath meditation (Chitra Nadi Pranayama) - 10-15 min daily"
+      },
+      {
+        "ua": "21:00-21:30 - Масаж голови кокосовою олією - підготовка до сну",
+        "pl": "Masaż głowy zimnym olejem (kokosowym)",
+        "en": "Head massage with cool oil (coconut)"
+      },
+      {
+        "ua": "Слухання святої музики, наспівування мантр",
+        "pl": "Słuchanie świętej muzyki, śpiewanie mantry",
+        "en": "Listen to sacred music, chant mantras"
+      },
+      {
+        "ua": "Прогулянки в природі, особливо на березі озера чи річки",
+        "pl": "Spacery w przyrodzie, zwłaszcza nad jeziorem lub rzeką",
+        "en": "Nature walks, especially by lake or river"
+      },
+      {
+        "ua": "Медитація при місячному світлі вечером",
+        "pl": "Medytacja w świetle księżyca wieczorem",
+        "en": "Meditation in moonlight in evening"
+      },
+      {
+        "ua": "Позитивні асоціації та релаксаційні техніки",
+        "pl": "Pozytywne skojarzenia i techniki relaksacyjne",
+        "en": "Positive associations and relaxation techniques"
+      }
+    ],
+    "avoid": [
+      {
+        "ua": "Конфліктні ситуації та суперечки",
+        "pl": "Sytuacje konfliktowe i spory",
+        "en": "Conflict situations and arguments"
+      },
+      {
+        "ua": "Гарячі тісні місця, товпи",
+        "pl": "Gorące tłoczne miejsca, tłumy",
+        "en": "Hot crowded places, crowds"
+      },
+      {
+        "ua": "Раціональні та критичні думки",
+        "pl": "Racjonalne i krytyczne myśli",
+        "en": "Rational and critical thoughts"
+      },
+      {
+        "ua": "Фільми з насильством та драматичний вміст",
+        "pl": "Filmy pełne przemocy i dramatyczne treści",
+        "en": "Violent films and dramatic content"
+      },
+      {
+        "ua": "Робота в спеку та надмірно гарячі часи",
+        "pl": "Praca w zbytnio gorące czasy",
+        "en": "Working during excessively hot times"
+      },
+      {
+        "ua": "Гострі запахи, парфуми",
+        "pl": "Ostre zapachy, perfumy",
+        "en": "Sharp scents, perfumes"
+      }
+    ]
+  },
+  "psychology": {
+    "practices": [
+      {
+        "ua": "Практика пробачення та відпускання образ",
+        "pl": "Praktyka przebaczenia i puszczenia uraz",
+        "en": "Practice forgiveness and releasing resentment"
+      },
+      {
+        "ua": "Культивування співчуття та доброти до всіх",
+        "pl": "Kultywowanie współczucia i życzliwości dla wszystkich",
+        "en": "Cultivate compassion and kindness toward all"
+      },
+      {
+        "ua": "Медитація любові у серці (Метта)",
+        "pl": "Medytacja miłości na sercu (Metta)",
+        "en": "Heart-centered loving meditation (Metta)"
+      },
+      {
+        "ua": "Вдячність за все що ви маєте",
+        "pl": "Wdzięczność za wszystko co masz",
+        "en": "Gratitude for all you have"
+      },
+      {
+        "ua": "Творчість - мистецтво та музика для вираження себе",
+        "pl": "Kreatywne wyrażanie się poprzez sztukę i muzykę",
+        "en": "Creative expression through art and music"
+      },
+      {
+        "ua": "Служба іншим, волонтерство",
+        "pl": "Służba innym, wolontariat",
+        "en": "Service to others, volunteering"
+      }
+    ],
+    "affirmations": [
+    {
+        "ua": "Я є спокійний, мирний та охолоджений",
+        "pl": "Jestem spokojny, spokojny i schłodzony",
+        "en": "I am calm, peaceful and cool"
+    },
+    {
+        "ua": "Мій гнів випаровується як роса в сонячний день",
+        "pl": "Moja złość rozprasza się jak rosa w słoneczny dzień",
+        "en": "My anger disperses like dew in sunlight"
+    },
+    {
+        "ua": "Я дозволяю собі бути м'яким та чутливим",
+        "pl": "Pozwalam sobie być miękkim i czułym",
+        "en": "I allow myself to be soft and sensitive"
+    },
+    {
+        "ua": "Любов і доброта течуть через мене легко",
+        "pl": "Miłość i dobroć przepływają przeze mnie z łatwością",
+        "en": "Love and kindness flow through me easily"
+    },
+    {
+        "ua": "Мої емоції балансуються природною охолоджувальною енергією",
+        "pl": "Moje emocje są zrównoważone naturalną chłodzącą energią",
+        "en": "My emotions are balanced by natural cooling energy"
+    },
+    {
+        "ua": "Я вибираю мир замість драми",
+        "pl": "Wybieram spokój zamiast dramatu",
+        "en": "I choose peace instead of drama"
+    },
+    {
+        "ua": "Мій розум ясний, спокійний та сфокусований",
+        "pl": "Mój umysł jest jasny, spokojny i skoncentrowany",
+        "en": "My mind is clear, calm and focused"
+    },
+    {
+        "ua": "Я відпускаю контроль і довіряю процесу",
+        "pl": "Odpuszczam kontrolę i ufam procesowi",
+        "en": "I release control and trust the process"
+    }
+]
+  },
+  "water": {
+    "temperature": {
+      "ua": "Тепла або кімнатна температура, ніколи не гаряча і не дуже холодна",
+      "pl": "Ciepła lub o temperaturze pokojowej, nigdy gorąca ani bardzo zimna",
+      "en": "Warm or room temperature, never hot or very cold"
+    },
+    "amount": {
+      "ua": "1.5–2 літри протягом усього дня, розподілені рівномірно",
+      "pl": "1,5–2 litry przez cały dzień, rozłożone równomiernie",
+      "en": "1.5-2 liters throughout day, distributed evenly"
+    },
+    "tips": [
+      {
+        "ua": "Пийте воду перед їдою, ніколи під час їди та не раніше ніж через 30 хвилин після неї",
+        "pl": "Pij wodę przed posiłkiem, nigdy w trakcie i nie wcześniej niż 30 minut po posiłku",
+        "en": "Drink water before meal, never during and not sooner than 30 min after"
+      },
+      {
+        "ua": "Додавайте лимон або лайм для охолодження та детоксикації",
+        "pl": "Dodaj cytrynę lub limonkę w celu schłodzenia i detoksykacji",
+        "en": "Add lemon or lime for cooling and detoxification"
+      },
+      {
+        "ua": "Пийте з мідного посуду для охолодження (олігодинамічні властивості міді)",
+        "pl": "Pij z miedzianego naczynia dla schłodzenia (właściwości oligodynamiczne)",
+        "en": "Drink from copper cup for cooling (vanadium properties)"
+      },
+      {
+        "ua": "Уникайте води з льодом або дуже холодної води, це пригнічує вогонь травлення",
+        "pl": "Unikaj wody z lodem lub bardzo zimnej, ponieważ osłabia to trawienie",
+        "en": "Avoid iced or very cold water, it damages digestion"
+      },
+      {
+        "ua": "Пийте рисовий або ячмінний відвар замість звичайної води для кращого охолодження",
+        "pl": "Pij wodę ryżową lub jęczmienną zamiast zwykłej wody dla lepszego chłodzenia",
+        "en": "Drink rice or barley water instead of plain for cooling"
+      },
+      {
+        "ua": "Вранці насамперед випийте теплу воду з лимоном",
+        "pl": "Rano w pierwszej kolejności wypij ciepłą wodę z cytryną",
+        "en": "First thing in morning drink warm water with lemon"
+      }
+    ]
+  },
+  "fasting": {
+    "frequency": {
+      "ua": "1 раз на тиждень, найкраще у понеділок або середу",
+      "pl": "1 raz w tygodniu, najlepiej w poniedziałek lub środę",
+      "en": "Once weekly, preferably Monday or Wednesday"
+    },
+    "type": {
+      "ua": "Частковий піст (фрукти, сік, легкі страви), ніколи не голодуйте повністю",
+      "pl": "Post częściowy (owoce, soki, lekkie dania), nigdy całkowity post",
+      "en": "Partial fast (fruits, juice, light foods) never complete fast"
+    },
+    "tips": [
+      {
+        "ua": "Усе має бути під контролем — у вас сильний вогонь травлення",
+        "pl": "Zawsze pod kontrolą — masz dobrą zdolność trawienia",
+        "en": "Always supervised - you have good digestive power"
+      },
+      {
+        "ua": "Під час посту пийте: кокосову воду, фруктові соки, овочеві відвари",
+        "pl": "Podczas postu pij: wodę kokosową, soki owocowe, wywary warzywne",
+        "en": "During fast drink: coconut water, fruit juices, vegetable water"
+      },
+      {
+        "ua": "Уникайте важких фізичних вправ у день посту",
+        "pl": "Unikaj intensywnych ćwiczeń w dzień postu",
+        "en": "Avoid complex exercise on fasting day"
+      },
+      {
+        "ua": "Використовуйте піст для детоксикації печінки",
+        "pl": "Wykorzystaj post do detoksykacji wątroby",
+        "en": "Use fast for liver detoxification"
+      },
+      {
+        "ua": "Припиніть піст у разі слабкості — вашому організму не потрібні екстремальні навантаження",
+        "pl": "Przerwij post w przypadku osłabienia — Twoje ciało nie potrzebuje ekstremów",
+        "en": "Stop fast if weak - your body doesn't need extremes"
+      },
+      {
+        "ua": "Альтернатива: монодієта на легких фруктax замість повного посту",
+        "pl": "Alternatywa: monodieta oparta na lekkich owocach zamiast pełnego postu",
+        "en": "Alternative: mono-diet on light fruits instead of full fast"
+      }
+    ]
+  },
+  "dinacharya": {
+    "morning": [
+      {
+        "ua": "5:30–6:00 — Встаньте перед сходом сонця, випийте теплу воду з лимоном",
+        "pl": "5:30–6:00 — Wstań przed wschodem słońca, wypij ciepłą wodę z cytryną",
+        "en": "5:30-6:00 AM - Rise before sunrise, drink warm water with lemon"
+      },
+      {
+        "ua": "6:00–6:30 — Очистіть ротову порожнину, язик та ніс за допомогою спеціальної олії",
+        "pl": "6:00–6:30 — Oczyść jamy ustnej, język i nos specjalnym olejem",
+        "en": "6:00-6:30 - Cleanse mouth, tongue, nose with oil"
+      },
+      {
+        "ua": "6:30–7:00 — Попрактикуйте йогу або пранаяму протягом 15–20 хвилин",
+        "pl": "6:30–7:00 — Ćwicz jogę lub pranajamę przez 15–20 minut",
+        "en": "6:30-7:00 - Practice yoga or pranayama 15-20 minutes"
+      },
+      {
+        "ua": "7:00–7:30 — Прийміть теплий душ і зробіть масаж тіла кокосовою олією",
+        "pl": "7:00–7:30 — Weź ciepły prysznic i wykonaj masaż ciała olejem kokosowym",
+        "en": "7:00-7:30 - Take warm shower and oil body with coconut"
+      },
+      {
+        "ua": "7:30–8:00 — З'їжте легкий, прохолодний сніданок",
+        "pl": "7:30–8:00 — Zjedz lekkie, chłodne śniadanie",
+        "en": "7:30-8:00 - Eat light, cool breakfast"
+      },
+      {
+        "ua": "8:00–8:30 — Медитація та налаштування розуму перед роботою",
+        "pl": "8:00–8:30 — Medytacja i przygotowanie umysłu przed pracą",
+        "en": "8:00-8:30 - Meditation and prepare mind for work"
+      }
+    ],
+    "evening": [
+      {
+        "ua": "17:00–17:30 — Прогулянка на свіжому повітрі після роботи",
+        "pl": "17:00–17:30 — Spacer na świeżym powietrzu po pracy",
+        "en": "5:00-5:30 PM - Walk in fresh air after work"
+      },
+      {
+        "ua": "17:30–18:00 — Прийміть теплу ванну з розслаблюючими добавками",
+        "pl": "17:30–18:00 — Weź ciepłą kąpiel z relaksującymi dodatkami",
+        "en": "5:30-6:00 PM - Take warm bath with relaxing additions"
+      },
+      {
+        "ua": "18:00–19:00 — Приготуйте та з'їжте легку, прохолодну вечерю",
+        "pl": "18:00–19:00 — Przygotuj i zjedz lekką, chłodną kolację",
+        "en": "6:00-7:00 PM - Prepare and eat light, cool dinner"
+      },
+      {
+        "ua": "19:00–20:00 — Якісний час із сім'єю або хобі без гаджетів",
+        "pl": "19:00–20:00 — Wartościowy czas z rodziną lub hobby bez elektroniki",
+        "en": "7:00-8:00 PM - Quality time with family or hobby without electronics"
+      },
+      {
+        "ua": "20:00–21:00 — Читання духовної літератури або прослуховування релаксуючої музики",
+        "pl": "20:00–21:00 — Czytanie literatury duchowej lub słuchanie muzyki relaksacyjnej",
+        "en": "8:00-9:00 PM - Read spiritual literature or listen to relaxing music"
+      },
+      {
+        "ua": "21:00–21:30 — Масаж голови кокосовою олією — підготовка до сну",
+        "pl": "21:00–21:30 — Masaż głowy olejem kokosowym — przygotowanie do snu",
+        "en": "9:00-9:30 PM - Head massage with coconut oil - prepare for sleep"
+      },
+      {
+        "ua": "21:30–22:00 — Час лягати спати для здорового відпочинку",
+        "pl": "21:30–22:00 — Połóż się spać, aby zapewnić sobie głęboki sen",
+        "en": "9:30-10:00 PM - Go to bed for quality sleep"
+      }
+    ]
+  },
+  "seasons": {
+    "autumn_winter": {
+      "focus": {
+        "ua": "Зберігати тепло та вологість, уникати переохолодження",
+        "pl": "Zachowaj ciepło i wilgotność, unikaj wychłodzenia",
+        "en": "Maintain warmth and moisture, avoid cold"
+      },
+      "foods": [
+        {
+          "ua": "Легка каша на кокосовому молоці",
+          "pl": "Owsianka na mleku kokosowym",
+          "en": "Porridge on coconut milk"
+        },
+        {
+          "ua": "Запечені фрукти з медом",
+          "pl": "Pieczone owoce z miodem",
+          "en": "Baked fruits with honey"
+        },
+        {
+          "ua": "Теплі супи-пюре",
+          "pl": "Ciepłe zupy krem",
+          "en": "Warm soups with pulp"
+        },
+        {
+          "ua": "Олія гхі для зігрівання",
+          "pl": "Olej ghee dla ogrzania",
+          "en": "Ghee oil for warming"
+        },
+        {
+          "ua": "Горох та бобові",
+          "pl": "Groszek i rośliny strączkowe",
+          "en": "Peas and legumes"
+        }
+      ],
+      "oils": {
+        "ua": "Гхі для внутрішнього застосування та кокосова олія для зовнішнього",
+        "pl": "Ghee wewnętrznie i olej kokosowy na zewnątrz",
+        "en": "Ghee internally and coconut externally"
+      },
+      "teas": {
+        "ua": "Гарячий чай із кардамоном та гвоздикою",
+        "pl": "Gorąca herbata z kardamonem i goździkami",
+        "en": "Hot tea with cardamom and cloves"
+      }
+    },
+    "spring_summer": {
+      "focus": {
+        "ua": "Максимальне охолодження та очищення організму",
+        "pl": "Maksymalne chłodzenie i oczyszczanie",
+        "en": "Maximum cooling and cleansing"
+      },
+      "foods": [
+        {
+          "ua": "Свіжі соки та смузі",
+          "pl": "Świeże soki i koktajle smoothie",
+          "en": "Fresh juices and smoothies"
+        },
+        {
+          "ua": "Салати зі свіжої зелені",
+          "pl": "Sałatki ze świeżych warzyw liściastych",
+          "en": "Raw salads with greens"
+        },
+        {
+          "ua": "Прохолодні каші та мюслі",
+          "pl": "Chłodne kasze i müsli",
+          "en": "Cold porridges and muesli"
+        },
+        {
+          "ua": "Охолоджені запечені фрукти",
+          "pl": "Schłodzone pieczone owoce",
+          "en": "Cold baked fruits"
+        },
+        {
+          "ua": "Кокосова вода та кокосове молоко",
+          "pl": "Woda kokosowa i mleko kokosowe",
+          "en": "Coconut water and milk"
+        }
+      ],
+      "oils": {
+        "ua": "Кокосова олія холодного віджиму",
+        "pl": "Olej kokosowy tłoczony na zimno (virgin)",
+        "en": "Virgin coconut oil cold-pressed"
+      },
+      "teas": {
+        "ua": "Охолоджувальні чаї з м'ятою, фенхелем та коріандром",
+        "pl": "Chłodzące herbaty z miętą, koprem włoskim i kolendrą",
+        "en": "Cooling teas with mint, fennel, coriander"
+      }
+    }
+  }
+}

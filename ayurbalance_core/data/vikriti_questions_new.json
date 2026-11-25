@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "question": {
+      "ua": "Як працює ваше травлення останнім часом?",
+      "pl": "Jak działa Twoje trawienie ostatnio?",
+      "en": "How has your digestion been working lately?"
+    },
+    "options": {
+      "vata": {
+        "ua": "Нерегулярно — то нормально, то здуття і гази, апетит непостійний",
+        "pl": "Nieregularnie — raz dobrze, raz wzdęcia i gazy, apetyt zmienny",
+        "en": "Irregular — sometimes fine, sometimes bloating and gas, appetite fluctuates"
+      },
+      "pitta": {
+        "ua": "Сильне і швидке — постійно хочу їсти, дратуюсь якщо пропускаю прийом їжі",
+        "pl": "Silne i szybkie — ciągle chcę jeść, irytuję się gdy opuszczę posiłek",
+        "en": "Strong and fast — always hungry, get irritable if I skip a meal"
+      },
+      "kapha": {
+        "ua": "Повільне і стабільне — можу легко пропустити прийом їжі, але після їди буває тяжкість",
+        "pl": "Powolne i stabilne — mogę łatwo pominąć posiłek, ale po jedzeniu bywa ciężkość",
+        "en": "Slow and steady — can easily skip a meal, but feel heavy after eating"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "question": {
+      "ua": "Як ви зазвичай спите?",
+      "pl": "Jak zwykle sypiasz?",
+      "en": "How do you usually sleep?"
+    },
+    "options": {
+      "vata": {
+        "ua": "Сон легкий і переривчастий — часто прокидаюсь, думки не дають заснути",
+        "pl": "Sen lekki i przerywany — często się budzę, myśli nie dają zasnąć",
+        "en": "Light and interrupted — I often wake up, thoughts keep me from falling asleep"
+      },
+      "pitta": {
+        "ua": "Засинаю нормально, але іноді прокидаюсь серед ночі від жару або неспокійних снів",
+        "pl": "Zasypiam normalnie, ale czasem budzę się w nocy z gorąca lub niespokojnych snów",
+        "en": "I fall asleep fine, but sometimes wake up at night from heat or intense dreams"
+      },
+      "kapha": {
+        "ua": "Сплю глибоко і довго — важко прокинутись, вранці відчуваю млявість",
+        "pl": "Śpię głęboko i długo — trudno się obudzić, rano czuję ospałość",
+        "en": "I sleep deeply and long — hard to wake up, feel sluggish in the morning"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "question": {
+      "ua": "Який стан вашої шкіри зараз?",
+      "pl": "Jaki jest stan Twojej skóry teraz?",
+      "en": "What is the condition of your skin right now?"
+    },
+    "options": {
+      "vata": {
+        "ua": "Суха, іноді лущиться, схильна до шорсткості, особливо на руках і ногах",
+        "pl": "Sucha, czasem się łuszczy, szorstka, szczególnie na rękach i nogach",
+        "en": "Dry, sometimes flaky, tends to be rough, especially on hands and feet"
+      },
+      "pitta": {
+        "ua": "Тепла, чутлива, схильна до почервонінь або висипів, іноді жирна в Т-зоні",
+        "pl": "Ciepła, wrażliwa, skłonna do zaczerwienień lub wysypek, czasem tłusta w strefie T",
+        "en": "Warm, sensitive, prone to redness or rashes, sometimes oily in the T-zone"
+      },
+      "kapha": {
+        "ua": "М'яка і зволожена, але схильна до жирності, розширених пор, іноді набряклість",
+        "pl": "Miękka i nawilżona, ale skłonna do tłustości, rozszerzonych porów, czasem opuchlizna",
+        "en": "Soft and moisturized, but tends to be oily, with enlarged pores, sometimes puffy"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "question": {
+      "ua": "Ваша реакція на холод і вітер:",
+      "pl": "Twoja reakcja na zimno i wiatr:",
+      "en": "Your reaction to cold and wind:"
+    },
+    "options": {
+      "vata": {
+        "ua": "Мерзну швидко, з'являється сухість шкіри і внутрішній неспокій",
+        "pl": "Szybko marznę, pojawia się suchość skóry i wewnętrzny niepokój",
+        "en": "I get cold quickly, skin becomes dry and I feel inner restlessness"
+      },
+      "pitta": {
+        "ua": "Переношу добре, навіть приємно прохолодитись, але дратує сильний вітер",
+        "pl": "Znoszę dobrze, nawet lubię ochłodę, ale denerwuje silny wiatr",
+        "en": "I handle it well, even enjoy cooling down, but strong wind is annoying"
+      },
+      "kapha": {
+        "ua": "Переношу нормально, але в сиру холодну погоду з'являється закладеність носа і млявість",
+        "pl": "Znoszę normalnie, ale w wilgotną zimną pogodę pojawia się zatkany nos i ospałość",
+        "en": "I handle it okay, but in damp cold weather I get congestion and sluggishness"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "question": {
+      "ua": "Як ви реагуєте на стресову ситуацію?",
+      "pl": "Jak reagujesz na sytuację stresową?",
+      "en": "How do you react to a stressful situation?"
+    },
+    "options": {
+      "vata": {
+        "ua": "Тривожусь, хвилююсь, думки скачуть, важко зосередитись",
+        "pl": "Niepokoję się, zamartiam, myśli skaczą, trudno się skupić",
+        "en": "I get anxious, worry a lot, racing thoughts, hard to focus"
+      },
+      "pitta": {
+        "ua": "Дратуюсь, злюсь, хочу все контролювати і виправити негайно",
+        "pl": "Irytuję się, złoszczę, chcę wszystko kontrolować i natychmiast naprawić",
+        "en": "I get irritated, angry, want to control everything and fix it immediately"
+      },
+      "kapha": {
+        "ua": "Замикаюсь в собі, уникаю конфлікту, можу заїдати стрес або впадати в апатію",
+        "pl": "Zamykam się w sobie, unikam konfliktu, mogę zajadać stres lub wpadać w apatię",
+        "en": "I withdraw, avoid conflict, may comfort-eat or fall into apathy"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "question": {
+      "ua": "Який у вас рівень енергії протягом дня?",
+      "pl": "Jaki masz poziom energii w ciągu dnia?",
+      "en": "What is your energy level throughout the day?"
+    },
+    "options": {
+      "vata": {
+        "ua": "Хвилями — то раптовий сплеск активності, то різкий спад і втома",
+        "pl": "Falami — raz nagły przypływ aktywności, raz gwałtowny spadek i zmęczenie",
+        "en": "In waves — sudden bursts of activity, then sharp drops and fatigue"
+      },
+      "pitta": {
+        "ua": "Висока і стабільна до середини дня, потім можу перегоріти якщо не відпочину",
+        "pl": "Wysoka i stabilna do połowy dnia, potem mogę się wypalić jeśli nie odpocznę",
+        "en": "High and steady until midday, then I may burn out if I don't rest"
+      },
+      "kapha": {
+        "ua": "Розкачуюсь повільно, але тримаю стабільний рівень; зранку і після їди — млявість",
+        "pl": "Rozkręcam się powoli, ale utrzymuję stabilny poziom; rano i po jedzeniu — ospałość",
+        "en": "I warm up slowly but stay steady; mornings and after meals I feel sluggish"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "question": {
+      "ua": "Як працює ваш кишечник (випорожнення)?",
+      "pl": "Jak działa Twój jelito (wypróżnianie)?",
+      "en": "How are your bowel movements?"
+    },
+    "options": {
+      "vata": {
+        "ua": "Нерегулярно — схильність до затримок, сухий або твердий стул",
+        "pl": "Nieregularnie — skłonność do zaparć, suchy lub twardy stolec",
+        "en": "Irregular — tendency towards constipation, dry or hard stool"
+      },
+      "pitta": {
+        "ua": "Регулярно, іноді занадто часто — стул м'який, буває печіння або рідкий",
+        "pl": "Regularnie, czasem za często — stolec miękki, bywa pieczenie lub luźny",
+        "en": "Regular, sometimes too frequent — soft stool, occasional burning or loose"
+      },
+      "kapha": {
+        "ua": "Регулярно але повільно — стул важкий, об'ємний, іноді з відчуттям неповного спорожнення",
+        "pl": "Regularnie ale powoli — stolec ciężki, obfity, czasem z uczuciem niepełnego wypróżnienia",
+        "en": "Regular but slow — stool heavy, bulky, sometimes with a feeling of incomplete evacuation"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "question": {
+      "ua": "Опишіть ваш розумовий стан останнім часом:",
+      "pl": "Opisz swój stan umysłowy ostatnio:",
+      "en": "Describe your mental state lately:"
+    },
+    "options": {
+      "vata": {
+        "ua": "Розум неспокійний, багато ідей одночасно, важко довести справу до кінця",
+        "pl": "Umysł niespokojny, wiele pomysłów naraz, trudno doprowadzić sprawę do końca",
+        "en": "Restless mind, many ideas at once, hard to follow through on things"
+      },
+      "pitta": {
+        "ua": "Гострий і критичний — аналізую все, схильний до перфекціонізму і нетерпимості",
+        "pl": "Ostry i krytyczny — analizuję wszystko, skłonny do perfekcjonizmu i niecierpliwości",
+        "en": "Sharp and critical — I analyze everything, prone to perfectionism and impatience"
+      },
+      "kapha": {
+        "ua": "Спокійний, але важко починати нове — схильність до відкладання і ментальної інерції",
+        "pl": "Spokojny, ale trudno zacząć coś nowego — skłonność do odkładania i mentalnej inercji",
+        "en": "Calm, but hard to start new things — tendency to procrastinate and mental inertia"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "question": {
+      "ua": "Як змінюється ваша вага?",
+      "pl": "Jak zmienia się Twoja waga?",
+      "en": "How does your weight change?"
+    },
+    "options": {
+      "vata": {
+        "ua": "Важко набрати вагу — швидко худну від стресу або нерегулярного харчування",
+        "pl": "Trudno przybrać na wadze — szybko chudnę od stresu lub nieregularnego jedzenia",
+        "en": "Hard to gain weight — I lose weight quickly from stress or irregular eating"
+      },
+      "pitta": {
+        "ua": "Вага стабільна поки контролюю харчування, набираю і скидаю відносно легко",
+        "pl": "Waga stabilna dopóki kontroluję jedzenie, przybieram i zrzucam stosunkowo łatwo",
+        "en": "Weight is stable as long as I watch my diet, I gain and lose relatively easily"
+      },
+      "kapha": {
+        "ua": "Легко набираю вагу і дуже важко скидаю, навіть при обмеженні їжі",
+        "pl": "Łatwo przybieram na wadze i bardzo trudno zrzucam, nawet przy ograniczeniu jedzenia",
+        "en": "I gain weight easily and find it very hard to lose, even when restricting food"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "question": {
+      "ua": "Як ваш організм зазвичай реагує на зміну сезону або погоди?",
+      "pl": "Jak Twój organizm zwykle reaguje na zmianę pory roku lub pogody?",
+      "en": "How does your body usually react to seasonal or weather changes?"
+    },
+    "options": {
+      "vata": {
+        "ua": "Восени і при вітрі — сухість шкіри, тріскаються губи, неспокій, ломота в суглобах",
+        "pl": "Jesienią i przy wietrze — suchość skóry, pękające usta, niepokój, bóle stawów",
+        "en": "In autumn and wind — dry skin, cracked lips, restlessness, joint aches"
+      },
+      "pitta": {
+        "ua": "Влітку і в спеку — шкіра червоніє, з'являється дратівливість, печія, висипи",
+        "pl": "Latem i w upały — skóra się czerwieni, pojawia się drażliwość, zgaga, wysypki",
+        "en": "In summer and heat — skin gets red, irritability, heartburn, rashes appear"
+      },
+      "kapha": {
+        "ua": "Навесні і в сиру погоду — закладеність носа, набряклість, втома, небажання рухатись",
+        "pl": "Wiosną i w wilgotną pogodę — zatkany nos, obrzęki, zmęczenie, niechęć do ruchu",
+        "en": "In spring and damp weather — nasal congestion, puffiness, fatigue, reluctance to move"
+      }
+    }
+  }
+]

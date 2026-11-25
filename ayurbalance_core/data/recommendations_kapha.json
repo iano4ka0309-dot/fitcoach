@@ -1,0 +1,1360 @@
+{
+  "foods_eat": [
+    {
+      "name": {
+        "ua": "Імбир",
+        "pl": "Imbir",
+        "en": "Ginger"
+      },
+      "why": {
+        "ua": "Зігріває, покращує травлення, розпалює аґні",
+        "pl": "Rozgrzewa, poprawia trawienie, pobudza agni",
+        "en": "Warms, improves digestion, ignites agni"
+      },
+      "how": {
+        "ua": "Свіжим у теплій воді або додавати до страв під час приготування",
+        "pl": "Świeży w ciepłej wodzie lub jako dodatek do potraw",
+        "en": "Fresh in hot water, add to dishes"
+      }
+    },
+    {
+      "name": {
+        "ua": "Льон",
+        "pl": "Len",
+        "en": "Flax"
+      },
+      "why": {
+        "ua": "Легкий, стимулює аґні, підсушує зайву вологу",
+        "pl": "Lekki, pobudza agni, wysusza nadmiar wilgoci",
+        "en": "Light, ignites agni, dries excess moisture"
+      },
+      "how": {
+        "ua": "1 ст. л. насіння з теплою водою щодня",
+        "pl": "1 łyżka nasion z ciepłą wodą codziennie",
+        "en": "1 tbsp seeds with hot water daily"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гірка зелень",
+        "pl": "Gorzkie zielone liście",
+        "en": "Bitter greens"
+      },
+      "why": {
+        "ua": "Стимулює метаболізм, гіркий смак полегшує тіло",
+        "pl": "Stymuluje metabolizm, gorzki smak nadaje lekkości",
+        "en": "Stimulates metabolism, bitter taste lightens"
+      },
+      "how": {
+        "ua": "Свіжі салати перед обідом",
+        "pl": "Świeże sałatki przed obiadem",
+        "en": "Raw salads before lunch"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гречка",
+        "pl": "Gryka",
+        "en": "Buckwheat"
+      },
+      "why": {
+        "ua": "Легка, зігріває, не обтяжує травлення",
+        "pl": "Lekka, rozgrzewająca, łatwostrawna",
+        "en": "Light, warming, easy to digest"
+      },
+      "how": {
+        "ua": "Варити на воді, чудово підходить на сніданок",
+        "pl": "Gotować na wodzie, idealna na śniadanie",
+        "en": "Cook with hot water for breakfast"
+      }
+    },
+    {
+      "name": {
+        "ua": "Коренеплоди (редис, редька)",
+        "pl": "Rzodkiewka, rzepa",
+        "en": "Radishes, turnips"
+      },
+      "why": {
+        "ua": "Гострі, розпалюють аґні, легкі для організму",
+        "pl": "Ostre, pobudzają agni, lekkie",
+        "en": "Pungent, ignite agni, light"
+      },
+      "how": {
+        "ua": "Сирими в салатах з невеликою кількістю оливкової олії",
+        "pl": "Surowe w sałatkach z odrobiną oliwy z oliwek",
+        "en": "Raw in salads with olive oil"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кукурудза",
+        "pl": "Kukurydza",
+        "en": "Corn"
+      },
+      "why": {
+        "ua": "Суха, легка, активізує аґні",
+        "pl": "Sucha, lekka, pobudza agni",
+        "en": "Dry, light, ignites agni"
+      },
+      "how": {
+        "ua": "Попкорн без масла або кукурудзяна каша на сніданок",
+        "pl": "Popcorn bez masła, kasza kukurydziana na śniadanie",
+        "en": "Popcorn without butter, cereals for breakfast"
+      }
+    },
+    {
+      "name": {
+        "ua": "Ячмінь",
+        "pl": "Jęczmień",
+        "en": "Barley"
+      },
+      "why": {
+        "ua": "Легкий, сухий, допомагає знизити надмірний апетит",
+        "pl": "Lekki, suchy, zmniejsza nadmierny apetyt",
+        "en": "Light, dry, reduces appetite"
+      },
+      "how": {
+        "ua": "Варити як гарнір або пити у вигляді відвару (чаю)",
+        "pl": "Gotować jako dodatek do dań, pić jako napar",
+        "en": "Cook as side dish, drink as tea"
+      }
+    },
+    {
+      "name": {
+        "ua": "Мед",
+        "pl": "Miód",
+        "en": "Honey"
+      },
+      "why": {
+        "ua": "Підсушує слиз, але стає токсичним (амою) при сильному нагріванні",
+        "pl": "Wzmaga agni, ale staje się toksyczny przy silnym podgrzaniu",
+        "en": "Ignites agni, easily absorbed when warm"
+      },
+      "how": {
+        "ua": "1 ч. л. додавати виключно в теплу (не гарячу!) воду вранці",
+        "pl": "1 łyżeczka do letniej (nie wrzącej!) wody rano",
+        "en": "1 tsp in hot water in morning"
+      }
+    },
+    {
+      "name": {
+        "ua": "Яйця",
+        "pl": "Jajka",
+        "en": "Eggs"
+      },
+      "why": {
+        "ua": "Стимулюють аґні, є легким джерелом білка для Капхи",
+        "pl": "Pobudzają agni, lekkie dla konstytucji kapha",
+        "en": "Ignite agni, light for kapha"
+      },
+      "how": {
+        "ua": "Варені або підсмажені з мінімальною кількістю олії",
+        "pl": "Gotowane lub smażone na minimalnej ilości tłuszczu",
+        "en": "Boiled, fried with minimal oil"
+      }
+    },
+    {
+      "name": {
+        "ua": "Курятина",
+        "pl": "Mięso drobiowe",
+        "en": "Poultry meat"
+      },
+      "why": {
+        "ua": "Легке диєтичне м'ясо, зігріває, не створює важкості",
+        "pl": "Lekkie, rozgrzewające, nie obciąża układu pokarmowego",
+        "en": "Light, warming, not heavy"
+      },
+      "how": {
+        "ua": "Готувати без жиру, додаючи зігріваючі спеції",
+        "pl": "Gotować bez tłuszczu, z dodatkiem rozgrzewających przypraw",
+        "en": "Cook without oil, with warm spices"
+      }
+    },
+    {
+      "name": {
+        "ua": "Перець чорний",
+        "pl": "Pieprz czarny",
+        "en": "Black pepper"
+      },
+      "why": {
+        "ua": "Зігріває, усуває зайвий слиз, стимулює метаболізм",
+        "pl": "Rozgrzewa, usuwa śluz, pobudza metabolizm",
+        "en": "Warms, removes mucus, ignites metabolism"
+      },
+      "how": {
+        "ua": "Додавати на кінчику ножа до готових страв",
+        "pl": "Szczypta dodawana do gotowych potraw",
+        "en": "A pinch added to food"
+      }
+    },
+    {
+      "name": {
+        "ua": "Цибуля",
+        "pl": "Cebula",
+        "en": "Onion"
+      },
+      "why": {
+        "ua": "Зігріває, має пікантно-гострий смак, тонізує",
+        "pl": "Rozgrzewa, ostro-gorzka, działa stymulująco",
+        "en": "Warms, pungent-bitter, stimulating"
+      },
+      "how": {
+        "ua": "Запечена або варена у складі гарячих страв",
+        "pl": "Pieczona lub gotowana w ciepłych potrawach",
+        "en": "Roasted or cooked in warm dishes"
+      }
+    },
+    {
+      "name": {
+        "ua": "Часник",
+        "pl": "Czosnek",
+        "en": "Garlic"
+      },
+      "why": {
+        "ua": "Має сильний зігріваючий ефект, спалює токсини, виводить слиз",
+        "pl": "Silnie rozgrzewa, pobudza trawienie, usuwa śluz",
+        "en": "Intensely warming, ignites, removes mucus"
+      },
+      "how": {
+        "ua": "У невеликих кількостях додавати до гарячих страв",
+        "pl": "Małe ilości w ciepłych potrawach",
+        "en": "Small amounts in warm dishes"
+      }
+    },
+    {
+      "name": {
+        "ua": "Козяче молоко",
+        "pl": "Mleko kozie",
+        "en": "Goat milk"
+      },
+      "why": {
+        "ua": "Значно легше за коров'яче, підтримує вогонь травлення",
+        "pl": "Lżejsze od krowiego, dobrze wpływa na agni",
+        "en": "Lighter than cow's milk, ignites agni"
+      },
+      "how": {
+        "ua": "Пити теплим із додаванням спецій уранці (мед додавати лише після охолодження)",
+        "pl": "Ciepłe, z przyprawami rano (miód dodawać po przestygnięciu)",
+        "en": "Warm, with honey and spices in morning"
+      }
+    },
+    {
+      "name": {
+        "ua": "Груші",
+        "pl": "Gruszki",
+        "en": "Pears"
+      },
+      "why": {
+        "ua": "Сухі, легкі, не перевантажують Капха-дошу",
+        "pl": "Suche, lekkie, odpowiednie dla kaphy",
+        "en": "Dry, light, not heavy for kapha"
+      },
+      "how": {
+        "ua": "Запечені з корицею, в помірній кількості",
+        "pl": "Pieczone z cynamonem, z umiarem",
+        "en": "Baked with cinnamon, in moderation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Яблука",
+        "pl": "Jabłka",
+        "en": "Apples"
+      },
+      "why": {
+        "ua": "Сухі, легкі, мають корисний в'яжучий смак",
+        "pl": "Suche, lekkie, o łagodnym, cierpkim smaku",
+        "en": "Dry, light, mild, astringent"
+      },
+      "how": {
+        "ua": "Запечені або припущені, краще не вживати сирими",
+        "pl": "Pieczone lub duszone na ciepło, unikać surowych",
+        "en": "Baked, warm, not raw"
+      }
+    },
+    {
+      "name": {
+        "ua": "Нут",
+        "pl": "Ciecierzyca",
+        "en": "Chickpeas"
+      },
+      "why": {
+        "ua": "Легший за інші бобові, має суху та підсушувальну текстуру",
+        "pl": "Lżejsza od fasoli, ma właściwości wysuszające",
+        "en": "Lighter than beans, warming, drying"
+      },
+      "how": {
+        "ua": "Добре зварений із додаванням зігріваючих спецій",
+        "pl": "Dobrze ugotowana z rozgrzewającymi przyprawami",
+        "en": "Well cooked with warm spices"
+      }
+    },
+    {
+      "name": {
+        "ua": "Чорнослив",
+        "pl": "Suszone śliwki",
+        "en": "Prunes"
+      },
+      "why": {
+        "ua": "Має суху структуру, м'яко стимулює перистальтику",
+        "pl": "Suche, łagodnie stymulują pracę jelit",
+        "en": "Dry, ignites, gently warming"
+      },
+      "how": {
+        "ua": "Попередньо замочити в теплій воді",
+        "pl": "Wcześniej namoczone w ciepłej wodzie",
+        "en": "Soak in hot water, with honey"
+      }
+    },
+    {
+      "name": {
+        "ua": "Зігріваючі прянощі",
+        "pl": "Rozgrzewające przyprawy",
+        "en": "Warm spices mix"
+      },
+      "why": {
+        "ua": "Прискорюють метаболізм, допомагають розріджувати слиз",
+        "pl": "Przyspieszają metabolizm, pomagają redukować śluz",
+        "en": "Ignite metabolism, dissolve mucus"
+      },
+      "how": {
+        "ua": "Додавати до смаку в усі теплі страви",
+        "pl": "Dodawać do smaku do wszystkich ciepłych dań",
+        "en": "To all warm dishes, to taste"
+      }
+    },
+    {
+      "name": {
+        "ua": "Просо (пшоно)",
+        "pl": "Proso (kasza jaglana)",
+        "en": "Millet"
+      },
+      "why": {
+        "ua": "Легке, сухе, чудово виводить надлишок вологи",
+        "pl": "Lekkie, suche, pomaga usuwać nadmiar wilgoci",
+        "en": "Light, ignites, dry"
+      },
+      "how": {
+        "ua": "Варити на воді як гарнір або кашу на сніданок",
+        "pl": "Gotować jako dodatek do dań lub na śniadanie",
+        "en": "Cook as side dish for breakfast"
+      }
+    },
+    {
+      "name": {
+        "ua": "Дика біла риба",
+        "pl": "Dzika biała ryba",
+        "en": "White fish"
+      },
+      "why": {
+        "ua": "Легка, живить тіло без накопичення слизу та важкості",
+        "pl": "Lekka, odżywia organizm bez obciążania go śluzem",
+        "en": "Light, ignites agni without heaviness"
+      },
+      "how": {
+        "ua": "Приготована на парі або варена зі спеціями, не смажити",
+        "pl": "Gotowana na parze lub w wodzie z przyprawami, nie smażyć",
+        "en": "Boiled with spices, not fried"
+      }
+    },
+    {
+      "name": {
+        "ua": "Камут",
+        "pl": "Kamut",
+        "en": "Kamut"
+      },
+      "why": {
+        "ua": "Значно легший за звичайну пшеницю, сухий за природою",
+        "pl": "Lżejszy od tradycyjnej pszenicy, suchy z natury",
+        "en": "Lighter than wheat, warm, dry"
+      },
+      "how": {
+        "ua": "Варити на воді з додаванням розгрувальних спецій",
+        "pl": "Gotować na wodzie z rozgrzewającymi przyprawami",
+        "en": "Cook in water with warm spices"
+      }
+    }
+  ],
+  "foods_avoid": [
+    {
+      "name": {
+        "ua": "Молоко коров'яче",
+        "pl": "Mleko krowie",
+        "en": "Cow's milk"
+      },
+      "why": {
+        "ua": "Важке, холодне, провокує утворення слизу та збільшення ваги",
+        "pl": "Ciężkie, zimne, wzmaga produkcję śluzu i przyrost wagi",
+        "en": "Heavy, cold, increases mucus and weight"
+      }
+    },
+    {
+      "name": {
+        "ua": "Вершкове масло",
+        "pl": "Masło",
+        "en": "Butter"
+      },
+      "why": {
+        "ua": "Надто жирне, охолоджує травний вогонь, створює важкість",
+        "pl": "Zbyt tłuste, osłabia ogień trawienny, obciąża",
+        "en": "Very fatty, cold, heavy"
+      }
+    },
+    {
+      "name": {
+        "ua": "Морозиво",
+        "pl": "Lody",
+        "en": "Ice cream"
+      },
+      "why": {
+        "ua": "Критично холодне і важке, миттєво блокує канали та створює застій слизу",
+        "pl": "Zimne, ciężkie, powoduje natychmiastowe zatory śluzowe",
+        "en": "Cold, heavy, creates mucus congestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Пшениця",
+        "pl": "Pszenica",
+        "en": "Wheat"
+      },
+      "why": {
+        "ua": "Занадто важка для Капхи, затримує воду та слиз в організмі",
+        "pl": "Zbyt ciężka dla osób typu kapha, zatrzymuje wodę i śluz",
+        "en": "Heavy for kapha, increases mucus and water"
+      }
+    },
+    {
+      "name": {
+        "ua": "Рис білий",
+        "pl": "Ryż biały",
+        "en": "White rice"
+      },
+      "why": {
+        "ua": "Важкий для засвоєння, містить забагато вологи, посилює дисбаланс Капхи",
+        "pl": "Ciężki, zawiera dużo wilgoci, pogłębia zaburzenia kapha",
+        "en": "Heavy, wet, excessive for kapha"
+      }
+    },
+    {
+      "name": {
+        "ua": "Рослинна олія (більшість видів)",
+        "pl": "Oleje roślinne (większość)",
+        "en": "Vegetable oil"
+      },
+      "why": {
+        "ua": "Створює надмірну жирність, охолоджує, веде до збільшення маси тіла",
+        "pl": "Zbyt tłuste, chłodzące, sprzyjają tyciu",
+        "en": "Very fatty, cold, increases weight"
+      }
+    },
+    {
+      "name": {
+        "ua": "Авокадо",
+        "pl": "Awokado",
+        "en": "Avocado"
+      },
+      "why": {
+        "ua": "Надзвичайно жирне, маслянисте, важке та холодне за своїми властивостями",
+        "pl": "Bardzo tłuste, ciężkie i zimne",
+        "en": "Very fatty, heavy, cold"
+      }
+    },
+    {
+      "name": {
+        "ua": "Цукор білий",
+        "pl": "Biały cukier",
+        "en": "White sugar"
+      },
+      "why": {
+        "ua": "Має холодну енергетику, створює важкість та різко збільшує слиз",
+        "pl": "Zimny, ciężki, drastycznie zwiększa ilość śluzu",
+        "en": "Cold, heavy, increases mucus"
+      }
+    },
+    {
+      "name": {
+        "ua": "Банани",
+        "pl": "Banany",
+        "en": "Bananas"
+      },
+      "why": {
+        "ua": "Дуже важкі, холодні, закупорюють лімфатичну та травну системи",
+        "pl": "Ciężkie, zimne, powodują zatory w organizmie",
+        "en": "Heavy, cold, create congestion"
+      }
+    },
+    {
+      "name": {
+        "ua": "Апельсини",
+        "pl": "Pomarańcze",
+        "en": "Oranges"
+      },
+      "why": {
+        "ua": "Холодні, надто солодкі та соковиті, що збільшує вологу в тілі",
+        "pl": "Zimne, słodkie, zwiększają wilgoć i śluz",
+        "en": "Cold, sweet, increase mucus"
+      }
+    },
+    {
+      "name": {
+        "ua": "Ананас",
+        "pl": "Ananas",
+        "en": "Pineapple"
+      },
+      "why": {
+        "ua": "Охолоджує, дуже солодкий та містить надмірну кількість вологи",
+        "pl": "Zimny, słodki i bardzo wilgotny",
+        "en": "Cold, sweet, moist"
+      }
+    },
+    {
+      "name": {
+        "ua": "Червоне м'ясо",
+        "pl": "Czerwone mięso",
+        "en": "Red meat"
+      },
+      "why": {
+        "ua": "Надзвичайно важке, довго перетравлюється, створює застійні явища",
+        "pl": "Bardzo ciężkie, trudne do strawienia, powoduje zastoje",
+        "en": "Heavy, hard to digest, creates stagnation"
+      }
+    },
+    {
+      "name": {
+        "ua": "Йогурт",
+        "pl": "Jogurt",
+        "en": "Yogurt"
+      },
+      "why": {
+        "ua": "Холодний, надто вологий, має щільну слизову структуру",
+        "pl": "Zimny, wilgotny, blokuje kanały (śluzotwórczy)",
+        "en": "Cold, moist, mucous-forming"
+      }
+    },
+    {
+      "name": {
+        "ua": "Солодощі",
+        "pl": "Słodycze",
+        "en": "Sweets"
+      },
+      "why": {
+        "ua": "Містять забагато цукру, холодні, важкі, миттєво створюють аму (токсини) й застій",
+        "pl": "Wysoka zawartość cukru, zimne, ciężkie, powodują zastoje",
+        "en": "High in sugar, cold, heavy, congesting"
+      }
+    },
+    {
+      "name": {
+        "ua": "Холодна вода",
+        "pl": "Zimna woda",
+        "en": "Cold water"
+      },
+      "why": {
+        "ua": "Миттєво гасить аґні, ущільнює слиз, охолоджує ШКТ",
+        "pl": "Gasi agni, zagęszcza śluz, wychładza układ pokarmowy",
+        "en": "Extinguishes agni, expands mucus, chills"
+      }
+    },
+    {
+      "name": {
+        "ua": "Важкий сніданок",
+        "pl": "Ciężkie śniadanie",
+        "en": "Heavy breakfast"
+      },
+      "why": {
+        "ua": "Вранці аґні природно слабкий, їжа не повинна бути калорійною чи щільною",
+        "pl": "Rano agni jest naturalnie słabe, należy unikać ciężkich potraw",
+        "en": "Should not have heavy foods, weak morning agni"
+      }
+    }
+  ],
+  "spices": [
+    {
+      "name": {
+        "ua": "Імбир",
+        "pl": "Imbir",
+        "en": "Ginger"
+      },
+      "why": {
+        "ua": "Найкращий стимулятор травлення для Капхи, гріє та прибирає вологу",
+        "pl": "Najlepsza przyprawa dla kaphy — mocno rozgrzewa i osusza",
+        "en": "Most igniting for kapha, warms, dries"
+      },
+      "how": {
+        "ua": "1/4 ч. л. свіжого імбиру на склянку теплої води",
+        "pl": "1/4 łyżeczki świeżego imbiru do ciepłej wody",
+        "en": "1/4 tsp fresh in hot water"
+      }
+    },
+    {
+      "name": {
+        "ua": "Перець чорний",
+        "pl": "Pieprz czarny",
+        "en": "Black pepper"
+      },
+      "why": {
+        "ua": "Активізує обмін речовин, очищує тонкі канали тіла (шроти)",
+        "pl": "Podkręca metabolizm, oczyszcza i otwiera kanały ciała",
+        "en": "Ignites metabolism, opens channels"
+      },
+      "how": {
+        "ua": "Свіжозмеленим на кінчику ножа додавати до страв",
+        "pl": "Szczypta świeżo zmielonego pieprzu do jedzenia",
+        "en": "Pinch with food, freshly ground"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кориця",
+        "pl": "Cynamon",
+        "en": "Cinnamon"
+      },
+      "why": {
+        "ua": "Зігріває, покращує циркуляцію, легка, має приємний смак",
+        "pl": "Rozgrzewa, lekka, o przyjemnym i głębokim smaku",
+        "en": "Warms, ignites, light, pleasant taste"
+      },
+      "how": {
+        "ua": "1/8 ч. л. додавати до теплих напоїв або посипати страви",
+        "pl": "1/8 łyżeczki do ciepłej wody lub do posypania dań",
+        "en": "1/8 tsp in hot water, sprinkle on foods"
+      }
+    },
+    {
+      "name": {
+        "ua": "Коріандр",
+        "pl": "Kolendra",
+        "en": "Coriander"
+      },
+      "why": {
+        "ua": "М'яко стимулює травлення, легкий, запобігає газоутворенню",
+        "pl": "Stymuluje trawienie, lekka, zapobiega wzdęciom",
+        "en": "Ignites, light, removes gas"
+      },
+      "how": {
+        "ua": "1/8 ч. л. меленого коріандру до страв під час приготування",
+        "pl": "1/8 łyżeczki mielonej kolendry do potraw",
+        "en": "1/8 tsp ground added to dishes"
+      }
+    },
+    {
+      "name": {
+        "ua": "Фенхель",
+        "pl": "Koper włoski",
+        "en": "Fennel"
+      },
+      "why": {
+        "ua": "М'яко покращує роботу ШКТ, полегшує засвоєння їжі",
+        "pl": "Łagodnie pobudza trawienie i reguluje pracę jelit",
+        "en": "Gently ignites, aids digestion"
+      },
+      "how": {
+        "ua": "Ретельно розжувати 1/8 ч. л. насіння після їди",
+        "pl": "1/8 łyżeczki nasion do żucia po posiłku",
+        "en": "1/8 tsp seeds after meals"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кмин",
+        "pl": "Kminek",
+        "en": "Cumin"
+      },
+      "why": {
+        "ua": "Розпалює вогонь травлення, підсушує, усуває здуття",
+        "pl": "Wspomaga trawienie, działa osuszająco, redukuje gazy",
+        "en": "Ignites, dry, removes gas"
+      },
+      "how": {
+        "ua": "1/8 ч. л. насіння додавати до страв під час готування",
+        "pl": "1/8 łyżeczki nasion dodawana do dań",
+        "en": "1/8 tsp seeds in dishes"
+      }
+    },
+    {
+      "name": {
+        "ua": "Каєнський перець",
+        "pl": "Pieprz cayenne",
+        "en": "Cayenne"
+      },
+      "why": {
+        "ua": "Дуже гострий, максимально розпалює метаболізм, використовувати обережно",
+        "pl": "Bardzo ostry, maksymalnie podkręca metabolizm, dla odważnych",
+        "en": "Sharpest, ignites maximally, for bold"
+      },
+      "how": {
+        "ua": "Крихітна щіпка до страв, дуже обережно",
+        "pl": "Niewielka szczypta do potraw, zachować ostrożność",
+        "en": "Pinch in dishes, carefully"
+      }
+    },
+    {
+      "name": {
+        "ua": "Гвоздика",
+        "pl": "Goździki",
+        "en": "Clove"
+      },
+      "why": {
+        "ua": "Має глибокий зігріваючий ефект, стимулює місцевий кровообіг",
+        "pl": "Intensywnie rozgrzewa, stymuluje krążenie",
+        "en": "Warm, ignites, stimulates circulation"
+      },
+      "how": {
+        "ua": "1-2 бутони додавати до чаю чи теплої води",
+        "pl": "1-2 pąki do herbaty lub ciepłej wody",
+        "en": "1-2 buds in tea, hot water"
+      }
+    },
+    {
+      "name": {
+        "ua": "Кардамон",
+        "pl": "Kardamon",
+        "en": "Cardamom"
+      },
+      "why": {
+        "ua": "Теплий, м'яко стимулює шлунок, покращує дихання та виводить слиз із легень",
+        "pl": "Ciepły, łagodnie stymuluje, odświeża oddech i redukuje śluz",
+        "en": "Warm, gently ignites, improves breath"
+      },
+      "how": {
+        "ua": "2-3 зернятка в чай або щіпку меленого до страв",
+        "pl": "2-3 nasiona do herbaty lub mielony do potraw",
+        "en": "2-3 seeds in tea, ground in dishes"
+      }
+    },
+    {
+      "name": {
+        "ua": "Мускатний горіх",
+        "pl": "Gałka muszkatołowa",
+        "en": "Nutmeg"
+      },
+      "why": {
+        "ua": "Має теплу енергетику, заспокоює нервову систему, покращує сон",
+        "pl": "Ciepła, ułatwia zasypianie, delikatnie stymuluje",
+        "en": "Warm, aids sleep, gently ignites"
+      },
+      "how": {
+        "ua": "Щіпка до теплого рослинного чи козячого молока перед сном",
+        "pl": "Szczypta do ciepłego mleka przed snem",
+        "en": "Pinch in milk before bed"
+      }
+    },
+    {
+      "name": {
+        "ua": "Мікс зігріваючих прянощів",
+        "pl": "Mieszanka rozgrzewających przypraw",
+        "en": "Hot spice blend"
+      },
+      "why": {
+        "ua": "Синергетичний ефект компонентів потужно розпалює травлення",
+        "pl": "Synergiczne działanie składników kompleksowo wspiera metabolizm",
+        "en": "Synergistic ignition, comprehensive support"
+      },
+      "how": {
+        "ua": "1/4 ч. л. додавати до страв або напоїв",
+        "pl": "1/4 łyżeczki do potraw lub napojów",
+        "en": "1/4 tsp in dishes, drinks"
+      }
+    }
+  ],
+  "teas": [
+    {
+      "name": {
+        "ua": "Імбирний чай",
+        "pl": "Herbata imbirowa",
+        "en": "Ginger tea"
+      },
+      "ingredients": {
+        "ua": "Свіжий імбир, лимонний сік, мед (додавати в теплий напій), вода",
+        "pl": "Świeży imbir, sok z cytryny, miód (do letniego naparu), woda",
+        "en": "Fresh ginger, lemon juice, honey, hot water"
+      },
+      "benefits": {
+        "ua": "Ефективно розпалює аґні, розріджує і виводить слиз, глибоко зігріває",
+        "pl": "Pobudza agni, rozpuszcza i usuwa śluz, mocno rozgrzewa",
+        "en": "Ignites agni, dissolves mucus, warms"
+      },
+      "recipe": {
+        "ua": "Шматочок імбиру (близько 1 см) подрібнити, кип'ятити у воді 5 хвилин. Дати трохи охолонути, після чого додати лимонний сік та мед за смаком",
+        "pl": "1 cm imbiru pokroić, gotować w wodzie przez 5 minut. Odstawić do przestygnięcia, następnie dodać sok z cytryny oraz miód do smaku",
+        "en": "Slice 1 cm ginger, simmer 5 min, add juice, honey"
+      }
+    },
+    {
+
+    "name": {
+      "ua": "Пряний чай",
+      "pl": "Herbata korzenna",
+      "en": "Spiced tea"
+    },
+    "ingredients": {
+      "ua": "Кориця, гвоздика, кардамон, гаряча вода",
+      "pl": "Cynamon, goździki, kardamon, gorąca woda",
+      "en": "Cinnamon, clove, cardamom, hot water"
+    },
+    "benefits": {
+      "ua": "Зігріває, покращує травлення, дарує приємний стан",
+      "pl": "Rozgrzewa, wspomaga trawienie, relaksuje",
+      "en": "Ignites, warm, pleasant, aids digestion"
+    },
+    "recipe": {
+      "ua": "Додати по щіпці кожної спеції у воду, варити 3 хвилини, пити гарячим",
+      "pl": "Dodaj po szczypcie każdej przyprawy do wody, gotuj przez 3 minuty, pij gorące",
+      "en": "Pinch each spice in water, simmer 3 min, drink hot"
+    }
+  },
+  {
+    "name": {
+      "ua": "Трав'яний чай для Капхи",
+      "pl": "Herbata ziołowa dla Kaphy",
+      "en": "Kapha herbal tea"
+    },
+    "ingredients": {
+      "ua": "Кропива, фенхель, імбир, лимон, мед (додавати в теплий чай)",
+      "pl": "Pokrzywa, koper włoski, imbir, cytryna, miód (do letniego naparu)",
+      "en": "Nettle, fennel, ginger, lemon, honey"
+    },
+    "benefits": {
+      "ua": "Стимулює метаболізм, очищує від токсинів, бадьорить",
+      "pl": "Pobudza metabolizm, oczyszcza z toksyn, dodaje energii",
+      "en": "Ignites, detoxifies, cleanses, invigorates"
+    },
+    "recipe": {
+      "ua": "1 ст. л. кропиви та щіпку імбиру залити окропом на 5 хвилин, процідити, додати лимон. Мед додавати лише після охолодження до теплого стану",
+      "pl": "1 łyżkę pokrzywy i szczyptę imbiru zalać wrzątkiem na 5 minut, odcedzić, dodać cytrynę. Miód dodać dopiero po przestygnięciu naparu",
+      "en": "1 tbsp nettle, pinch ginger in hot water 5 min, strain, add lemon. Add honey only when warm"
+    }
+  }
+],
+"oils": [
+  {
+    "name": {
+      "ua": "Кунжутна олія",
+      "pl": "Olej sezamowy",
+      "en": "Sesame oil"
+    },
+    "use": {
+      "ua": "Масаж Абх'янґа, 5-10 хвилин щодня вранці перед душем",
+      "pl": "Masaż Abhyanga, 5-10 minut codziennie rano przed prysznicem",
+      "en": "Abhyanga massage, 5-10 min daily morning"
+    },
+    "benefits": {
+      "ua": "Зігріває, активізує кровообіг, тонізує тканини",
+      "pl": "Rozgrzewa, aktywizuje krążenie krwi, tonizuje tkanki",
+      "en": "Ignites, heats, activates circulation"
+    }
+  },
+  {
+    "name": {
+      "ua": "Гірчична олія",
+      "pl": "Olej musztardowy",
+      "en": "Mustard oil"
+    },
+    "use": {
+      "ua": "Інтенсивний масаж тіла, попередньо підігріти олію на водяній бані",
+      "pl": "Intensywny masaż ciała, olej wcześniej podgrzać w kąpieli wodnej",
+      "en": "Body massage, preheat the oil gently"
+    },
+    "benefits": {
+      "ua": "Має сильний зігріваючий ефект, усуває застій лімфи та слизу",
+      "pl": "Silnie rozgrzewa, likwiduje zastoje limfy i śluzu",
+      "en": "Very igniting, warm, dissolves stagnation"
+    }
+  },
+  {
+    "name": {
+      "ua": "Кокосова олія (у помірній кількості)",
+      "pl": "Olej kokosowy (z umiarem)",
+      "en": "Coconut oil (in moderation)"
+    },
+    "use": {
+      "ua": "Мінімально для приготування їжі або для теплого масажу влітку",
+      "pl": "Minimalnie do gotowania lub do ciepłego masażu latem",
+      "en": "Cooking (minimal), warm massage in summer"
+    },
+    "benefits": {
+      "ua": "Охолоджує, але при використанні в теплому вигляді зберігає баланс",
+      "pl": "Chłodzi, ale stosowany na ciepło utrzymuje równowagę",
+      "en": "Cooling, but warm application balances"
+    }
+  }
+],
+"meal_times": {
+  "breakfast": {
+    "ua": "6:00 - 7:30, легкі, гарячі страви зі спеціями",
+    "pl": "6:00 - 7:30, lekkie, gorące potrawy z przyprawami",
+    "en": "6:00 - 7:30, warm, light, igniting foods"
+  },
+  "lunch": {
+    "ua": "12:00 - 13:30, основний прийом їжі, теплий, обов'язково зі спеціями",
+    "pl": "12:00 - 13:30, główny posiłek, ciepły, obowiązkowo z przyprawami",
+    "en": "12:00 - 13:30, main meal, warm, with spices"
+  },
+  "dinner": {
+    "ua": "18:00 - 19:00, легка гаряча вечеря задовго до сну",
+    "pl": "18:00 - 19:00, lekka, ciepła kolacja na długo przed snem",
+    "en": "18:00 - 19:00, light, warm, early, before sleep"
+  },
+  "rules": [
+    {
+      "ua": "Їсти лише тоді, коли дійсно голодні, не змушувати себе",
+      "pl": "Jeść tylko wtedy, gdy jest się naprawdę głodnym, nie zmuszać się",
+      "en": "Eat when truly hungry, don't force"
+    },
+    {
+      "ua": "Не пропускати обід — це найголовніший прийом їжі",
+      "pl": "Nie pomijać obiadu — to najważniejszy posiłek w ciągu dnia",
+      "en": "Don't skip lunch - most important meal"
+    },
+    {
+      "ua": "Усі страви мають бути теплими або гарячими, уникати холодного",
+      "pl": "Wszystkie potrawy powinny być ciepłe lub gorące, unikać zimnego",
+      "en": "All foods warm, never cold"
+    },
+    {
+      "ua": "Ретельно і повільно пережовувати їжу, отримуючи задоволення",
+      "pl": "Dokładnie i powoli żuć pokarm, czerpiąc z tego przyjemność",
+      "en": "Chew well, slowly, with enjoyment"
+    },
+    {
+      "ua": "Уникати прийому їжі під час робочих стресів та хвилювань",
+      "pl": "Unikać jedzenia w trakcie stresu w pracy lub silnych emocji",
+      "en": "Don't eat during work stress"
+    }
+  ]
+},
+"sleep": {
+  "bedtime": {
+    "ua": "21:00 - 22:00, раннє засинання",
+    "pl": "21:00 - 22:00, wczesne kładzenie się spać",
+    "en": "21:00 - 22:00, early to bed"
+  },
+  "wake_time": {
+    "ua": "5:30 - 6:00, ранній підйом до сходу сонця",
+    "pl": "5:30 - 6:00, wczesne wstawanie przed wschodem słońca",
+    "en": "5:30 - 6:00, wake before sun"
+  },
+  "duration": {
+    "ua": "7-8 годин, для Капхи не більше 8 годин",
+    "pl": "7-8 godzin, dla Kaphy nie więcej niż 8 godzin",
+    "en": "7-8 hours, no more than 8"
+  },
+  "tips": [
+    {
+      "ua": "Спальня має бути прохолодною, темною та тихою",
+      "pl": "Sypialnia powinna być chłodna, ciemna i cicha",
+      "en": "Bedroom cool, dark, quiet"
+    },
+    {
+      "ua": "Перед сном: тепле козяче/рослинне молоко з мускатним горіхом (мед додавати в тепле, не в окріп)",
+      "pl": "Przed snem: ciepłe mleko kozie/roślinne z gałką muszkatołową (miód dodać do letniego mleka)",
+      "en": "Before sleep: warm milk with nutmeg, honey added when warm"
+    },
+    {
+      "ua": "Масаж стоп теплою кунжутною олією перед сном",
+      "pl": "Masaż stóp ciepłym olejem sezamowym przed snem",
+      "en": "Foot massage with sesame oil"
+    },
+    {
+      "ua": "Медитація або розслаблення перед відпочинком",
+      "pl": "Medytacja lub relaksacja przed odpoczynkiem",
+      "en": "Meditation, relaxation before sleep"
+    },
+    {
+      "ua": "Не користуватися телефоном та гаджетами за 30 хвилин до сну",
+      "pl": "Nie korzystać z telefonu ani innych urządzeń na 30 minut przed snem",
+      "en": "Avoid phone 30 min before sleep"
+    }
+  ]
+},
+"exercise": {
+  "recommended": [
+    {
+      "ua": "Біг, швидка ходьба — енергійно та щодня",
+      "pl": "Bieganie, szybki spacer — energicznie i codziennie",
+      "en": "Running, brisk walking - energetically, daily"
+    },
+    {
+      "ua": "Динамічні практики йоги (Віньяса-флоу, Крія-йога)",
+      "pl": "Dynamiczne praktyki jogi (Vinyasa flow, Kriya joga)",
+      "en": "Dynamic yoga practices (Vinyasa, Kriya)"
+    },
+    {
+      "ua": "Танці, активна гімнастика, інтенсивна розминка",
+      "pl": "Taniec, aktywna gimnastyka, intensywne rozciąganie",
+      "en": "Dance, gymnastics, stretching"
+    },
+    {
+      "ua": "Плавання у теплій воді",
+      "pl": "Pływanie w ciepłej wodzie",
+      "en": "Swimming (warm water)"
+    },
+    {
+      "ua": "Контактні види спорту, змагання (активізують енергію)",
+      "pl": "Sporty kontaktowe, rywalizacja (aktywują energię)",
+      "en": "Contact sports, competition"
+    },
+    {
+      "ua": "Помірні силові тренування",
+      "pl": "Umiarkowane treningi siłowe",
+      "en": "Moderate strength training"
+    }
+  ],
+  "avoid": [
+    {
+      "ua": "Тривалі статичні медитації сидячи (максимум 10 хвилин, щоб уникнути застою)",
+      "pl": "Długie statyczne medytacje siedzące (maksymalnie 10 minut)",
+      "en": "Long sitting meditations (max 10 min)"
+    },
+    {
+      "ua": "Занадто спокійна, розслаблююча йога (повільна Хатха, Інь-йога)",
+      "pl": "Zbyt spokojna, relaksacyjna joga (powolna Hatha, Joga Yin)",
+      "en": "Calm, relaxing yoga (easy Hatha)"
+    },
+    {
+      "ua": "Довгі та занадто повільні прогулянки",
+      "pl": "Długie i zbyt powolne spacery",
+      "en": "Long slow walks"
+    }
+  ],
+  "tips": [
+    {
+      "ua": "Займатися спортом уранці, щоб розпалити метаболізм на весь день",
+      "pl": "Ćwiczyć rano, aby podkręcić metabolizm na cały dzień",
+      "en": "Exercise morning to noon to ignite"
+    },
+    {
+      "ua": "Тривалість тренування 30-60 хвилин в енергійному темпі",
+      "pl": "Czas trwania treningu: 30-60 minut w energicznym tempie",
+      "en": "Training 30-60 min, vigorous pace"
+    },
+    {
+      "ua": "Після тренування: теплий чай (мед додавати після легкого охолодження)",
+      "pl": "Po treningu: ciepła herbata (miód dodać po lekkim przestygnięciu)",
+      "en": "After exercise: warm tea with honey (added when warm)"
+    }
+  ]
+},
+"stress_mind": {
+  "practices": [
+    {
+      "ua": "Спів мантри 'Ом', дихання лева (Сімхасана), Сурья-намаскар",
+      "pl": "Śpiewanie mantry 'Om', oddech lwa (Simhasana), Surya-namaskar",
+      "en": "Mantra: Om, Lion breath, Surya-namaskar"
+    },
+    {
+      "ua": "Розігріваючі дихальні практики: Капалабхаті, Бхастріка",
+      "pl": "Rozgrzewające praktyki oddechowe: Kapalabhati, Bhastrika",
+      "en": "Igniting breath: kapalabhati, bhastrika"
+    },
+    {
+      "ua": "Візуалізація тепла, сонячного світла та динамічного руху",
+      "pl": "Wizualizacja ciepła, światła słonecznego i dynamicznego ruchu",
+      "en": "Visualization of heat, light, movement"
+    },
+    {
+      "ua": "Асани в русі, танцевально-рухові практики",
+      "pl": "Asany w ruchu, praktyki taneczno-ruchowe",
+      "en": "Movement poses, dance practices"
+    }
+  ],
+  "avoid": [
+    {
+      "ua": "Тривалі сидячі медитації, пасивність та нерухомість",
+      "pl": "Długie medytacje siedzące, pasywność i brak ruchu",
+      "en": "Long sitting meditations, passivity"
+    },
+    {
+      "ua": "Денний сон, надмірне занурення у мрії та ілюзії",
+      "pl": "Sen w ciągu dnia, nadmierne uciekanie w marzenia (bujanie w obłokach)",
+      "en": "Daydreaming, excessive imagination"
+    },
+    {
+      "ua": "Одноманітні, рутинні та нудні завдання",
+      "pl": "Monotonne, rutynowe i nudne zadania",
+      "en": "Monotonous, boring tasks"
+    }
+  ]
+},
+"psychology": {
+  "practices": [
+    {
+      "ua": "Запуск нових проєктів, виклики, здорове суперництво",
+      "pl": "Uruchamianie nowych projektów, wyzwania, zdrowa rywalizacja",
+      "en": "New projects, challenges, competition"
+    },
+    {
+      "ua": "Цілеспрямована діяльність, активна праця на результат",
+      "pl": "Działanie ukierunkowane na cel, aktywna praca na rezultat",
+      "en": "Goal-directed activity, active work"
+    },
+    {
+      "ua": "Соціальна активність, живе спілкування, гумор",
+      "pl": "Aktywność społeczna, żywe kontakty, humor",
+      "en": "Social activity, conversations, humor"
+    },
+    {
+      "ua": "Подорожі, зміна оточення, нові яскраві враження",
+      "pl": "Podróże, zmiana otoczenia, nowe, żywe doświadczenia",
+      "en": "Travel, new experiences, changes"
+    }
+  ],
+  "affirmations": [
+    {
+      "ua": "Я енергійна, діяльна та сповнена ентузіазму",
+      "pl": "Jestem energiczna, aktywna i pełna entuzjazmu",
+      "en": "I am energetic, active, full of enthusiasm"
+    },
+    {
+      "ua": "Я розпалюю своє внутрішнє світло, тепло та силу",
+      "pl": "Rozpalam moje wewnętrzne światło, ciepło i siłę",
+      "en": "I ignite my inner light and strength"
+    },
+    {
+      "ua": "Я відкрита до змін, розвитку та трансформації",
+      "pl": "Jestem otwarta na zmiany, rozwój i transformację",
+      "en": "I am capable of change, growth, transformation"
+    },
+    {
+      "ua": "Моя воля сильна, я впевнено досягаю своїх цілей",
+      "pl": "Moja wola jest mocna, z pewnością osiągam swoje cele",
+      "en": "My will is strong, I achieve my goals"
+    }
+  ]
+},
+"water": {
+  "temperature": {
+    "ua": "Гаряча, кип'ячена або суттєво тепліша за температуру тіла",
+    "pl": "Gorąca, przegotowana lub wyraźnie cieplejsza od temperatury ciała",
+    "en": "Hot, boiled, or warmer than body"
+  },
+  "amount": {
+    "ua": "2-3 літри на день, пити невеликими ковтками",
+    "pl": "2-3 litry dziennie, pić małymi łykami",
+    "en": "2-3 liters daily, small sips"
+  },
+  "tips": [
+    {
+      "ua": "Пити теплу або гарячу воду з лимоном уранці натщесерце",
+      "pl": "Pić ciepłą lub gorącą wodę z cytryną rano na czczo",
+      "en": "Drink hot lemon water on empty stomach morning"
+    },
+    {
+      "ua": "Завжди обирати гарячу або теплу воду, ніколи не пити холодну",
+      "pl": "Zawsze wybierać gorącą lub ciepłą wodę, nigdy nie pić zimnej",
+      "en": "Always hot, never cold"
+    },
+    {
+      "ua": "Пити невеликими ковтками рівномірно протягом дня",
+      "pl": "Pić małymi łykami równomiernie przez cały dzień",
+      "en": "Sip throughout the day in small amounts"
+    },
+    {
+      "ua": "Корисно додавати у воду імбир або лимон (мед — тільки в теплу воду)",
+      "pl": "Warto dodawać do wody imbir lub cytrynę (miód — tylko do letniej wody)",
+      "en": "Add ginger, lemon, honey (when warm)"
+    },
+    {
+      "ua": "Не пити під час їди; дотримуватися паузи у 30 хвилин до та після прийому їжі",
+      "pl": "Nie pić w trakcie posiłku; zachować 30 minut przerwy przed i po jedzeniu",
+      "en": "Don't drink with meals, 30 min before/after"
+    }
+  ]
+},
+"fasting": {
+  "frequency": {
+    "ua": "1 раз на тиждень, з чітким внутрішнім наміром (наприклад, у понеділок)",
+    "pl": "1 raz w tygodniu, z wyraźną intencją (np. w poniedziałek)",
+    "en": "Once weekly, with intention (Monday)"
+  },
+  "type": {
+    "ua": "Голодування на гарячій воді з імбиром та лимоном",
+    "pl": "Post na gorącej wodzie z imbirem i cytryną",
+    "en": "Fasting on hot water with ginger and lemon"
+},
+  "tips": [
+    {
+      "ua": "Під час посту на воді пити її гарячою, можна з додаванням імбиру чи лимону",
+      "pl": "Podczas postu na wodzie pić ją na gorąco, można z dodatkiem imbiru lub cytryny",
+      "en": "Drink hot water with ginger, lemon"
+    },
+    {
+      "ua": "Тривалість посту становить 24-36 годин максимум",
+      "pl": "Czas trwania postu wynosi maksymalnie 24-36 godzin",
+      "en": "Fast 24-36 hours maximum"
+    },
+    {
+      "ua": "Дозволяється пряний чай зі спеціями без додавання молока та цукру",
+      "pl": "Dozwolona jest herbata korzenna z przyprawami bez mleka i cukru",
+      "en": "Can have spiced tea without milk"
+    },
+    {
+      "ua": "Виходити з посту слід за допомогою легкого гарячого овочевого супу",
+      "pl": "Wychodzić z postu należy za pomocą lekkiej, gorącej zupy warzywnej",
+      "en": "Break fast with light warm soup"
+    },
+    {
+      "ua": "Під час посту критично важливо зберігати внутрішню ментальну ясність",
+      "pl": "Podczas postu kluczowe jest utrzymanie wewnętrznej jasności umysłu",
+      "en": "Mental clarity important during fasting"
+    }
+  ]
+},
+"dinacharya": {
+  "morning": [
+    {
+      "ua": "5:30 — прокидатися природно, бажано без різкого будильника",
+      "pl": "5:30 — budzić się naturalnie, najlepiej bez głośnego budzika",
+      "en": "5:30 - wake naturally, no alarm"
+    },
+    {
+      "ua": "Склянка гарячої/теплої води з лимоном натщесерце",
+      "pl": "Szklanka gorącej/ciepłej wody z cytryną na czczo",
+      "en": "Glass hot water with lemon on empty stomach"
+    },
+    {
+      "ua": "Очищення язика шкребком, чищення зубів",
+      "pl": "Oczyszczanie języka skrobakiem, mycie zębów",
+      "en": "Tongue scraping, teeth brushing"
+    },
+    {
+      "ua": "Сухий масаж або масаж тіла теплою кунжутною олією (5-10 хвилин)",
+      "pl": "Suchy masaż lub masaż ciała ciepłym olejem sezamowym (5-10 minut)",
+      "en": "Body massage sesame oil 5-10 min"
+    },
+    {
+      "ua": "Прийняття теплого або гарячого душу",
+      "pl": "Ciepły lub gorący prysznic",
+      "en": "Hot water shower"
+    },
+    {
+      "ua": "Динамічна йога, пранаяма (15-30 хвилин)",
+      "pl": "Dynamiczna joga, praktyki oddechowe (15-30 minut)",
+      "en": "Yoga, breathing practices (15-30 min)"
+    },
+    {
+      "ua": "Легкий гарячий сніданок у проміжку 6:30 - 7:30",
+      "pl": "Lekkie, ciepłe śniadanie w godzinach 6:30 - 7:30",
+      "en": "Warm breakfast 6:30-7:30"
+    }
+  ],
+  "evening": [
+    {
+      "ua": "Обід — найпізніше до 13:30 (пік травного вогню)",
+      "pl": "Obiad — najpóźniej do 13:30 (szczyt ognia trawiennego)",
+      "en": "Lunch by latest 13:30"
+    },
+    {
+      "ua": "Коротка прогулянка після обіду протягом 5-10 хвилин для покращення травлення",
+      "pl": "Krótki spacer po obiedzie przez 5-10 minut dla wsparcia trawienia",
+      "en": "Walk after lunch 5-10 minutes"
+    },
+    {
+      "ua": "Вечеря легка та рання (18:00 - 19:00)",
+      "pl": "Kolacja lekka i wczesna (18:00 - 19:00)",
+      "en": "Light early dinner (18:00-19:00)"
+    },
+    {
+      "ua": "Не вживати нічого важкого безпосередньо перед сном",
+      "pl": "Nie jeść nic ciężkiego bezpośrednio przed snem",
+      "en": "Don't eat heavy food before bed"
+    },
+    {
+      "ua": "Чищення зубів, вечірня медитація та розслаблюючий догляд",
+      "pl": "Mycie zębów, wieczorna medytacja i rytuał pielęgnacyjny",
+      "en": "Teeth cleaning, evening meditation"
+    },
+    {
+      "ua": "Масаж стоп теплою кунжутною олією для заземлення",
+      "pl": "Masaż stóp ciepłym olejem sezamowym dla uziemienia",
+      "en": "Foot massage with sesame oil"
+    },
+    {
+      "ua": "Теплий трав'яний чай до 21:00, відхід до сну до 21:30",
+      "pl": "Ciepła herbata ziołowa do 21:00, pójście spać do 21:30",
+      "en": "Warm tea by 21:00, bed by 21:30"
+    }
+  ]
+},
+"seasons": {
+  "autumn_winter": {
+    "focus": {
+      "ua": "Максимальне розпалювання аґні, вживання гарячих страв",
+      "pl": "Maksymalne rozpalanie agni, spożywanie ciepłych potraw",
+      "en": "Maximum agni ignition, warm foods"
+    },
+    "foods": [
+      {
+        "ua": "Гарячі каші, супи на основі підсушуючих овочів та бобових",
+        "pl": "Gorące kasze, zupy z suszących warzyw i roślin strączkowych",
+        "en": "Hot porridges, soups with drying vegetables and legumes"
+      },
+      {
+        "ua": "Гарячі напої зі зігріваючими спеціями щодня",
+        "pl": "Gorące napoje z rozgrzewającymi przyprawami codziennie",
+        "en": "Hot drinks with warming spices daily"
+      },
+      {
+        "ua": "Використання лимонного соку, трав'яних чаїв",
+        "pl": "Sok z cytryny, napary ziołowe",
+        "en": "Lemon juice, herbal teas"
+      },
+      {
+        "ua": "Імбир, часник, цибуля — у помірній кількості щодня",
+        "pl": "Imbir, czosnek, cebula — w umiarkowanych ilościach",
+        "en": "Ginger, garlic, onion — in moderation daily"
+      }
+    ],
+    "oils": {
+      "ua": "Кунжутна або гірчична олія — для щоденного зігріваючого масажу",
+      "pl": "Olej sezamowy lub musztardowy — do codziennego rozgrzewającego masażu",
+      "en": "Sesame or mustard oil — for daily warming massage"
+    },
+    "teas": {
+      "ua": "Пряний чай, імбирний чай, трав'яний чай для Капхи",
+      "pl": "Herbata korzenna, imbirowa, ziołowa dla Kaphy",
+      "en": "Spiced tea, ginger tea, Kapha herbal tea"
+    }
+  },
+  "spring_summer": {
+    "focus": {
+      "ua": "Делікатне очищення, акцент на легкості та помірному балансі",
+      "pl": "Delikatne oczyszczanie, nacisk na lekkość i umiarkowane chłodzenie",
+      "en": "Gentle cleansing, lightness and moderate balance"
+    },
+    "foods": [
+      {
+        "ua": "Гірка зелень, свіжі сезонні овочі кімнатної температури",
+        "pl": "Gorzkie zielone liście, świeże sezonowe warzywa w temperaturze pokojowej",
+        "en": "Bitter greens, fresh seasonal vegetables at room temperature"
+      },
+      {
+        "ua": "Менше гострої цибулі та часнику, м'які спеції (карі, коріандр)",
+        "pl": "Mniej ostrej cebuli i czosnku, łagodne przyprawy (curry, kolendra)",
+        "en": "Less onion and garlic, mild spices (curry, coriander)"
+      },
+      {
+        "ua": "Більше легких овочевих супів та відварів",
+        "pl": "Więcej lekkich zup warzywnych i wywarów",
+        "en": "More light vegetable soups and broths"
+      },
+      {
+        "ua": "Легкі прохолодні напої з лимоном та м'ятою",
+        "pl": "Lekkie chłodne napoje z cytryną i miętą",
+        "en": "Light cool drinks with lemon and mint"
+      }
+    ],
+    "oils": {
+      "ua": "Кокосова олія (з урахуванням балансу), лавандова олія для масажу",
+      "pl": "Olej kokosowy (z umiarem), olejek lawendowy do masażu",
+      "en": "Coconut oil (in moderation), lavender oil for massage"
+    },
+    "teas": {
+      "ua": "Трав'яні чаї з кропивою, м'ятою, легкі прохолодні настої",
+      "pl": "Herbaty ziołowe z pokrzywą, miętą, lekkie chłodne napary",
+      "en": "Herbal teas with nettle, mint, light cool infusions"
+    }
+  }
+}
+}
